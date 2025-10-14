@@ -2,31 +2,41 @@
     {
         "fecha_inicio": "2025-10-13",
         "fecha_fin": "2025-10-15",
-        "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
+        "fondo_color": "linear-gradient(90deg, #027DB2 0%, #5FAACA 100%)",
         "cupon": {
             "es": "VIERNES13",
             "en": "FRIDAY13TH",
             "fr": "FRIDAY13TH"
         },
-        "texto_html": {
+        "promo_html": {
             "es": "<div>💀 ¡Descuento embrujado! 🎃 Usa <b>VIERNES13</b> 👉 <span style='text-decoration: underline;'>¡CLICK AQUÍ!</span></div>",
             "en": "<div>👻 Spooky deal! 🎃 Use <b>FRIDAY13</b> 👉 <span style='text-decoration: underline;'>CLICK HERE!</span></div>",
-            "fr": "<div>👻 Offre terrifiante 😱 <b>VENDREDI13</b> 👉 <span style='text-decoration: underline;'>CLIQUE ICI!</span></div>"
+            "fr": "<div>👻 Offre terrifiante 😱 <b>FRIDAY13</b> 👉 <span style='text-decoration: underline;'>CLIQUE ICI!</span></div>"
+        },
+        "promo_aplicada_html":{
+            "es": "<div>💀 ¡Descuento embrujado <b>VIERNES13</b> ya aplicado! 🎃</div>",
+            "en": "<div>👻 Spooky deal applied <b>FRIDAY13</b>! 🎃></div>",
+            "fr": "<div>👻 Offre terrifiante <b>FRIDAY13</b> 😱</div>"
         }
     },
     {
         "fecha_inicio": "2025-10-16",
         "fecha_fin": "2025-10-31",
-        "fondo_color": "linear-gradient(90deg, #027DB2 0%, #5FAACA 100%)",
+        "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
         "cupon": {
             "es": "FLASH20",
             "en": "FLASH20",
             "fr": "FLASH20"
         },
-        "texto_html": {
+        "promo_html": {
             "es": "<div>🌴 Descuento <b style='color:red'>FLASH20</b> 💥 <b>¡20% OFF!</b> 👉 <span style='text-decoration: underline;'>CLICK AQUÍ</span></div>",
             "en": "<div>🌴 Get 20% OFF now 💥 Code <b style='color:red'>FLASH20</b> 👉 <span style='text-decoration: underline;'>CLICK HERE</span></div>",
             "fr": "<div>🌴 Promo -20% 💥 Utilise <b style='color:red'>FLASH20</b> 👉 <span style='text-decoration: underline;'>CLIQUE ICI</span></div>"
+        },
+        "promo_aplicada_html":{
+            "es": "<div>🌴 Descuento <b style='color:red'>FLASH20</b> aplicado💥</div>",
+            "en": "<div>🌴 20% OFF applied <b style='color:red'>FLASH20</b> 💥</div>",
+            "fr": "<div>🌴 Promo -20% <b style='color:red'>FLASH20</b> 💥</div>"
         }
     }
 ]

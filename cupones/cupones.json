@@ -14,9 +14,9 @@
             "fr": "<div>👻 Offre terrifiante 😱 <b>FRIDAY13</b> 👉 <span style='text-decoration: underline;'>CLIQUE ICI!</span></div>"
         },
         "promo_aplicada_html":{
-            "es": "<div>💀 ¡Descuento embrujado <b>VIERNES13</b> ya aplicado! 🎃</div>",
-            "en": "<div>👻 Spooky deal applied <b>FRIDAY13</b>! 🎃</div>",
-            "fr": "<div>👻 Offre terrifiante <b>FRIDAY13</b> 😱</div>"
+            "es": "<div>👻 ¡Listo! <b>Descuento del 13%</b> aplicado 😈</div>",
+            "en": "<div>👻 Spooky deal! <b>13% OFF</b> confirmed 😈</div>",
+            "fr": "<div>👻 Offre terrifiante! <b>-13% confirmé</b> 😈</div>"
         }
     },
     {
@@ -29,14 +29,14 @@
             "fr": "FLASH20"
         },
         "promo_html": {
-            "es": "<div>🌴 Descuento <b style='color:red'>FLASH20</b> 💥 <b>¡20% OFF!</b> 👉 <span style='text-decoration: underline;'>CLICK AQUÍ</span></div>",
-            "en": "<div>🌴 Get 20% OFF now 💥 Code <b style='color:red'>FLASH20</b> 👉 <span style='text-decoration: underline;'>CLICK HERE</span></div>",
-            "fr": "<div>🌴 Promo -20% 💥 Utilise <b style='color:red'>FLASH20</b> 👉 <span style='text-decoration: underline;'>CLIQUE ICI</span></div>"
+            "es": "<div>🌴 Descuento <b style='color:#E70E0E'>FLASH20</b> 💥 <b>¡20% OFF!</b> 👉 <span style='text-decoration: underline;'>CLICK AQUÍ</span></div>",
+            "en": "<div>🌴 Get 20% OFF now 💥 Code <b style='color:#E70E0E'>FLASH20</b> 👉 <span style='text-decoration: underline;'>CLICK HERE</span></div>",
+            "fr": "<div>🌴 Promo -20% 💥 Utilise <b style='color:#E70E0E'>FLASH20</b> 👉 <span style='text-decoration: underline;'>CLIQUE ICI</span></div>"
         },
         "promo_aplicada_html":{
-            "es": "<div>🌴 Descuento <b style='color:red'>FLASH20</b> aplicado💥</div>",
-            "en": "<div>🌴 20% OFF applied <b style='color:red'>FLASH20</b> 💥</div>",
-            "fr": "<div>🌴 Promo -20% <b style='color:red'>FLASH20</b> 💥</div>"
+            "es": "<div>🌴 ¡<b style='color:#E70E0E'>Descuento del 20%</b> aplicado con éxito! ⚡</div>",
+            "en": "<div>⚡ Discount applied! Enjoy your <b style='color:#E70E0E'>20% OFF</b> 😎</div>",
+            "fr": "<div>⚡ Réduction appliquée! <b style='color:#E70E0E'>Profite de ton -20%</b> 😎</div>"
         }
     }
 ]

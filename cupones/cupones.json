@@ -1,0 +1,33 @@
+[
+    {
+        "fecha_inicio": "2025-10-13",
+        "fecha_fin": "2025-10-15",
+        "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
+        "cupon": {
+            "es": "VIERNES13",
+            "en": "FRIDAY13TH",
+            "fr": "FRIDAY13TH"
+        },
+        "texto_html": {
+            "es": "<div>Hasta 13% OFF en tours y traslados. Usa el cupón VIERNES13.<div>",
+            "en": "<div>Up to 13% OFF on tours and transfers. Use the coupon FRIDAY13TH.</div>",
+            "fr": "<div>Jusqu’à 13% de réduction sur les circuits et les transferts. Utilisez le coupon FRIDAY13TH.</div>"
+        }
+    },
+    {
+        "fecha_inicio": "2025-10-16",
+        "fecha_fin": "2025-10-31",
+        "fondo_color": "linear-gradient(90deg, #027DB2 0%, #5FAACA 100%)",
+        "cupon": {
+            "es": "FLASH20",
+            "en": "FLASH20",
+            "fr": "FLASH20"
+        },
+        "texto_html": {
+            "es": "<div>Hasta 20% OFF en tours y traslados. Usa el cupón FLASH20.<div>",
+            "en": "<div>Up to 20% OFF on tours and transfers. Use the coupon FLASH20.</div>",
+            "fr": "<div>Jusqu’à 20% de réduction sur les circuits et les transferts. Utilisez le coupon FLASH20.</div>"
+        }
+    }
+]
+	

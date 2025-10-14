@@ -1,27 +1,8 @@
 [
+    
     {
-        "fecha_inicio": "2025-10-12",
-        "fecha_fin": "2025-10-13",
-        "fondo_color": "linear-gradient(90deg, #027DB2 0%, #5FAACA 100%)",
-        "cupon": {
-            "es": "VIERNES13",
-            "en": "FRIDAY13TH",
-            "fr": "FRIDAY13TH"
-        },
-        "promo_html": {
-            "es": "<div>💀 ¡Descuento embrujado! 🎃 Usa <b>VIERNES13</b> 👉 <span style='text-decoration: underline;'>¡CLICK AQUÍ!</span></div>",
-            "en": "<div>👻 Spooky deal! 🎃 Use <b>FRIDAY13</b> 👉 <span style='text-decoration: underline;'>CLICK HERE!</span></div>",
-            "fr": "<div>👻 Offre terrifiante 😱 <b>FRIDAY13</b> 👉 <span style='text-decoration: underline;'>CLIQUE ICI!</span></div>"
-        },
-        "promo_aplicada_html":{
-            "es": "<div>👻 ¡Listo! <b>Descuento del 13%</b> aplicado 😈</div>",
-            "en": "<div>👻 Spooky deal! <b>13% OFF</b> confirmed 😈</div>",
-            "fr": "<div>👻 Offre terrifiante! <b>-13% confirmé</b> 😈</div>"
-        }
-    },
-    {
-        "fecha_inicio": "2025-10-14",
-        "fecha_fin": "2025-10-31",
+        "fecha_inicio": "2025-10-13",
+        "fecha_fin": "2025-10-15",
         "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
         "cupon": {
             "es": "FLASH20",
@@ -37,6 +18,26 @@
             "es": "<div>🌴 ¡<b style='color:#E70E0E'>Descuento del 20%</b> aplicado con éxito! ⚡</div>",
             "en": "<div>⚡ Discount applied! Enjoy your <b style='color:#E70E0E'>20% OFF</b> 😎</div>",
             "fr": "<div>⚡ Réduction appliquée! <b style='color:#E70E0E'>Profite de ton -20%</b> 😎</div>"
+        }
+    },
+	{
+        "fecha_inicio": "2025-10-16",
+        "fecha_fin": "2025-10-31",
+        "fondo_color": "linear-gradient(90deg, #027DB2 0%, #5FAACA 100%)",
+        "cupon": {
+            "es": "VIERNES13",
+            "en": "FRIDAY13TH",
+            "fr": "FRIDAY13TH"
+        },
+        "promo_html": {
+            "es": "<div>💀 ¡Descuento embrujado! 🎃 Usa <b>VIERNES13</b> 👉 <span style='text-decoration: underline;'>¡CLICK AQUÍ!</span></div>",
+            "en": "<div>👻 Spooky deal! 🎃 Use <b>FRIDAY13</b> 👉 <span style='text-decoration: underline;'>CLICK HERE!</span></div>",
+            "fr": "<div>👻 Offre terrifiante 😱 <b>FRIDAY13</b> 👉 <span style='text-decoration: underline;'>CLIQUE ICI!</span></div>"
+        },
+        "promo_aplicada_html":{
+            "es": "<div>👻 ¡Listo! <b>Descuento del 13%</b> aplicado 😈</div>",
+            "en": "<div>👻 Spooky deal! <b>13% OFF</b> confirmed 😈</div>",
+            "fr": "<div>👻 Offre terrifiante! <b>-13% confirmé</b> 😈</div>"
         }
     }
 ]

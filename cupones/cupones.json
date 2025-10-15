@@ -1,5 +1,4 @@
 [
-    
     {
         "fecha_inicio": "2025-10-13",
         "fecha_fin": "2025-10-15",
@@ -13,6 +12,11 @@
             "es": "<div>🌴 Descuento <b style='color:#000'>FLASH20</b> 💥 <b>¡20% OFF!</b> 👉 <span style='text-decoration: underline;'>CLICK AQUÍ</span></div>",
             "en": "<div>🌴 Get 20% OFF now 💥 Code <b style='color:#000'>FLASH20</b> 👉 <span style='text-decoration: underline;'>CLICK HERE</span></div>",
             "fr": "<div>🌴 Promo -20% 💥 Utilise <b style='color:#000'>FLASH20</b> 👉 <span style='text-decoration: underline;'>CLIQUE ICI</span></div>"
+        },
+        "promo_html_home":{
+            "es": "<div>💀 ¡Descuento embrujado! 🎃 Usa <b>FLASH20</b> en Actividades</div>",
+            "en": "<div>👻 Spooky deal! 🎃 Use <b>FLASH20</b> in Activities</div>",
+            "fr": "<div>👻 Offre terrifiante 😱 <b>FLASH20</b> dans vos Activités</div>"
         },
         "promo_aplicada_html":{
             "es": "<div>🌴 ¡<b style='color:#000'>Descuento del 20%</b> aplicado con éxito! ⚡</div>",
@@ -31,8 +35,13 @@
         },
         "promo_html": {
             "es": "<div>💀 ¡Descuento embrujado! 🎃 Usa <b>VIERNES13</b> 👉 <span style='text-decoration: underline;'>¡CLICK AQUÍ!</span></div>",
-            "en": "<div>👻 Spooky deal! 🎃 Use <b>FRIDAY13</b> 👉 <span style='text-decoration: underline;'>CLICK HERE!</span></div>",
-            "fr": "<div>👻 Offre terrifiante 😱 <b>FRIDAY13</b> 👉 <span style='text-decoration: underline;'>CLIQUE ICI!</span></div>"
+            "en": "<div>👻 Spooky deal! 🎃 Use <b>FRIDAY13TH</b> 👉 <span style='text-decoration: underline;'>CLICK HERE!</span></div>",
+            "fr": "<div>👻 Offre terrifiante 😱 <b>FRIDAY13TH</b> 👉 <span style='text-decoration: underline;'>CLIQUE ICI!</span></div>"
+        },
+        "promo_html_home":{
+            "es": "<div>💀 ¡Descuento embrujado! 🎃 Usa <b>VIERNES13</b> en Actividades</div>",
+            "en": "<div>👻 Spooky deal! 🎃 Use <b>FRIDAY13TH</b> in Activities</div>",
+            "fr": "<div>👻 Offre terrifiante 😱 <b>FRIDAY13TH</b> dans vos Activités</div>"
         },
         "promo_aplicada_html":{
             "es": "<div>👻 ¡Listo! <b>Descuento del 13%</b> aplicado 😈</div>",

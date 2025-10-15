@@ -10,14 +10,14 @@
             "fr": "FLASH20"
         },
         "promo_html": {
-            "es": "<div>🌴 Descuento <b style='color:#E70E0E'>FLASH20</b> 💥 <b>¡20% OFF!</b> 👉 <span style='text-decoration: underline;'>CLICK AQUÍ</span></div>",
-            "en": "<div>🌴 Get 20% OFF now 💥 Code <b style='color:#E70E0E'>FLASH20</b> 👉 <span style='text-decoration: underline;'>CLICK HERE</span></div>",
-            "fr": "<div>🌴 Promo -20% 💥 Utilise <b style='color:#E70E0E'>FLASH20</b> 👉 <span style='text-decoration: underline;'>CLIQUE ICI</span></div>"
+            "es": "<div>🌴 Descuento <b style='color:#000'>FLASH20</b> 💥 <b>¡20% OFF!</b> 👉 <span style='text-decoration: underline;'>CLICK AQUÍ</span></div>",
+            "en": "<div>🌴 Get 20% OFF now 💥 Code <b style='color:#000'>FLASH20</b> 👉 <span style='text-decoration: underline;'>CLICK HERE</span></div>",
+            "fr": "<div>🌴 Promo -20% 💥 Utilise <b style='color:#000'>FLASH20</b> 👉 <span style='text-decoration: underline;'>CLIQUE ICI</span></div>"
         },
         "promo_aplicada_html":{
-            "es": "<div>🌴 ¡<b style='color:#E70E0E'>Descuento del 20%</b> aplicado con éxito! ⚡</div>",
-            "en": "<div>⚡ Discount applied! Enjoy your <b style='color:#E70E0E'>20% OFF</b> 😎</div>",
-            "fr": "<div>⚡ Réduction appliquée! <b style='color:#E70E0E'>Profite de ton -20%</b> 😎</div>"
+            "es": "<div>🌴 ¡<b style='color:#000'>Descuento del 20%</b> aplicado con éxito! ⚡</div>",
+            "en": "<div>⚡ Discount applied! Enjoy your <b style='color:#000'>20% OFF</b> 😎</div>",
+            "fr": "<div>⚡ Réduction appliquée! <b style='color:#000'>Profite de ton -20%</b> 😎</div>"
         }
     },
 	{

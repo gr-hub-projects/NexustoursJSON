@@ -39,9 +39,9 @@
             "fr": "<div>👻 Offre terrifiante 😱 <b>FRIDAY13TH</b> 👉 <span style='text-decoration: underline;'>CLIQUE ICI!</span></div>"
         },
         "promo_html_home":{
-            "es": "<div>💀 ¡Descuento embrujado! 🎃 Usa <b>VIERNES13</b> en Actividades</div>",
-            "en": "<div>👻 Spooky deal! 🎃 Use <b>FRIDAY13TH</b> in Activities</div>",
-            "fr": "<div>👻 Offre terrifiante 😱 <b>FRIDAY13TH</b> dans vos Activités</div>"
+            "es": "<div>💀 ¡Descuento del 13% en actividades! 🎃 <b>VIERNES13</b></div>",
+            "en": "<div>👻 Spooky deal! 🎃 Get 13% off things to do <b>FRIDAY13TH</b></div>",
+            "fr": "<div>👻 Offre terrifiante 😱 <b>FRIDAY13TH</b> Obtenez 13% de réduction sur les activités</div>"
         },
         "promo_aplicada_html":{
             "es": "<div>👻 ¡Listo! <b>Descuento del 13%</b> aplicado 😈</div>",

@@ -24,14 +24,9 @@
             "fr": "<div>👻 Offre terrifiante! <b>-13% confirmé</b> 😈</div>"
         },
         "promo_html_reserva":{
-            "es": "<div>👻 ¡No olvides <b>VIERNES13</b> en el siguiente paso! +13% 🎃</div>",
-            "en": "<div>👻 Don’t miss <b>FRIDAY13TH</b> next step! +13% 🎃</div>",
-            "fr": "<div>👻 N’oublie pas <b>FRIDAY13TH</b> à l’étape suivante ! 🎃</div>"
-        },
-        "promo_html_reserva_aplicada":{
-            "es": "<div>✅ ¡Cupón aplicado! Continúa para ver tu descuento 👻</div>",
-            "en": "<div>✅ Coupon applied! Keep going to see your discount 👻</div>",
-            "fr": "<div>✅ Coupon appliqué ! Continue pour voir ta remise 👻</div>"
+            "es": "<div>🎃 El cupón se aplica en el siguiente paso 👻</div>",
+            "en": "<div>🎃 Coupon applies in the next step 👻</div>",
+            "fr": "<div>🎃 Le coupon s’applique à l’étape suivante 👻</div>"
         },
         "promo_html_reserva2":{
             "es": "<div>🎃 ¡Tu descuento te acecha! Usa <b>VIERNES13</b> y obtén +13% 👻</div>",
@@ -40,4 +35,3 @@
         }
     }
 ]
-	

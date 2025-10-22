@@ -74,6 +74,44 @@
                 "fr": "<div>🎃 Ton rabais te hante ! Utilise <b>FRIDAY13TH</b> pour +13% 👻</div>"
             }
         }
+    ],
+	"planet":
+    [
+        {
+            "fecha_inicio": "2025-10-16",
+            "fecha_fin": "2025-10-31",
+            "fondo_color": "linear-gradient(269deg, #2b0e32 0%, #4b1d50 50%, #7a39a3 100%)",
+            "cupon": {
+                "es": "VIERNES13",
+                "en": "FRIDAY13TH",
+                "fr": "FRIDAY13TH"
+            },
+            "promo_html_login": {
+                "es": "<div>🎃 ¡Haz clic y reclama tu +10%! <b>Hasta -30%</b> 👻</div>",
+                "en": "<div>🎃 Click & claim your +10%! <b>Up to 30%</b> 👻</div>",
+                "fr": "<div>🎃 Clique & réclame ton +10%! <b>Jusqu’à -30%</b> 👻</div>"
+            },
+            "promo_html_servicio": {
+                "es": "<div>💀 ¡Descuento embrujado! 🎃 Usa <b>VIERNES13</b> 👉 <span style='text-decoration: underline;'>¡CLICK AQUÍ!</span></div>",
+                "en": "<div>👻 Spooky deal! 🎃 Use <b>FRIDAY13TH</b> 👉 <span style='text-decoration: underline;'>CLICK HERE!</span></div>",
+                "fr": "<div>👻 Offre terrifiante 😱 <b>FRIDAY13TH</b> 👉 <span style='text-decoration: underline;'>CLIQUE ICI!</span></div>"
+            },
+            "promo_html_servicio_aplicada":{
+                "es": "<div>👻 ¡Listo! <b>Descuento del 13%</b> aplicado 😈</div>",
+                "en": "<div>👻 Spooky deal! <b>13% OFF</b> confirmed 😈</div>",
+                "fr": "<div>👻 Offre terrifiante! <b>-13% confirmé</b> 😈</div>"
+            },
+            "promo_html_reserva":{
+                "es": "<div>🎃 El cupón se aplica en el siguiente paso 👻</div>",
+                "en": "<div>🎃 Coupon applies in the next step 👻</div>",
+                "fr": "<div>🎃 Le coupon s’applique à l’étape suivante 👻</div>"
+            },
+            "promo_html_reserva2":{
+                "es": "<div>🎃 ¡Tu descuento te acecha! Usa <b>VIERNES13</b> y obtén +13% 👻</div>",
+                "en": "<div>🎃 Your discount haunts you! Use <b>FRIDAY13TH</b> for +13% 👻</div>",
+                "fr": "<div>🎃 Ton rabais te hante ! Utilise <b>FRIDAY13TH</b> pour +13% 👻</div>"
+            }
+        }
     ]
 }
 	

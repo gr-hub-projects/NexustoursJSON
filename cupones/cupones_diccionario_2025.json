@@ -11,9 +11,9 @@
                 "fr": "FRIDAY13TH"
             },
             "promo_html_login": {
-                "es": "<div>🎃 ¡Haz clic y reclama tu +5%! <b>Hasta -25%</b> 👻</div>",
-                "en": "<div>🎃 Click & claim your +5%! <b>Up to 25%</b> 👻</div>",
-                "fr": "<div>🎃 Clique & réclame ton +5%! <b>Jusqu’à -25%</b> 👻</div>"
+                "es": "<div>🎃 ¡Registrate y reclama tu +5%! <b>Hasta -25%</b> 👻</div>",
+                "en": "<div>🎃 Register & claim your +5%! <b>Up to 25%</b> 👻</div>",
+                "fr": "<div>🎃 Registre & réclame ton +5%! <b>Jusqu’à -25%</b> 👻</div>"
             },
             "promo_html_servicio": {
                 "es": "<div>💀 ¡Descuento embrujado! 🎃 Usa <b>VIERNES13</b> 👉 <span style='text-decoration: underline;'>¡CLICK AQUÍ!</span></div>",
@@ -49,9 +49,9 @@
                 "fr": "FRIDAY13TH"
             },
             "promo_html_login": {
-                "es": "<div>🎃 ¡Haz clic y reclama tu +5%! <b>Hasta -25%</b> 👻</div>",
-                "en": "<div>🎃 Click & claim your +5%! <b>Up to 25%</b> 👻</div>",
-                "fr": "<div>🎃 Clique & réclame ton +5%! <b>Jusqu’à -25%</b> 👻</div>"
+                "es": "<div>🎃 ¡Registrate y reclama tu +5%! <b>Hasta -25%</b> 👻</div>",
+                "en": "<div>🎃 Register & claim your +5%! <b>Up to 25%</b> 👻</div>",
+                "fr": "<div>🎃 Registre & réclame ton +5%! <b>Jusqu’à -25%</b> 👻</div>"
             },
             "promo_html_servicio": {
                 "es": "<div>💀 ¡Descuento embrujado! 🎃 Usa <b>VIERNES13</b> 👉 <span style='text-decoration: underline;'>¡CLICK AQUÍ!</span></div>",
@@ -87,9 +87,9 @@
                 "fr": "FRIDAY13TH"
             },
             "promo_html_login": {
-                "es": "<div>🎃 ¡Haz clic y reclama tu +10%! <b>Hasta -30%</b> 👻</div>",
-                "en": "<div>🎃 Click & claim your +10%! <b>Up to 30%</b> 👻</div>",
-                "fr": "<div>🎃 Clique & réclame ton +10%! <b>Jusqu’à -30%</b> 👻</div>"
+                "es": "<div>🎃 ¡Registrate y reclama tu +10%! <b>Hasta -30%</b> 👻</div>",
+                "en": "<div>🎃 Register & claim your +10%! <b>Up to 30%</b> 👻</div>",
+                "fr": "<div>🎃 Registre & réclame ton +10%! <b>Jusqu’à -30%</b> 👻</div>"
             },
             "promo_html_servicio": {
                 "es": "<div>💀 ¡Descuento embrujado! 🎃 Usa <b>VIERNES13</b> 👉 <span style='text-decoration: underline;'>¡CLICK AQUÍ!</span></div>",

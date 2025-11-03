@@ -2,114 +2,114 @@
     "default": 
     [
         {
-            "fecha_inicio": "2025-10-16",
-            "fecha_fin": "2025-11-02",
+            "fecha_inicio": "2025-11-03",
+            "fecha_fin": "2025-11-09",
             "fondo_color": "linear-gradient(90deg, #027DB2 0%, #5FAACA 100%)",
             "cupon": {
-                "es": "VIERNES13",
-                "en": "FRIDAY13TH",
-                "fr": "FRIDAY13TH"
+                "es": "NOV5",
+                "en": "NOV5",
+                "fr": "NOV5"
             },
             "promo_html_login": {
-                "es": "<div>🎃 ¡Registrate y reclama tu +5%! <b>Hasta -25%</b> 👻</div>",
-                "en": "<div>🎃 Register & claim your +5%! <b>Up to 25%</b> 👻</div>",
-                "fr": "<div>🎃 Registre & réclame ton +5%! <b>Jusqu’à -25%</b> 👻</div>"
+                "es": "<div>Regístrate y obtén un <b>5%</b> de descuento adicional</div>",
+                "en": "<div>Sign up and get an extra <b>5% off</b> your purchase</div>",
+                "fr": "<div>Inscrivez-vous et obtenez <b>5 %</b> de réduction en plus</div>"
             },
             "promo_html_servicio": {
-                "es": "<div>💀 ¡Descuento embrujado! 🎃 Usa <b>VIERNES13</b> 👉 <span style='text-decoration: underline;'>¡CLICK AQUÍ!</span></div>",
-                "en": "<div>👻 Spooky deal! 🎃 Use <b>FRIDAY13TH</b> 👉 <span style='text-decoration: underline;'>CLICK HERE!</span></div>",
-                "fr": "<div>👻 Offre terrifiante 😱 <b>FRIDAY13TH</b> 👉 <span style='text-decoration: underline;'>CLIQUE ICI!</span></div>"
+                "es": "<div>¡Activa +5% con el cupón <b>NOV5</b> dando <span style='text-decoration: underline;'>clic aquí!</span></div>",
+                "en": "<div><span style='text-decoration: underline;'>Click here</span> to activate +5% with code <b>NOV5</b>!</div>",
+                "fr": "<div>Activez +5 % avec le code <b>NOV5</b> en <span style='text-decoration: underline;'>cliquant ici!</span></div>"
             },
             "promo_html_servicio_aplicada":{
-                "es": "<div>👻 ¡Listo! <b>Descuento del 13%</b> aplicado 😈</div>",
-                "en": "<div>👻 Spooky deal! <b>13% OFF</b> confirmed 😈</div>",
-                "fr": "<div>👻 Offre terrifiante! <b>-13% confirmé</b> 😈</div>"
+                "es": "<div>Code <b>¡Código <b>NOV5 aplicado!</b> Disfruta de un 5 % de dto. adicional</div>",
+                "en": "<div>Code <b>NOV5 applied!</b> Enjoy an extra 5% discount</div>",
+                "fr": "<div>Code <b>NOV5 appliqué !</b> Profitez de +5 % de remise</div>"
             },
             "promo_html_reserva":{
-                "es": "<div>🎃 El cupón se aplica en el siguiente paso 👻</div>",
-                "en": "<div>🎃 Coupon applies in the next step 👻</div>",
-                "fr": "<div>🎃 Le coupon s’applique à l’étape suivante 👻</div>"
+                "es": "<div>Aplica tu +5% con el cupón <b>NOV5</b> en el siguiente paso</div>",
+                "en": "<div>Apply your +5% with code <b>NOV5</b> in the next step</div>",
+                "fr": "<div>Le code <b>NOV5</b> s’applique à l’étape suivante</div>"
             },
             "promo_html_reserva2":{
-                "es": "<div>🎃 ¡Tu descuento te acecha! Usa <b>VIERNES13</b> y obtén +13% 👻</div>",
-                "en": "<div>🎃 Your discount haunts you! Use <b>FRIDAY13TH</b> for +13% 👻</div>",
-                "fr": "<div>🎃 Ton rabais te hante ! Utilise <b>FRIDAY13TH</b> pour +13% 👻</div>"
+                "es": "<div>¡Última oportunidad! Usa <b>NOV5</b> y gana +5% de descuento</div>",
+                "en": "<div>Last chance! Use <b>NOV5</b> for an extra +5% off</div>",
+                "fr": "<div>Dernière chance ! Utilisez <b>NOV5</b> et gagnez +5 %</div>"
             }
         }
     ],
     "nexustours":
     [
         {
-            "fecha_inicio": "2025-10-16",
-            "fecha_fin": "2025-11-02",
+            "fecha_inicio": "2025-11-03",
+            "fecha_fin": "2025-11-09",
             "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
             "cupon": {
-                "es": "VIERNES13",
-                "en": "FRIDAY13TH",
-                "fr": "FRIDAY13TH"
+                "es": "NOV5",
+                "en": "NOV5",
+                "fr": "NOV5"
             },
             "promo_html_login": {
-                "es": "<div>🎃 ¡Registrate y reclama tu +5%! <b>Hasta -25%</b> 👻</div>",
-                "en": "<div>🎃 Register & claim your +5%! <b>Up to 25%</b> 👻</div>",
-                "fr": "<div>🎃 Registre & réclame ton +5%! <b>Jusqu’à -25%</b> 👻</div>"
+                "es": "<div>Regístrate y obtén un <b>5%</b> de descuento adicional</div>",
+                "en": "<div>Sign up and get an extra <b>5% off</b> your purchase</div>",
+                "fr": "<div>Inscrivez-vous et obtenez <b>5 %</b> de réduction en plus</div>"
             },
             "promo_html_servicio": {
-                "es": "<div>💀 ¡Descuento embrujado! 🎃 Usa <b>VIERNES13</b> 👉 <span style='text-decoration: underline;'>¡CLICK AQUÍ!</span></div>",
-                "en": "<div>👻 Spooky deal! 🎃 Use <b>FRIDAY13TH</b> 👉 <span style='text-decoration: underline;'>CLICK HERE!</span></div>",
-                "fr": "<div>👻 Offre terrifiante 😱 <b>FRIDAY13TH</b> 👉 <span style='text-decoration: underline;'>CLIQUE ICI!</span></div>"
+                "es": "<div>¡Activa +5% con el cupón <b>NOV5</b> dando <span style='text-decoration: underline;'>clic aquí!</span></div>",
+                "en": "<div><span style='text-decoration: underline;'>Click here</span> to activate +5% with code <b>NOV5</b>!</div>",
+                "fr": "<div>Activez +5 % avec le code <b>NOV5</b> en <span style='text-decoration: underline;'>cliquant ici!</span></div>"
             },
             "promo_html_servicio_aplicada":{
-                "es": "<div>👻 ¡Listo! <b>Descuento del 13%</b> aplicado 😈</div>",
-                "en": "<div>👻 Spooky deal! <b>13% OFF</b> confirmed 😈</div>",
-                "fr": "<div>👻 Offre terrifiante! <b>-13% confirmé</b> 😈</div>"
+                "es": "<div>Code <b>¡Código <b>NOV5 aplicado!</b> Disfruta de un 5 % de dto. adicional</div>",
+                "en": "<div>Code <b>NOV5 applied!</b> Enjoy an extra 5% discount</div>",
+                "fr": "<div>Code <b>NOV5 appliqué !</b> Profitez de +5 % de remise</div>"
             },
             "promo_html_reserva":{
-                "es": "<div>🎃 El cupón se aplica en el siguiente paso 👻</div>",
-                "en": "<div>🎃 Coupon applies in the next step 👻</div>",
-                "fr": "<div>🎃 Le coupon s’applique à l’étape suivante 👻</div>"
+                "es": "<div>Aplica tu +5% con el cupón <b>NOV5</b> en el siguiente paso</div>",
+                "en": "<div>Apply your +5% with code <b>NOV5</b> in the next step</div>",
+                "fr": "<div>Le code <b>NOV5</b> s’applique à l’étape suivante</div>"
             },
             "promo_html_reserva2":{
-                "es": "<div>🎃 ¡Tu descuento te acecha! Usa <b>VIERNES13</b> y obtén +13% 👻</div>",
-                "en": "<div>🎃 Your discount haunts you! Use <b>FRIDAY13TH</b> for +13% 👻</div>",
-                "fr": "<div>🎃 Ton rabais te hante ! Utilise <b>FRIDAY13TH</b> pour +13% 👻</div>"
+                "es": "<div>¡Última oportunidad! Usa <b>NOV5</b> y gana +5% de descuento</div>",
+                "en": "<div>Last chance! Use <b>NOV5</b> for an extra +5% off</div>",
+                "fr": "<div>Dernière chance ! Utilisez <b>NOV5</b> et gagnez +5 %</div>"
             }
         }
     ],
 	"planet":
     [
         {
-            "fecha_inicio": "2025-10-16",
-            "fecha_fin": "2025-11-02",
+            "fecha_inicio": "2025-11-03",
+            "fecha_fin": "2025-11-09",
             "fondo_color": "linear-gradient(269deg, #2b0e32 0%, #4b1d50 50%, #7a39a3 100%)",
             "cupon": {
-                "es": "VIERNES13",
-                "en": "FRIDAY13TH",
-                "fr": "FRIDAY13TH"
+                "es": "NOV5",
+                "en": "NOV5",
+                "fr": "NOV5"
             },
             "promo_html_login": {
-                "es": "<div>🎃 ¡Registrate y reclama tu +10%! <b>Hasta -30%</b> 👻</div>",
-                "en": "<div>🎃 Register & claim your +10%! <b>Up to 30%</b> 👻</div>",
-                "fr": "<div>🎃 Registre & réclame ton +10%! <b>Jusqu’à -30%</b> 👻</div>"
+                "es": "<div>Regístrate y obtén un <b>10%</b> de descuento adicional</div>",
+                "en": "<div>Sign up and get an extra <b>10% off</b> your purchase</div>",
+                "fr": "<div>Inscrivez-vous et obtenez <b>10 %</b> de réduction en plus</div>"
             },
             "promo_html_servicio": {
-                "es": "<div>💀 ¡Descuento embrujado! 🎃 Usa <b>VIERNES13</b> 👉 <span style='text-decoration: underline;'>¡CLICK AQUÍ!</span></div>",
-                "en": "<div>👻 Spooky deal! 🎃 Use <b>FRIDAY13TH</b> 👉 <span style='text-decoration: underline;'>CLICK HERE!</span></div>",
-                "fr": "<div>👻 Offre terrifiante 😱 <b>FRIDAY13TH</b> 👉 <span style='text-decoration: underline;'>CLIQUE ICI!</span></div>"
+                "es": "<div>¡Activa +5% con el cupón <b>NOV5</b> dando <span style='text-decoration: underline;'>clic aquí!</span></div>",
+                "en": "<div><span style='text-decoration: underline;'>Click here</span> to activate +5% with code <b>NOV5</b>!</div>",
+                "fr": "<div>Activez +5 % avec le code <b>NOV5</b> en <span style='text-decoration: underline;'>cliquant ici!</span></div>"
             },
             "promo_html_servicio_aplicada":{
-                "es": "<div>👻 ¡Listo! <b>Descuento del 13%</b> aplicado 😈</div>",
-                "en": "<div>👻 Spooky deal! <b>13% OFF</b> confirmed 😈</div>",
-                "fr": "<div>👻 Offre terrifiante! <b>-13% confirmé</b> 😈</div>"
+                "es": "<div>Code <b>¡Código <b>NOV5 aplicado!</b> Disfruta de un 5 % de dto. adicional</div>",
+                "en": "<div>Code <b>NOV5 applied!</b> Enjoy an extra 5% discount</div>",
+                "fr": "<div>Code <b>NOV5 appliqué !</b> Profitez de +5 % de remise</div>"
             },
             "promo_html_reserva":{
-                "es": "<div>🎃 El cupón se aplica en el siguiente paso 👻</div>",
-                "en": "<div>🎃 Coupon applies in the next step 👻</div>",
-                "fr": "<div>🎃 Le coupon s’applique à l’étape suivante 👻</div>"
+                "es": "<div>Aplica tu +5% con el cupón <b>NOV5</b> en el siguiente paso</div>",
+                "en": "<div>Apply your +5% with code <b>NOV5</b> in the next step</div>",
+                "fr": "<div>Le code <b>NOV5</b> s’applique à l’étape suivante</div>"
             },
             "promo_html_reserva2":{
-                "es": "<div>🎃 ¡Tu descuento te acecha! Usa <b>VIERNES13</b> y obtén +13% 👻</div>",
-                "en": "<div>🎃 Your discount haunts you! Use <b>FRIDAY13TH</b> for +13% 👻</div>",
-                "fr": "<div>🎃 Ton rabais te hante ! Utilise <b>FRIDAY13TH</b> pour +13% 👻</div>"
+                "es": "<div>¡Última oportunidad! Usa <b>NOV5</b> y gana +5% de descuento</div>",
+                "en": "<div>Last chance! Use <b>NOV5</b> for an extra +5% off</div>",
+                "fr": "<div>Dernière chance ! Utilisez <b>NOV5</b> et gagnez +5 %</div>"
             }
         }
     ]

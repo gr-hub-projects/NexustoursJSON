@@ -18,7 +18,7 @@
             "promo_html_servicio": {
                 "es": "<div>¡Aplica el código <b>BFNEXUS</b> y obtén <b>20%</b> de dto. en tours!</div>",
                 "en": "<div>Apply code <b>TGIVING</b> and get <b>20% off</b> tours!</div>",
-                "fr": "<div>Appliquez <b>TGIVING</b> et obtenez <b>20% de</b> réduction sur les tours!</div>"
+                "fr": "<div>Appliquez <b>TGIVING</b> et obtenez <b>20%</b> de réduction sur les tours!</div>"
             },
             "promo_html_servicio_aplicada":{
                 "es": "<div>¡Código <b>BFNEXUS</b> aplicado! <b>20%</b> de descuento en tours.</div>",
@@ -34,6 +34,41 @@
                 "es": "<div>¡Usa <b>BFNEXUS</b> y obtén <b>20%</b de descuento en tours!</div>",
                 "en": "<div>Remenber! Use <b>TGIVING</b> now and get <b>20% off</b> tours!</div>",
                 "fr": "<div>N´oubliez pas! Utilisez <b>TGIVING</b> et obtenez <b>20%</b> de réduction.</div>"
+            }
+        },
+		{
+            "fecha_inicio": "2025-11-13",
+            "fecha_fin": "2025-11-17",
+            "fondo_color": "linear-gradient(90deg, #027DB2 0%, #5FAACA 100%)",
+            "cupon": {
+                "es": "BFNEXUS",
+                "en": "TGIVING",
+                "fr": "TGIVING"
+            },
+            "promo_html_login": {
+                "es": "<div>Regístrate y obtén un  <b>5%</b> de descuento adicional.</div>",
+                "en": "<div>Sign up and get an extra <b>5%</b> discount.</div>",
+                "fr": "<div>Inscrivez-vouz et obtenez <b>5%</b> de réduction supplémentaire.</div>"
+            },
+            "promo_html_servicio": {
+                "es": "<div>¡Aplica <b>BFNEXUS</b> y obtén <b>25%</b> de descuento en tours!</div>",
+                "en": "<div>Apply code <b>TGIVING</b> and get <b>25% off</b> tours!</div>",
+                "fr": "<div>Appliquez <b>TGIVING</b> et obtenez <b>25%</b> de réduction sur les tours!</div>"
+            },
+            "promo_html_servicio_aplicada":{
+                "es": "<div>¡Código <b>BFNEXUS</b> aplicado! Ya tienes <b>25%</b> de descuento en tours.</div>",
+                "en": "<div>Promo code <b>TGIVING</b> applied! Enjoy <b>25% off</b> tours.</div>",
+                "fr": "<div>Code <b>TGIVING</b> appliqué! Profitez de <b>25%</b> de réduction.</div>"
+            },
+            "promo_html_reserva":{
+                "es": "<div>El código promocional <b>BFNEXUS</b> se aplica en el siguiente paso.</div>",
+                "en": "<div><b>TGIVING</b> promo code applies in the next step.</div>",
+                "fr": "<div>Le code <b>TGIVING</b> sera appliqué à l´étape suivante.</div>"
+            },
+            "promo_html_reserva2":{
+                "es": "<div>¡Usa <b>BFNEXUS</b> y obtén <b>25%</b de descuento en tours!</div>",
+                "en": "<div>Remenber! Use <b>TGIVING</b> now and get <b>25% off</b> tours!</div>",
+                "fr": "<div>N´oubliez pas! Utilisez <b>TGIVING</b> et obtenez <b>25%</b> de réduction.</div>"
             }
         }
     ],
@@ -56,7 +91,7 @@
             "promo_html_servicio": {
                 "es": "<div>¡Aplica el código <b>BFNEXUS</b> y obtén <b>20%</b> de dto. en tours!</div>",
                 "en": "<div>Apply code <b>TGIVING</b> and get <b>20% off</b> tours!</div>",
-                "fr": "<div>Appliquez <b>TGIVING</b> et obtenez <b>20% de</b> réduction sur les tours!</div>"
+                "fr": "<div>Appliquez <b>TGIVING</b> et obtenez <b>20%</b> de réduction sur les tours!</div>"
             },
             "promo_html_servicio_aplicada":{
                 "es": "<div>¡Código <b>BFNEXUS</b> aplicado! <b>20%</b> de descuento en tours.</div>",
@@ -72,6 +107,41 @@
                 "es": "<div>¡Usa <b>BFNEXUS</b> y obtén <b>20%</b de descuento en tours!</div>",
                 "en": "<div>Remenber! Use <b>TGIVING</b> now and get <b>20% off</b> tours!</div>",
                 "fr": "<div>N´oubliez pas! Utilisez <b>TGIVING</b> et obtenez <b>20%</b> de réduction.</div>"
+            }
+        },
+		{
+            "fecha_inicio": "2025-11-13",
+            "fecha_fin": "2025-11-17",
+            "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
+            "cupon": {
+                "es": "BFNEXUS",
+                "en": "TGIVING",
+                "fr": "TGIVING"
+            },
+            "promo_html_login": {
+                "es": "<div>Regístrate y obtén un  <b>5%</b> de descuento adicional.</div>",
+                "en": "<div>Sign up and get an extra <b>5%</b> discount.</div>",
+                "fr": "<div>Inscrivez-vouz et obtenez <b>5%</b> de réduction supplémentaire.</div>"
+            },
+            "promo_html_servicio": {
+                "es": "<div>¡Aplica <b>BFNEXUS</b> y obtén <b>25%</b> de descuento en tours!</div>",
+                "en": "<div>Apply code <b>TGIVING</b> and get <b>25% off</b> tours!</div>",
+                "fr": "<div>Appliquez <b>TGIVING</b> et obtenez <b>25%</b> de réduction sur les tours!</div>"
+            },
+            "promo_html_servicio_aplicada":{
+                "es": "<div>¡Código <b>BFNEXUS</b> aplicado! Ya tienes <b>25%</b> de descuento en tours.</div>",
+                "en": "<div>Promo code <b>TGIVING</b> applied! Enjoy <b>25% off</b> tours.</div>",
+                "fr": "<div>Code <b>TGIVING</b> appliqué! Profitez de <b>25%</b> de réduction.</div>"
+            },
+            "promo_html_reserva":{
+                "es": "<div>El código promocional <b>BFNEXUS</b> se aplica en el siguiente paso.</div>",
+                "en": "<div><b>TGIVING</b> promo code applies in the next step.</div>",
+                "fr": "<div>Le code <b>TGIVING</b> sera appliqué à l´étape suivante.</div>"
+            },
+            "promo_html_reserva2":{
+                "es": "<div>¡Usa <b>BFNEXUS</b> y obtén <b>25%</b de descuento en tours!</div>",
+                "en": "<div>Remenber! Use <b>TGIVING</b> now and get <b>25% off</b> tours!</div>",
+                "fr": "<div>N´oubliez pas! Utilisez <b>TGIVING</b> et obtenez <b>25%</b> de réduction.</div>"
             }
         }
     ],
@@ -94,7 +164,7 @@
             "promo_html_servicio": {
                 "es": "<div>¡Aplica el código <b>BFNEXUS</b> y obtén <b>20%</b> de dto. en tours!</div>",
                 "en": "<div>Apply code <b>TGIVING</b> and get <b>20% off</b> tours!</div>",
-                "fr": "<div>Appliquez <b>TGIVING</b> et obtenez <b>20% de</b> réduction sur les tours!</div>"
+                "fr": "<div>Appliquez <b>TGIVING</b> et obtenez <b>20%</b> de réduction sur les tours!</div>"
             },
             "promo_html_servicio_aplicada":{
                 "es": "<div>¡Código <b>BFNEXUS</b> aplicado! <b>20%</b> de descuento en tours.</div>",
@@ -110,6 +180,41 @@
                 "es": "<div>¡Usa <b>BFNEXUS</b> y obtén <b>20%</b de descuento en tours!</div>",
                 "en": "<div>Remenber! Use <b>TGIVING</b> now and get <b>20% off</b> tours!</div>",
                 "fr": "<div>N´oubliez pas! Utilisez <b>TGIVING</b> et obtenez <b>20%</b> de réduction.</div>"
+            }
+        },
+		{
+            "fecha_inicio": "2025-11-13",
+            "fecha_fin": "2025-11-17",
+            "fondo_color": "linear-gradient(269deg, #2b0e32 0%, #4b1d50 50%, #7a39a3 100%)",
+            "cupon": {
+                "es": "BFNEXUS",
+                "en": "TGIVING",
+                "fr": "TGIVING"
+            },
+            "promo_html_login": {
+                "es": "<div>Regístrate y obtén un  <b>10%</b> de descuento adicional.</div>",
+                "en": "<div>Sign up and get an extra <b>10%</b> discount.</div>",
+                "fr": "<div>Inscrivez-vouz et obtenez <b>10%</b> de réduction supplémentaire.</div>"
+            },
+            "promo_html_servicio": {
+                "es": "<div>¡Aplica <b>BFNEXUS</b> y obtén <b>25%</b> de descuento en tours!</div>",
+                "en": "<div>Apply code <b>TGIVING</b> and get <b>25% off</b> tours!</div>",
+                "fr": "<div>Appliquez <b>TGIVING</b> et obtenez <b>25%</b> de réduction sur les tours!</div>"
+            },
+            "promo_html_servicio_aplicada":{
+                "es": "<div>¡Código <b>BFNEXUS</b> aplicado! Ya tienes <b>25%</b> de descuento en tours.</div>",
+                "en": "<div>Promo code <b>TGIVING</b> applied! Enjoy <b>25% off</b> tours.</div>",
+                "fr": "<div>Code <b>TGIVING</b> appliqué! Profitez de <b>25%</b> de réduction.</div>"
+            },
+            "promo_html_reserva":{
+                "es": "<div>El código promocional <b>BFNEXUS</b> se aplica en el siguiente paso.</div>",
+                "en": "<div><b>TGIVING</b> promo code applies in the next step.</div>",
+                "fr": "<div>Le code <b>TGIVING</b> sera appliqué à l´étape suivante.</div>"
+            },
+            "promo_html_reserva2":{
+                "es": "<div>¡Usa <b>BFNEXUS</b> y obtén <b>25%</b de descuento en tours!</div>",
+                "en": "<div>Remenber! Use <b>TGIVING</b> now and get <b>25% off</b> tours!</div>",
+                "fr": "<div>N´oubliez pas! Utilisez <b>TGIVING</b> et obtenez <b>25%</b> de réduction.</div>"
             }
         }
     ]

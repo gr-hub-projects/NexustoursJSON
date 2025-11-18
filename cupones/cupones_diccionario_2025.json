@@ -112,6 +112,44 @@
                 "fr": "<div>Dernière chance ! Utilisez <b>NOV5</b> et gagnez <b>+5 %</b></div>"
             }
         }
+    ],
+	"riu":
+    [
+        {
+            "fecha_inicio": "2025-11-18",
+            "fecha_fin": "2025-11-23",
+            "fondo_color": "red",
+            "cupon": {
+                "es": "NOV5",
+                "en": "NOV5",
+                "fr": "NOV5"
+            },
+            "promo_html_login": {
+                "es": "<div>Regístrate y obtén un <b>5%</b> de descuento adicional</div>",
+                "en": "<div>Sign up and get an extra <b>5% off</b> your purchase</div>",
+                "fr": "<div>Inscrivez-vous et obtenez <b>5 %</b> de réduction en plus</div>"
+            },
+            "promo_html_servicio": {
+                "es": "<div>¡Activa <b>+5%</b> de dto. con el cupón <b>NOV5</b> dando <span style='text-decoration: underline;'>clic aquí!</span></div>",
+                "en": "<div><span style='text-decoration: underline;'>Click here</span> to activate <b>+5% off</b> with code <b>NOV5</b>!</div>",
+                "fr": "<div>Activez <b>+5 %</b> avec le code <b>NOV5</b> en <span style='text-decoration: underline;'>cliquant ici</span>!</div>"
+            },
+            "promo_html_servicio_aplicada":{
+                "es": "<div>¡Código <b>NOV5</b> aplicado! Disfruta de un <b>5 %</b> de dto. adicional</div>",
+                "en": "<div>Code <b>NOV</b> applied! Enjoy an extra <b>5%</b> discount</div>",
+                "fr": "<div>Code <b>NOV5</b> appliqué! Profitez de <b>+5 %</b> de remise</div>"
+            },
+            "promo_html_reserva":{
+                "es": "<div>Aplica tu <b>+5%</b> con el cupón <b>NOV5</b> en el siguiente paso</div>",
+                "en": "<div>Apply your <b>+5%</b> with code <b>NOV5</b> in the next step</div>",
+                "fr": "<div>Le code <b>NOV5</b> s’applique à l’étape suivante</div>"
+            },
+            "promo_html_reserva2":{
+                "es": "<div>¡Última oportunidad! Usa <b>NOV5</b> y gana <b>+5%</b> de descuento</div>",
+                "en": "<div>Last chance! Use <b>NOV5</b> and get an extra <b>+5% off</b></div>",
+                "fr": "<div>Dernière chance ! Utilisez <b>NOV5</b> et gagnez <b>+5 %</b></div>"
+            }
+        }
     ]
 }
 	

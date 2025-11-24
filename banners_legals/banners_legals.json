@@ -2,50 +2,122 @@
     "nexustours":{
         "home":{
             "es":{
-                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/AlwaysON-Holidays-ESP1.png",
-                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/AlwaysON-Mobile-ESP1.png"
+                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/BlackFriday_ESP.png",
+                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/Home-BF-Mobile-ESP.png"
             },
             "en":{
-                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/AlwaysON-Holidays-ENG.png",
-                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/AlwaysON-Mobile-ENG.png"
+                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/BlackFriday_ENG.png",
+                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/Home-BF-Mobile-ENG.png"
             },
             "fr":{
-                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/AlwaysON-Holidays-FRA.png",
-                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/AlwaysON-Mobile-FRA.png"
+                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/BlackFriday_FRA.png",
+                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/Home-BF-Mobile-FRA.png"
             }
         },
         "travels":{
             "es":{
-                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/Landing.PNG",
-                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/AlwaysON-Mobile-ESP1.png",
-                "legal_text": "Promoción válida para reservaciones realizadas del 17 de noviembre al 31 de diciembre 2025, para viajar hasta el 30 de junio de 2026.<br>El descuento del 30% en traslados aplica únicamente en rutas seleccionadas. Para más información, consulta a nuestro Centro de Atención Telefónica.<br>El descuento adicional del 5% se aplicará automáticamente en el servicio de tours, una vez que el usuario se haya registrado e iniciado sesión en la plataforma. No aplica reservando desde la app.<br>Cupón de 5% de descuento extra en actividades:<br>Promoción válida para reservaciones realizadas del 17 al 23 de noviembre de 2025, para viajar hasta el 30 de junio de 2026.<br>El cupón de 5% de descuento aplica únicamente para reservaciones de actividades y será válido ingresando el código NOV5.<br>Aplica un solo cupón por reservación.<br>Restricciones:<br>•Promoción no canjeable por dinero en efectivo.<br>•No combinable con otras promociones ni con otros cupones.<br>•No aplica reservando desde la app."
+                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/LAND_BlackFriday_ES.PNG",
+                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/Landing-Mobile-ESP-BF.png",
+                "legal_text": "Términos y condiciones:<br>
+ Promoción válida para reservaciones realizadas del 24 al 30 de noviembre de 2025, para viajar hasta el 30 de junio de 2026.<br>
+ El descuento de hasta 35% en actividades, corresponde a producto seleccionado que se encuentra disponible en esta landing en la sección Top Actividades.<br>
+  
+El cupón de 10% de descuento aplica únicamente para reservaciones de actividades y será válido ingresando el código BFNEXUS.<br>
+ Aplica un solo cupón por reservación.<br>
+ Restricciones:<br>
+ •Promoción no canjeable por dinero en efectivo.<br>
+ •No combinable con otras promociones ni con otros cupones.<br>
+ •No aplica reservando desde la app.<br> 
+El descuento del 40% en traslados aplica únicamente en rutas seleccionadas. Para más información, consulta a nuestro Centro de Atención Telefónica.<br>  
+Regístrate y obtén un 5% de descuento adicional<br>
+ El descuento adicional del 5% se aplicará automáticamente en el servicio de tours, una vez que el usuario se haya registrado e iniciado sesión en la plataforma online. No aplica reservando desde la app"
             },
             "en":{
-                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/alwayson-eng.PNG",
-                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/alwayson-eng-mob.PNG",
-                "legal_text": "Promotion valid for reservations made from November 17 to December 31, 2025, for travel until June 30, 2026.<br>The 30% discount on transfers applies only to selected routes. For more information, please contact our Call Center.<br>The additional 5% discount on the tours service will be applied automatically once the user has registered and logged in to the platform. Does not apply when booking through the app.<br><strong>Extra 5% Coupon for Activities</strong><br>Promotion valid for reservations made from November 17 to November 23, 2025, for travel until June 30, 2026.<br>The 5% discount coupon applies only to activity reservations and will be valid by entering the code NOV5. Only one coupon applies per reservation.<br><strong>Restrictions:</strong><br>• Promotion is not redeemable for cash.<br>• Not combinable with other promotions or other coupons.<br>• Does not apply when booking through the app."
+                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/LAND_BlackFriday_ENG.PNG",
+                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/Landing-Mobile-ENG-BF.PNG",
+                "legal_text": "Terms and conditions:<BR>
+Promotion valid for reservations made from November 24 to November 30, 2025, for travel until June 30, 2026.<BR>
+The discount of up to 35% on activities corresponds to selected products available on this landing page in the Top Activities section.<BR>
+The 10% discount coupon applies only to activity reservations and will be valid by entering the code BFNEXUS.<BR>
+Only one coupon applies per reservation.<BR>
+
+Restrictions:<BR>
+Promotion is not redeemable for cash.<BR>
+Not combinable with other promotions or other coupons.<BR>
+Not applicable when booking through the app.<BR>
+The 40% discount on transfers applies only to selected routes. For more information, contact our Call Center.<BR>
+Register and get an additional 5% discount<BR>
+The additional 5% discount will be applied automatically to the tours service once the user has registered and logged in to the online platform. Not applicable when booking through the app."
             },
             "fr":{
-                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/AlwaysON-Holidays-FRA.PNG",
-                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/FRA-Landing-Mobile.png",
-                "legal_text": "Promotion valable pour les réservations effectuées du 17 novembre au 31 décembre 2025, pour un voyage jusqu'au 30 juin 2026.<br>La réduction de 30 % sur les transferts s'applique uniquement aux itinéraires sélectionnés. Pour plus d'informations, veuillez contacter notre Centre d'Appels.<br>La réduction additionnelle de 5 % sur le service de tours sera appliquée automatiquement une fois que l'utilisateur se sera inscrit et connecté à la plateforme. Ne s'applique pas lors de la réservation via l'application.<br><strong>Coupon de 5 % de Réduction Extra sur les Activités</strong><br>Promotion valable pour les réservations effectuées du 17 au 23 novembre 2025, pour un voyage jusqu'au 30 juin 2026.<br>Le coupon de 5 % de réduction s'applique uniquement aux réservations d'activités et sera valable en entrant le code NOV5. Un seul coupon s'applique par réservation.<br><strong>Restrictions :</strong><br>• La promotion n'est pas échangeable contre de l'argent comptant.<br>• Non cumulable avec d'autres promotions ou d'autres coupons.<br>• Ne s'applique pas lors de la réservation via l'application."
+                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/LAND_BlackFriday_FRA.PNG",
+                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/Landing-Mobile-FRA-BF.png",
+                "legal_text": "Termes et conditions :<br>
+Promotion valable pour les réservations effectuées du 24 au 30 novembre 2025, pour voyager jusqu'au 30 juin 2026.<br>
+La réduction allant jusqu'à 35 % sur les activités correspond à une sélection de produits disponibles sur cette page de destination, dans la section « Top Activités » (Top Activities).<br>
+Le coupon de réduction de 10 % s'applique uniquement aux réservations d'activités et sera valable en saisissant le code BFNEXUS.<br>
+Un seul coupon s'applique par réservation.<br>
+
+Restrictions :<br>
+Promotion non échangeable contre de l'argent liquide.<br>
+Non cumulable avec d'autres promotions ou d'autres coupons.<br>
+Ne s'applique pas aux réservations effectuées via l'application.<br>
+La réduction de 40 % sur les transferts s'applique uniquement aux itinéraires sélectionnés. Pour plus d'informations, veuillez consulter notre Centre d'Appel (Centre de Contact Téléphonique).<br>
+Inscrivez-vous et obtenez une réduction supplémentaire de 5 %<br>
+La réduction supplémentaire de 5 % sera appliquée automatiquement au service des circuits (tours), une fois que l'utilisateur se sera inscrit et connecté à la plateforme en ligne. Ne s'applique pas aux réservations effectuées via l'application."
             }
         },
         "discounts":{
             "es":{
-                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/HOME-BF-PRINCIPAL.PNG",
-                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/Home-Mobile.png",
-                "legal_text": "<strong>Promoción válida para reservaciones realizadas del 13 al 17 de noviembre de 2025, para viajar hasta el 30 de junio de 2026.</strong><br>El cupón de 25 % de descuento aplica únicamente para reservaciones de actividades y será válido ingresando el código BFNEXUS.<br>Aplica un solo cupón por reservación.<br>Restricciones:<br>•Promoción no canjeable por dinero en efectivo.<br>•No combinable con otras promociones ni con otros cupones.<br>•No aplica reservando desde la app.<br>El descuento del 50% en traslados aplica únicamente en rutas seleccionadas. Para más información, consulta a nuestro Centro de Atención Telefónica.<br>El descuento adicional del 5% se aplicará automáticamente en el servicio de tours, una vez que el usuario se haya registrado e iniciado sesión en la plataforma. No aplica reservando desde la app<br>"
+                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/LAND_BlackFriday_ES.PNG",
+                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/Landing-Mobile-ESP-BF.png",
+                "legal_text": "Términos y condiciones:<br>
+ Promoción válida para reservaciones realizadas del 24 al 30 de noviembre de 2025, para viajar hasta el 30 de junio de 2026.<br>
+ El descuento de hasta 35% en actividades, corresponde a producto seleccionado que se encuentra disponible en esta landing en la sección Top Actividades.<br>
+  
+El cupón de 10% de descuento aplica únicamente para reservaciones de actividades y será válido ingresando el código BFNEXUS.<br>
+ Aplica un solo cupón por reservación.<br>
+ Restricciones:<br>
+ •Promoción no canjeable por dinero en efectivo.<br>
+ •No combinable con otras promociones ni con otros cupones.<br>
+ •No aplica reservando desde la app.<br> 
+El descuento del 40% en traslados aplica únicamente en rutas seleccionadas. Para más información, consulta a nuestro Centro de Atención Telefónica.<br>  
+Regístrate y obtén un 5% de descuento adicional<br>
+ El descuento adicional del 5% se aplicará automáticamente en el servicio de tours, una vez que el usuario se haya registrado e iniciado sesión en la plataforma online. No aplica reservando desde la app"
             },
             "en":{
-                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/HOME_WEB_ENG25.PNG",
-                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/HOME_MOBILE_ENG25.PNG",
-                "legal_text": "<strong>Promotion valid for reservations made from November 13 to November 16, 2025, for travel until June 30, 2026.</strong><br>The 25% discount coupon applies only to activity reservations and will be valid by entering the code TGIVING. Only one coupon applies per reservation.<br>Restrictions:<br>Promotion is not redeemable for cash.<br>Not combinable with other promotions or other coupons.<br>Does not apply when booking through the app.<br>The 50% discount on transfers applies only to selected routes. For more information, please contact our Call Center.<br>The additional 5% discount on the tours service will be applied automatically once the user has registered and logged in to the platform. Does not apply when booking through the app.<br>"
+                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/LAND_BlackFriday_ENG.PNG",
+                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/Landing-Mobile-ENG-BF.PNG",
+                "legal_text": "Terms and conditions:<BR>
+Promotion valid for reservations made from November 24 to November 30, 2025, for travel until June 30, 2026.<BR>
+The discount of up to 35% on activities corresponds to selected products available on this landing page in the Top Activities section.<BR>
+The 10% discount coupon applies only to activity reservations and will be valid by entering the code BFNEXUS.<BR>
+Only one coupon applies per reservation.<BR>
+
+Restrictions:<BR>
+Promotion is not redeemable for cash.<BR>
+Not combinable with other promotions or other coupons.<BR>
+Not applicable when booking through the app.<BR>
+The 40% discount on transfers applies only to selected routes. For more information, contact our Call Center.<BR>
+Register and get an additional 5% discount<BR>
+The additional 5% discount will be applied automatically to the tours service once the user has registered and logged in to the online platform. Not applicable when booking through the app."
             },
             "fr":{
-                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/HOME_WEB_FRA25.PNG",
-                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/HOME_MOBILE_FRA25.png",
-                "legal_text": "<strong>Promotion valable pour les réservations effectuées du 13 au 16 novembre 2025, pour un voyage jusqu'au 30 juin 2026.</strong><br>Le coupon de 25 % de réduction s'applique uniquement aux réservations d'activités et sera valable en entrant le code TGIVING. Un seul coupon s'applique par réservation.<br>Restrictions :<br>La promotion n'est pas échangeable contre de l'argent comptant.<br>Non cumulable avec d'autres promotions ou d'autres coupons.<br>Ne s'applique pas lors de la réservation via l'application.<br>La réduction de 50 % sur les transferts s'applique uniquement aux itinéraires sélectionnés. Pour plus d'informations, veuillez contacter notre Centre d'Appels.<br>La réduction additionnelle de 5 % sur le service de tours sera appliquée automatiquement une fois que l'utilisateur se sera inscrit et connecté à la plateforme. Ne s'applique pas lors de la réservation via l'application."
+                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/LAND_BlackFriday_FRA.PNG",
+                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Noviembre_2025/Landing-Mobile-FRA-BF.png",
+                "legal_text": "Termes et conditions :<br>
+Promotion valable pour les réservations effectuées du 24 au 30 novembre 2025, pour voyager jusqu'au 30 juin 2026.<br>
+La réduction allant jusqu'à 35 % sur les activités correspond à une sélection de produits disponibles sur cette page de destination, dans la section « Top Activités » (Top Activities).<br>
+Le coupon de réduction de 10 % s'applique uniquement aux réservations d'activités et sera valable en saisissant le code BFNEXUS.<br>
+Un seul coupon s'applique par réservation.<br>
+
+Restrictions :<br>
+Promotion non échangeable contre de l'argent liquide.<br>
+Non cumulable avec d'autres promotions ou d'autres coupons.<br>
+Ne s'applique pas aux réservations effectuées via l'application.<br>
+La réduction de 40 % sur les transferts s'applique uniquement aux itinéraires sélectionnés. Pour plus d'informations, veuillez consulter notre Centre d'Appel (Centre de Contact Téléphonique).<br>
+Inscrivez-vous et obtenez une réduction supplémentaire de 5 %<br>
+La réduction supplémentaire de 5 % sera appliquée automatiquement au service des circuits (tours), une fois que l'utilisateur se sera inscrit et connecté à la plateforme en ligne. Ne s'applique pas aux réservations effectuées via l'application."
             }
         }
     }

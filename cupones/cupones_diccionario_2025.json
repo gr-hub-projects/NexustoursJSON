@@ -558,6 +558,112 @@
                 "fr": "<div>Dernière chance ! Utilisez <b>CYBERNEXUS</b> et gagnez <b>+10 %</b></div>"
             }
         }
+    ],
+    "sunwing":
+    [
+        {
+            "fecha_inicio": "2025-12-01",
+            "fecha_fin": "2025-12-01",
+            "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
+            "cupon": {
+                "es": "CYBERNEXUS",
+                "en": "CYBERNEXUS",
+                "fr": "CYBERNEXUS"
+            },
+            "promo_html_login": {
+                "es": "<div>Por cada excursión reservada aquí, NexusTours dona <b>$40 CAD</b> para apoyar la recuperación de Jamaica.</div>",
+                "en": "<div>For every excursion booked through this page, NexusTours donates <b>$40 CAD</b> to support Jamaica recovery</div>",
+                "fr": "<div>Pour chaque excursion réservée ici, NexusTours verse <b>40 $CAD</b> pour soutenir la relance de la Jamaïque</div>"
+            },
+            "promo_html_servicio": {
+                "es": "<div>¡Activa + <b>10 %</b> de dto. con el cupón <b>CYBERNEXUS</b> dando <span style='text-decoration: underline;'>clic aquí</span>!</div>",
+                "en": "<div><span style='text-decoration: underline;'>Click here</span> to activate <b>+10% off</b> with code <b>CYBERNEXUS</b>!</div>",
+                "fr": "<div>Activez <b>+10 %</b> avec le code <b>CYBERNEXUS</b> en <span style='text-decoration: underline;'>cliquant ici</span>!</div>"
+            },
+            "promo_html_servicio_aplicada":{
+                "es": "<div>¡Código <b>CYBERNEXUS</b> aplicado! Disfruta de un <b>10 %</b> de dto. adicional</div>",
+                "en": "<div>Code <b>CYBERNEXUS</b> applied! Enjoy an extra <b>10%</b> discount</div>",
+                "fr": "<div>Code <b>CYBERNEXUS</b> appliqué! Profitez de <b>+10%</b> de remise</div>"
+            },
+            "promo_html_reserva":{
+                "es": "<div>Aplica tu <b>+10%</b> con el cupón <b>CYBERNEXUS</b> en el siguiente paso</div>",
+                "en": "<div>Apply your <b>+10%</b> with code <b>CYBERNEXUS</b> in the next step</div>",
+                "fr": "<div>Le code <b>CYBERNEXUS</b>’applique à l’étape suivante</div>"
+            },
+            "promo_html_reserva2":{
+                "es": "<div>¡Última oportunidad! Usa <b>CYBERNEXUS</b> y gana <b>+10%</b> de descuento</div>",
+                "en": "<div>Last chance! Use <b>CYBERNEXUS</b> and get an extra <b>+10%</b> off</div>",
+                "fr": "<div>Dernière chance ! Utilisez <b>CYBERNEXUS</b> et gagnez <b>+10 %</b></div>"
+            }
+        },{
+            "fecha_inicio": "2025-12-02",
+            "fecha_fin": "2025-12-02",
+            "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
+            "cupon": {
+                "es": "CYBERNEXUS",
+                "en": "TRAVELNEXUS",
+                "fr": "TRAVELNEXUS"
+            },
+            "promo_html_login": {
+                "es": "<div>Por cada excursión reservada aquí, NexusTours dona <b>$40 CAD</b> para apoyar la recuperación de Jamaica.</div>",
+                "en": "<div>For every excursion booked through this page, NexusTours donates <b>$40 CAD</b> to support Jamaica recovery</div>",
+                "fr": "<div>Pour chaque excursion réservée ici, NexusTours verse <b>40 $CAD</b> pour soutenir la relance de la Jamaïque</div>"
+            },
+            "promo_html_servicio": {
+                "es": "<div>¡Activa + <b>10 %</b> de dto. con el cupón <b>CYBERNEXUS</b> dando <span style='text-decoration: underline;'>clic aquí</span>!</div>",
+                "en": "<div><span style='text-decoration: underline;'>Click here</span> to activate <b>+10% off</b> with code <b>TRAVELNEXUS</b>!</div>",
+                "fr": "<div>Activez <b>+10 %</b> avec le code <b>TRAVELNEXUS</b> en <span style='text-decoration: underline;'>cliquant ici</span>!</div>"
+            },
+            "promo_html_servicio_aplicada":{
+                "es": "<div>¡Código <b>CYBERNEXUS</b> aplicado! Disfruta de un <b>10 %</b> de dto. adicional</div>",
+                "en": "<div>Code <b>TRAVELNEXUS</b> applied! Enjoy an extra <b>10%</b> discount</div>",
+                "fr": "<div>Code <b>CYBERNEXUS</b> appliqué! Profitez de <b>+10%</b> de remise</div>"
+            },
+            "promo_html_reserva":{
+                "es": "<div>Aplica tu <b>+10%</b> con el cupón <b>CYBERNEXUS</b> en el siguiente paso</div>",
+                "en": "<div>Apply your <b>+10%</b> with code <b>TRAVELNEXUS</b> in the next step</div>",
+                "fr": "<div>Le code <b>TRAVELNEXUS</b>’applique à l’étape suivante</div>"
+            },
+            "promo_html_reserva2":{
+                "es": "<div>¡Última oportunidad! Usa <b>CYBERNEXUS</b> y gana <b>+10%</b> de descuento</div>",
+                "en": "<div>Last chance! Use <b>TRAVELNEXUS</b> and get an extra <b>+10%</b> off</div>",
+                "fr": "<div>Dernière chance ! Utilisez <b>TRAVELNEXUS</b> et gagnez <b>+10 %</b></div>"
+            }
+        },{
+            "fecha_inicio": "2025-12-03",
+            "fecha_fin": "2025-12-07",
+            "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
+            "cupon": {
+                "es": "CYBERNEXUS",
+                "en": "CYBERNEXUS",
+                "fr": "CYBERNEXUS"
+            },
+            "promo_html_login": {
+                "es": "<div>Por cada excursión reservada aquí, NexusTours dona <b>$40 CAD</b> para apoyar la recuperación de Jamaica.</div>",
+                "en": "<div>For every excursion booked through this page, NexusTours donates <b>$40 CAD</b> to support Jamaica recovery</div>",
+                "fr": "<div>Pour chaque excursion réservée ici, NexusTours verse <b>40 $CAD</b> pour soutenir la relance de la Jamaïque</div>"
+            },
+            "promo_html_servicio": {
+                "es": "<div>¡Activa + <b>10 %</b> de dto. con el cupón <b>CYBERNEXUS</b> dando <span style='text-decoration: underline;'>clic aquí</span>!</div>",
+                "en": "<div><span style='text-decoration: underline;'>Click here</span> to activate <b>+10% off</b> with code <b>CYBERNEXUS</b>!</div>",
+                "fr": "<div>Activez <b>+10 %</b> avec le code <b>CYBERNEXUS</b> en <span style='text-decoration: underline;'>cliquant ici</span>!</div>"
+            },
+            "promo_html_servicio_aplicada":{
+                "es": "<div>¡Código <b>CYBERNEXUS</b> aplicado! Disfruta de un <b>10 %</b> de dto. adicional</div>",
+                "en": "<div>Code <b>CYBERNEXUS</b> applied! Enjoy an extra <b>10%</b> discount</div>",
+                "fr": "<div>Code <b>CYBERNEXUS</b> appliqué! Profitez de <b>+10%</b> de remise</div>"
+            },
+            "promo_html_reserva":{
+                "es": "<div>Aplica tu <b>+10%</b> con el cupón <b>CYBERNEXUS</b> en el siguiente paso</div>",
+                "en": "<div>Apply your <b>+10%</b> with code <b>CYBERNEXUS</b> in the next step</div>",
+                "fr": "<div>Le code <b>CYBERNEXUS</b>’applique à l’étape suivante</div>"
+            },
+            "promo_html_reserva2":{
+                "es": "<div>¡Última oportunidad! Usa <b>CYBERNEXUS</b> y gana <b>+10%</b> de descuento</div>",
+                "en": "<div>Last chance! Use <b>CYBERNEXUS</b> and get an extra <b>+10%</b> off</div>",
+                "fr": "<div>Dernière chance ! Utilisez <b>CYBERNEXUS</b> et gagnez <b>+10 %</b></div>"
+            }
+        }
     ]
 }
 	

@@ -6,12 +6,12 @@
                 "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/CyberDays-WebMobile-ESP.png"
             },
             "en":{
-                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/TravelDays-HOME-ENG.png",
-                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/Web-Mobile-ENG.png"
+                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/CyberDays-HOME-ENG.png",
+                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/CyberDays-WebMobile-ENG.png"
             },
             "fr":{
-                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/TravelDays-HOME-FRA.png",
-                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/Web-Mobile-FRA.png"
+                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/CyberDays-HOME-FRA.png",
+                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/CyberDays-WebMobile-FRA.png"
             },
             "banner_url": "https://www.nexustours.com/discounts/"
         },

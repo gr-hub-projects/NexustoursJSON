@@ -99,17 +99,17 @@
             "promo_html_servicio_aplicada":{
                 "es": "<div>¡Código <b>STARVIP10</b> aplicado! Disfruta de un <b>10 %</b> de dto. extra en tours y traslados</div>",
                 "en": "<div>Code <b>STARVIP10</b> applied! Enjoy an extra <b>10% off</b> tours & transfers</div>",
-                "fr": "<div>Code <b>STARVIP10</b> appliqué! Profitez de <b>+10%</b> de réduction supplémentaire sur les excursions</div>"
+                "fr": "<div>Code <b>STARVIP10</b> appliqué! Profitez de <b>+10%</b> de réduction supplémentaire sur les excursions et transferts</div>"
             },
             "promo_html_reserva":{
                 "es": "<div>Aplica tu <b>+10%</b> en tours y traslados con el cupón <b>STARVIP10</b> en el siguiente paso</div>",
                 "en": "<div>Apply your <b>+10%</b> off tours & transfers with code <b>STARVIP10</b> in the next step</div>",
-                "fr": "<div>Appliquez votre <b>+10 %</b> de réduction sur avec le code <b>STARVIP10</b> à l’étape suivante</div>"
+                "fr": "<div>Appliquez votre <b>+10 %</b> de réduction avec le code <b>STARVIP10</b> à l’étape suivante</div>"
             },
             "promo_html_reserva2":{
                 "es": "<div>¡Última oportunidad! Usa <b>STARVIP10</b> y obtén <b>+10%</b> de dto. en tours y traslados</div>",
                 "en": "<div>Last chance! Use <b>STARVIP10</b> and get an extra <b>+10%</b> off tours & transfers</div>",
-                "fr": "<div>Dernière chance ! Utilisez <b>STARVIP10</b> et obtenez <b>+10 %</b> de réduction sur</div>"
+                "fr": "<div>Dernière chance ! Utilisez <b>STARVIP10</b> et obtenez <b>+10 %</b> de réduction</div>"
             }
         }
     ],

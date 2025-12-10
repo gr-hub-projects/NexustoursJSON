@@ -194,7 +194,7 @@
         {
             "fecha_inicio": "2025-12-09",
             "fecha_fin": "2025-12-31",
-            "fondo_color": "linear-gradient(269deg, #2b0e32 0%, #4b1d50 50%, #7a39a3 100%)",
+            "fondo_color": "#f0a42b",
             "cupon": {
                 "es": "STARVIP10",
                 "en": "STARVIP10",

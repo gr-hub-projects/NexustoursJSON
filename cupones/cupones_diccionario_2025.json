@@ -116,13 +116,13 @@
 	"riu":
     [
         {
-            "fecha_inicio": "2025-12-03",
-            "fecha_fin": "2025-12-07",
+            "fecha_inicio": "2025-12-10",
+            "fecha_fin": "2025-12-31",
             "fondo_color": "#9c041f",
             "cupon": {
-                "es": "CYBERNEXUS",
-                "en": "CYBERNEXUS",
-                "fr": "CYBERNEXUS"
+                "es": "RIUCLASS",
+                "en": "RIUCLASS",
+                "fr": "RIUCLASS"
             },
             "promo_html_login": {
                 "es": "<div>Regístrate y obtén un <b>5%</b> de descuento adicional</div>",
@@ -130,24 +130,24 @@
                 "fr": "<div>Inscrivez-vous et obtenez <b>5 %</b> de réduction en plus</div>"
             },
             "promo_html_servicio": {
-                "es": "<div>¡Activa + <b>10 %</b> de dto. en tours con el cupón <b>CYBERNEXUS</b> dando <span style='text-decoration: underline;'>clic aquí</span>!</div>",
-                "en": "<div><span style='text-decoration: underline;'>Click here</span> to activate <b>+10% off</b> tours with code <b>CYBERNEXUS</b>!</div>",
-                "fr": "<div><span style='text-decoration: underline;'>Cliquez ici</span> pour activer <b>+10 %</b> de réduction sur les excursions avec le code <b>CYBERNEXUS</b>!</div>"
+                "es": "<div>Exclusivo RIU Class: <b>15 %</b> de dto. en tours y traslados con el cupón <b>RIUCLASS</b>!</div>",
+                "en": "<div>RIU Class exclusive: <b>+15% off</b> tours & transfers with code <b>RIUCLASS</b>!</div>",
+                "fr": "<div>Exclusif RIU Class: <b>+15 %</b> sur les excursions et transferts avec le code <b>RIUCLASS</b>!</div>"
             },
             "promo_html_servicio_aplicada":{
-                "es": "<div>¡Código <b>CYBERNEXUS</b> aplicado! Disfruta de un <b>10 %</b> de dto. extra en tours</div>",
-                "en": "<div>Code <b>CYBERNEXUS</b> applied! Enjoy an extra <b>10% off</b> tours</div>",
-                "fr": "<div>Code <b>CYBERNEXUS</b> appliqué! Profitez de <b>+10%</b> de réduction supplémentaire sur les excursions</div>"
+                "es": "<div>¡Código <b>RIUCLASS</b> aplicado! Disfruta de un <b>15 %</b> de dto. extra en tours y traslados</div>",
+                "en": "<div>Code <b>RIUCLASS</b> applied! Enjoy an extra <b>15% off</b> tours & transfers</div>",
+                "fr": "<div>Code <b>RIUCLASS</b> appliqué! Profitez de <b>+15%</b> de réduction supplémentaire sur les excursions et transferts</div>"
             },
             "promo_html_reserva":{
-                "es": "<div>Aplica tu <b>+10%</b>  solo en tours con el cupón <b>CYBERNEXUS</b> en el siguiente paso</div>",
-                "en": "<div>Apply your <b>+10%</b> off tours with code <b>CYBERNEXUS</b> in the next step</div>",
-                "fr": "<div>Appliquez votre <b>+10 %</b> de réduction sur les excursions avec le code <b>CYBERNEXUS</b> à l’étape suivante</div>"
+                "es": "<div>Aplica tu <b>+15%</b> en tours y traslados con el cupón <b>RIUCLASS</b> en el siguiente paso</div>",
+                "en": "<div>Apply your <b>+15%</b> off tours & transfers with code <b>RIUCLASS</b> in the next step</div>",
+                "fr": "<div>Appliquez votre <b>+15 %</b> de réduction avec le code <b>RIUCLASS</b> à l’étape suivante</div>"
             },
             "promo_html_reserva2":{
-                "es": "<div>¡Última oportunidad! Usa <b>CYBERNEXUS</b> y obtén <b>+10%</b> de dto. en tours</div>",
-                "en": "<div>Last chance! Use <b>CYBERNEXUS</b> and get an extra <b>+10%</b> off tours</div>",
-                "fr": "<div>Dernière chance ! Utilisez <b>CYBERNEXUS</b> et obtenez <b>+10 %</b> de réduction sur les excursions</div>"
+                "es": "<div>¡Última oportunidad! Usa <b>RIUCLASS</b> y obtén <b>+15%</b> de dto. en tours y traslados</div>",
+                "en": "<div>Last chance! Use <b>RIUCLASS</b> and get an extra <b>+15%</b> off tours & transfers</div>",
+                "fr": "<div>Dernière chance ! Utilisez <b>RIUCLASS</b> et obtenez <b>+15 %</b> de réduction</div>"
             }
         }
     ],

@@ -40,38 +40,38 @@
     "nexustours":
     [
         {
-            "fecha_inicio": "2025-12-03",
-            "fecha_fin": "2025-12-07",
+            "fecha_inicio": "2025-12-12",
+            "fecha_fin": "2025-12-14",
             "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
             "cupon": {
-                "es": "CYBERNEXUS",
-                "en": "CYBERNEXUS",
-                "fr": "CYBERNEXUS"
+                "es": "WEEKEND",
+                "en": "WEEKEND",
+                "fr": "WEEKEND"
             },
             "promo_html_login": {
                 "es": "<div>Regístrate y obtén un <b>5%</b> de descuento adicional</div>",
                 "en": "<div>Sign up and get an extra <b>5% off</b> your purchase</div>",
-                "fr": "<div>Inscrivez-vous et obtenez <b>5 %</b> de réduction en plus</div>"
+                "fr": "<div>Inscrivez-vous et obtenez <b>5%</b> de réduction en plus</div>"
             },
             "promo_html_servicio": {
-                "es": "<div>¡Activa + <b>10 %</b> de dto. en tours con el cupón <b>CYBERNEXUS</b> dando <span style='text-decoration: underline;'>clic aquí</span>!</div>",
-                "en": "<div><span style='text-decoration: underline;'>Click here</span> to activate <b>+10% off</b> tours with code <b>CYBERNEXUS</b>!</div>",
-                "fr": "<div><span style='text-decoration: underline;'>Cliquez ici</span> pour activer <b>+10 %</b> de réduction sur les excursions avec le code <b>CYBERNEXUS</b>!</div>"
+                "es": "<div>¡Activa +<b>10%</b> de dto. en tours y traslados con el cupón <b>WEEKEND</b>!</div>",
+                "en": "<div>Activate +<b>10% off</b> tours & transfers with code <b>WEEKEND</b>!</div>",
+                "fr": "<div>Profitez de +<b>10%</b> sur les excursions et transferts avec <b>WEEKEND</b>!</div>"
             },
             "promo_html_servicio_aplicada":{
-                "es": "<div>¡Código <b>CYBERNEXUS</b> aplicado! Disfruta de un <b>10 %</b> de dto. extra en tours</div>",
-                "en": "<div>Code <b>CYBERNEXUS</b> applied! Enjoy an extra <b>10% off</b> tours</div>",
-                "fr": "<div>Code <b>CYBERNEXUS</b> appliqué! Profitez de <b>+10%</b> de réduction supplémentaire sur les excursions</div>"
+                "es": "<div>¡Código <b>WEEKEND</b> aplicado! Disfruta de un <b>10%</b> de dto. extra en tours y traslados</div>",
+                "en": "<div>Code <b>WEEKEND</b> applied! Enjoy an extra <b>10% off</b> tours & transfers</div>",
+                "fr": "<div>Code <b>WEEKEND</b> appliqué! Profitez de +<b>10%</b> de réduction supplémentaire sur les excursions et transferts</div>"
             },
             "promo_html_reserva":{
-                "es": "<div>Aplica tu <b>+10%</b>  solo en tours con el cupón <b>CYBERNEXUS</b> en el siguiente paso</div>",
-                "en": "<div>Apply your <b>+10%</b> off tours with code <b>CYBERNEXUS</b> in the next step</div>",
-                "fr": "<div>Appliquez votre <b>+10 %</b> de réduction sur les excursions avec le code <b>CYBERNEXUS</b> à l’étape suivante</div>"
+                "es": "<div>Aplica tu +<b>10%</b> en tours y traslados con el cupón <b>WEEKEND</b> en el siguiente paso</div>",
+                "en": "<div>Apply your +<b>10% off</b> tours & transfers with code <b>WEEKEND</b> in the next step</div>",
+                "fr": "<div>Appliquez votre +<b>10%</b> de réduction avec le code <b>WEEKEND</b> à l’étape suivante</div>"
             },
             "promo_html_reserva2":{
-                "es": "<div>¡Última oportunidad! Usa <b>CYBERNEXUS</b> y obtén <b>+10%</b> de dto. en tours</div>",
-                "en": "<div>Last chance! Use <b>CYBERNEXUS</b> and get an extra <b>+10%</b> off tours</div>",
-                "fr": "<div>Dernière chance ! Utilisez <b>CYBERNEXUS</b> et obtenez <b>+10 %</b> de réduction sur les excursions</div>"
+                "es": "<div>¡Última oportunidad! Usa <b>WEEKEND</b> y obtén +<b>10%</b> de dto. en tours y traslados</div>",
+                "en": "<div>Last chance! Use <b>WEEKEND</b> and get an extra +<b>10% off</b> tours & transfers</div>",
+                "fr": "<div>Dernière chance ! Utilisez <b>WEEKEND</b> et obtenez <b>+10 %</b> de réduction</div>"
             }
         }
     ],
@@ -157,10 +157,10 @@
             "fecha_inicio": "2025-12-03",
             "fecha_fin": "2025-12-07",
             "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
-            "cupon": {
-                "es": "CYBERNEXUS",
-                "en": "CYBERNEXUS",
-                "fr": "CYBERNEXUS"
+			"cupon": {
+                "es": "WEEKEND",
+                "en": "WEEKEND",
+                "fr": "WEEKEND"
             },
             "promo_html_login": {
                 "es": "<div>Por cada excursión reservada aquí, NexusTours dona <b>$40 CAD</b> para apoyar la recuperación de Jamaica.</div>",
@@ -168,24 +168,24 @@
                 "fr": "<div>Pour chaque excursion réservée ici, NexusTours verse <b>40 $CAD</b> pour soutenir la relance de la Jamaïque</div>"
             },
             "promo_html_servicio": {
-                "es": "<div>¡Activa + <b>10 %</b> de dto. en tours con el cupón <b>CYBERNEXUS</b> dando <span style='text-decoration: underline;'>clic aquí</span>!</div>",
-                "en": "<div><span style='text-decoration: underline;'>Click here</span> to activate <b>+10% off</b> tours with code <b>CYBERNEXUS</b>!</div>",
-                "fr": "<div><span style='text-decoration: underline;'>Cliquez ici</span> pour activer <b>+10 %</b> de réduction sur les excursions avec le code <b>CYBERNEXUS</b>!</div>"
+                "es": "<div>¡Activa +<b>10%</b> de dto. en tours y traslados con el cupón <b>WEEKEND</b>!</div>",
+                "en": "<div>Activate +<b>10% off</b> tours & transfers with code <b>WEEKEND</b>!</div>",
+                "fr": "<div>Profitez de +<b>10%</b> sur les excursions et transferts avec <b>WEEKEND</b>!</div>"
             },
             "promo_html_servicio_aplicada":{
-                "es": "<div>¡Código <b>CYBERNEXUS</b> aplicado! Disfruta de un <b>10 %</b> de dto. extra en tours</div>",
-                "en": "<div>Code <b>CYBERNEXUS</b> applied! Enjoy an extra <b>10% off</b> tours</div>",
-                "fr": "<div>Code <b>CYBERNEXUS</b> appliqué! Profitez de <b>+10%</b> de réduction supplémentaire sur les excursions</div>"
+                "es": "<div>¡Código <b>WEEKEND</b> aplicado! Disfruta de un <b>10%</b> de dto. extra en tours y traslados</div>",
+                "en": "<div>Code <b>WEEKEND</b> applied! Enjoy an extra <b>10% off</b> tours & transfers</div>",
+                "fr": "<div>Code <b>WEEKEND</b> appliqué! Profitez de +<b>10%</b> de réduction supplémentaire sur les excursions et transferts</div>"
             },
             "promo_html_reserva":{
-                "es": "<div>Aplica tu <b>+10%</b>  solo en tours con el cupón <b>CYBERNEXUS</b> en el siguiente paso</div>",
-                "en": "<div>Apply your <b>+10%</b> off tours with code <b>CYBERNEXUS</b> in the next step</div>",
-                "fr": "<div>Appliquez votre <b>+10 %</b> de réduction sur les excursions avec le code <b>CYBERNEXUS</b> à l’étape suivante</div>"
+                "es": "<div>Aplica tu +<b>10%</b> en tours y traslados con el cupón <b>WEEKEND</b> en el siguiente paso</div>",
+                "en": "<div>Apply your +<b>10% off</b> tours & transfers with code <b>WEEKEND</b> in the next step</div>",
+                "fr": "<div>Appliquez votre +<b>10%</b> de réduction avec le code <b>WEEKEND</b> à l’étape suivante</div>"
             },
             "promo_html_reserva2":{
-                "es": "<div>¡Última oportunidad! Usa <b>CYBERNEXUS</b> y obtén <b>+10%</b> de dto. en tours</div>",
-                "en": "<div>Last chance! Use <b>CYBERNEXUS</b> and get an extra <b>+10%</b> off tours</div>",
-                "fr": "<div>Dernière chance ! Utilisez <b>CYBERNEXUS</b> et obtenez <b>+10 %</b> de réduction sur les excursions</div>"
+                "es": "<div>¡Última oportunidad! Usa <b>WEEKEND</b> y obtén +<b>10%</b> de dto. en tours y traslados</div>",
+                "en": "<div>Last chance! Use <b>WEEKEND</b> and get an extra +<b>10% off</b> tours & transfers</div>",
+                "fr": "<div>Dernière chance ! Utilisez <b>WEEKEND</b> et obtenez <b>+10 %</b> de réduction</div>"
             }
         }
     ],

@@ -74,8 +74,8 @@
                 "fr": "<div>Dernière chance ! Utilisez <b>WEEKEND</b> et obtenez <b>+10 %</b> de réduction</div>"
             }
         },{
-            "fecha_inicio": "2025-12-12",
-            "fecha_fin": "2025-12-14",
+            "fecha_inicio": "2025-12-15",
+            "fecha_fin": "2025-12-23",
             "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
             "cupon": {
                 "es": "NO_PROMO",

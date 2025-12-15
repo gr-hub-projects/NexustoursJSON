@@ -73,6 +73,20 @@
                 "en": "<div>Last chance! Use <b>WEEKEND</b> and get an extra +<b>10% off</b> tours & transfers</div>",
                 "fr": "<div>Dernière chance ! Utilisez <b>WEEKEND</b> et obtenez <b>+10 %</b> de réduction</div>"
             }
+        },{
+            "fecha_inicio": "2025-12-12",
+            "fecha_fin": "2025-12-14",
+            "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
+            "cupon": {
+                "es": "NO_PROMO",
+                "en": "NO_PROMO",
+                "fr": "NO_PROMO"
+            },
+            "promo_html_login": {
+                "es": "<div>Regístrate y obtén un <b>5%</b> de descuento adicional</div>",
+                "en": "<div>Sign up and get an extra <b>5% off</b> your purchase</div>",
+                "fr": "<div>Inscrivez-vous et obtenez <b>5%</b> de réduction en plus</div>"
+            }
         }
     ],
 	"planet":

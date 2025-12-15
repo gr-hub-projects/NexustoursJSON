@@ -2,16 +2,16 @@
     "nexustours":{
         "home":{
             "es":{
-                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/HOME-DESKTOP-ESP-AO.png",
-                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/HOME-MOBILE-ESP-AO.png"
+                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/HOME_ESP_DESKTOP-LM.png",
+                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/HOME_ESP_MOBILE-LM.png"
             },
             "en":{
-                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/HOME-DESKTOP-ENG-AO.png",
-                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/HOME-MOBILE-ENG-AO.png"
+                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/HOME_ENG_DESKTOP-LM.png",
+                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/HOME_ENG_MOBILE-LM.png"
             },
             "fr":{
-                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/HOME-DESKTOP-FRA-AO.png",
-                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/HOME-MOBILE-FRA-AO.png"
+                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/HOME_FRA_DESKTOP-LM.png",
+                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/HOME_FRA_MOBILE-LM.png"
             },
             "banner_url": "https://www.nexustours.com/travels/"
         },

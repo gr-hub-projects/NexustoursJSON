@@ -38,7 +38,7 @@
         },{
             "fecha_inicio": "2025-12-15",
             "fecha_fin": "2025-12-23",
-            "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
+            "fondo_color": "linear-gradient(90deg, #027DB2 0%, #5FAACA 100%)",
             "cupon": {
                 "es": "NO_PROMO",
                 "en": "NO_PROMO",

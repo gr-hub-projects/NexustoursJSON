@@ -2,51 +2,51 @@
     "default": 
     [
         {
-            "fecha_inicio": "2025-12-15",
-            "fecha_fin": "2025-12-23",
+            "fecha_inicio": "2025-12-24",
+            "fecha_fin": "2026-01-04",
             "fondo_color": "linear-gradient(90deg, #027DB2 0%, #5FAACA 100%)",
             "cupon": {
-                "es": "LASTMINUTE10",
-                "en": "LASTMINUTE10",
-                "fr": "LASTMINUTE10"
+                "es": "HOLIDAYS",
+                "en": "HOLIDAYS",
+                "fr": "HOLIDAYS"
             },
             "promo_html_login": {
-                "es": "<div>Regístrate y obtén extra <b>5%</b> dto. en tours y traslados</div>",
+                "es": "<div>Regístrate y obtén un <b>5% de dto.</b> extra en tours y traslados</div>",
                 "en": "<div>Sign up and get an extra <b>5% off</b> tours and transfers</div>",
-                "fr": "<div>Inscrivez-vous et obtenez <b>5%</b> de réduction sur tours et transferts</div>"
+                "fr": "<div>Inscrivez-vous et obtenez <b>5 %</b> de réduction sur tours et transferts</div>"
             },
             "promo_html_servicio": {
-                "es": "<div>¡Activa +<b>10%</b> de dto. en tours y traslados con el cupón <b>LASTMINUTE10</b>!</div>",
-                "en": "<div>Activate +<b>10% off</b> tours & transfers with code <b>LASTMINUTE10</b>!</div>",
-                "fr": "<div>Profitez de +<b>10%</b> sur les excursions et transferts avec <b>LASTMINUTE10</b>!</div>"
+                "es": "<div>¡Activa +<b>10%</b> de dto. en tours y traslados con el cupón <b>HOLIDAYS</b>!</div>",
+                "en": "<div>Activate +<b>10% off</b> tours & transfers with code <b>HOLIDAYS</b>!</div>",
+                "fr": "<div>Profitez de +<b>10%</b> sur les excursions et transferts avec <b>HOLIDAYS</b>!</div>"
             },
             "promo_html_servicio_aplicada":{
-                "es": "<div>¡Código <b>LASTMINUTE10</b> aplicado! Disfruta de un <b>10%</b> de dto. extra en tours y traslados</div>",
-                "en": "<div>Code <b>LASTMINUTE10</b> applied! Enjoy an extra <b>10% off</b> tours & transfers</div>",
-                "fr": "<div>Code <b>LASTMINUTE10</b> appliqué! Profitez de +<b>10%</b> de réduction supplémentaire sur les excursions et transferts</div>"
+                "es": "<div>¡Código <b>HOLIDAYS</b> aplicado! Disfruta de un <b>10%</b> de dto. extra en tours y traslados</div>",
+                "en": "<div>Code <b>HOLIDAYS</b> applied! Enjoy an extra <b>10% off</b> tours & transfers</div>",
+                "fr": "<div>Code <b>HOLIDAYS</b> appliqué! Profitez de +<b>10%</b> de réduction supplémentaire sur les excursions et transferts</div>"
             },
             "promo_html_reserva":{
-                "es": "<div>Aplica tu +<b>10%</b> en tours y traslados con el cupón <b>LASTMINUTE10</b> en el siguiente paso</div>",
-                "en": "<div>Apply your +<b>10% off</b> tours & transfers with code <b>LASTMINUTE10</b> in the next step</div>",
-                "fr": "<div>Appliquez votre +<b>10%</b> de réduction avec le code <b>LASTMINUTE10</b> à l’étape suivante</div>"
+                "es": "<div>Aplica tu +<b>10%</b> en tours y traslados con el cupón <b>HOLIDAYS</b> en el siguiente paso</div>",
+                "en": "<div>Apply your +<b>10% off</b> tours & transfers with code <b>HOLIDAYS</b> in the next step</div>",
+                "fr": "<div>Appliquez votre +<b>10%</b> de réduction avec le code <b>HOLIDAYS</b> à l’étape suivante</div>"
             },
             "promo_html_reserva2":{
-                "es": "<div>¡Última oportunidad! Usa <b>LASTMINUTE10</b> y obtén +<b>10%</b> de dto. en tours y traslados</div>",
-                "en": "<div>Last chance! Use <b>LASTMINUTE10</b> and get an extra +<b>10% off</b> tours & transfers</div>",
-                "fr": "<div>Dernière chance ! Utilisez <b>LASTMINUTE10</b> et obtenez <b>+10 %</b> de réduction</div>"
+                "es": "<div>¡Última oportunidad! Usa <b>HOLIDAYS</b> y obtén +<b>10%</b> de dto. en tours y traslados</div>",
+                "en": "<div>Last chance! Use <b>HOLIDAYS</b> and get an extra +<b>10% off</b> tours & transfers</div>",
+                "fr": "<div>Dernière chance ! Utilisez <b>HOLIDAYS</b> et obtenez <b>+10 %</b> de réduction</div>"
             }
         }
     ],
     "nexustours":
     [
         {
-            "fecha_inicio": "2025-12-15",
-            "fecha_fin": "2025-12-23",
+            "fecha_inicio": "2025-12-24",
+            "fecha_fin": "2025-01-04",
             "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
             "cupon": {
-                "es": "LASTMINUTE10",
-                "en": "LASTMINUTE10",
-                "fr": "LASTMINUTE10"
+                "es": "HOLIDAYS",
+                "en": "HOLIDAYS",
+                "fr": "HOLIDAYS"
             },
             "promo_html_login": {
                 "es": "<div>Regístrate y obtén extra <b>5%</b> dto. en tours y traslados</div>",
@@ -54,32 +54,32 @@
                 "fr": "<div>Inscrivez-vous et obtenez <b>5%</b> de réduction sur tours et transferts</div>"
             },
             "promo_html_servicio": {
-                "es": "<div>¡Activa +<b>10%</b> de dto. en tours y traslados con el cupón <b>LASTMINUTE10</b>!</div>",
-                "en": "<div>Activate +<b>10% off</b> tours & transfers with code <b>LASTMINUTE10</b>!</div>",
-                "fr": "<div>Profitez de +<b>10%</b> sur les excursions et transferts avec <b>LASTMINUTE10</b>!</div>"
+                "es": "<div>¡Activa +<b>10%</b> de dto. en tours y traslados con el cupón <b>HOLIDAYS</b>!</div>",
+                "en": "<div>Activate +<b>10% off</b> tours & transfers with code <b>HOLIDAYS</b>!</div>",
+                "fr": "<div>Profitez de +<b>10%</b> sur les excursions et transferts avec <b>HOLIDAYS</b>!</div>"
             },
             "promo_html_servicio_aplicada":{
-                "es": "<div>¡Código <b>LASTMINUTE10</b> aplicado! Disfruta de un <b>10%</b> de dto. extra en tours y traslados</div>",
-                "en": "<div>Code <b>LASTMINUTE10</b> applied! Enjoy an extra <b>10% off</b> tours & transfers</div>",
-                "fr": "<div>Code <b>LASTMINUTE10</b> appliqué! Profitez de +<b>10%</b> de réduction supplémentaire sur les excursions et transferts</div>"
+                "es": "<div>¡Código <b>HOLIDAYS</b> aplicado! Disfruta de un <b>10%</b> de dto. extra en tours y traslados</div>",
+                "en": "<div>Code <b>HOLIDAYS</b> applied! Enjoy an extra <b>10% off</b> tours & transfers</div>",
+                "fr": "<div>Code <b>HOLIDAYS</b> appliqué! Profitez de +<b>10%</b> de réduction supplémentaire sur les excursions et transferts</div>"
             },
             "promo_html_reserva":{
-                "es": "<div>Aplica tu +<b>10%</b> en tours y traslados con el cupón <b>LASTMINUTE10</b> en el siguiente paso</div>",
-                "en": "<div>Apply your +<b>10% off</b> tours & transfers with code <b>LASTMINUTE10</b> in the next step</div>",
-                "fr": "<div>Appliquez votre +<b>10%</b> de réduction avec le code <b>LASTMINUTE10</b> à l’étape suivante</div>"
+                "es": "<div>Aplica tu +<b>10%</b> en tours y traslados con el cupón <b>HOLIDAYS</b> en el siguiente paso</div>",
+                "en": "<div>Apply your +<b>10% off</b> tours & transfers with code <b>HOLIDAYS</b> in the next step</div>",
+                "fr": "<div>Appliquez votre +<b>10%</b> de réduction avec le code <b>HOLIDAYS</b> à l’étape suivante</div>"
             },
             "promo_html_reserva2":{
-                "es": "<div>¡Última oportunidad! Usa <b>LASTMINUTE10</b> y obtén +<b>10%</b> de dto. en tours y traslados</div>",
-                "en": "<div>Last chance! Use <b>LASTMINUTE10</b> and get an extra +<b>10% off</b> tours & transfers</div>",
-                "fr": "<div>Dernière chance ! Utilisez <b>LASTMINUTE10</b> et obtenez <b>+10 %</b> de réduction</div>"
+                "es": "<div>¡Última oportunidad! Usa <b>HOLIDAYS</b> y obtén +<b>10%</b> de dto. en tours y traslados</div>",
+                "en": "<div>Last chance! Use <b>HOLIDAYS</b> and get an extra +<b>10% off</b> tours & transfers</div>",
+                "fr": "<div>Dernière chance ! Utilisez <b>HOLIDAYS</b> et obtenez <b>+10 %</b> de réduction</div>"
             }
         }
     ],
 	"planet":
     [
         {
-            "fecha_inicio": "2025-12-15",
-            "fecha_fin": "2025-12-23",
+            "fecha_inicio": "2025-12-24",
+            "fecha_fin": "2025-01-04",
             "fondo_color": "linear-gradient(269deg, #2b0e32 0%, #4b1d50 50%, #7a39a3 100%)",
             "cupon": {
                 "es": "STARVIP10",
@@ -116,8 +116,8 @@
 	"riu":
     [
         {
-            "fecha_inicio": "2025-12-15",
-            "fecha_fin": "2025-12-23",
+            "fecha_inicio": "2025-12-24",
+            "fecha_fin": "2025-01-04",
             "fondo_color": "#E4002B",
             "cupon": {
                 "es": "RIUCLASS",
@@ -154,13 +154,13 @@
     "sunwingexcursions":
     [
         {
-            "fecha_inicio": "2025-12-15",
-            "fecha_fin": "2025-12-23",
+            "fecha_inicio": "2025-12-24",
+            "fecha_fin": "2025-01-04",
             "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
 			"cupon": {
-                "es": "LASTMINUTE10",
-                "en": "LASTMINUTE10",
-                "fr": "LASTMINUTE10"
+                "es": "HOLIDAYS",
+                "en": "HOLIDAYS",
+                "fr": "HOLIDAYS"
             },
             "promo_html_login": {
                 "es": "<div>Regístrate y obtén extra <b>5%</b> dto. en tours y traslados</div>",
@@ -168,32 +168,32 @@
                 "fr": "<div>Inscrivez-vous et obtenez <b>5%</b> de réduction sur tours et transferts</div>"
             },
             "promo_html_servicio": {
-                "es": "<div>¡Activa +<b>10%</b> de dto. en tours y traslados con el cupón <b>LASTMINUTE10</b>!</div>",
-                "en": "<div>Activate +<b>10% off</b> tours & transfers with code <b>LASTMINUTE10</b>!</div>",
-                "fr": "<div>Profitez de +<b>10%</b> sur les excursions et transferts avec <b>LASTMINUTE10</b>!</div>"
+                "es": "<div>¡Activa +<b>10%</b> de dto. en tours y traslados con el cupón <b>HOLIDAYS</b>!</div>",
+                "en": "<div>Activate +<b>10% off</b> tours & transfers with code <b>HOLIDAYS</b>!</div>",
+                "fr": "<div>Profitez de +<b>10%</b> sur les excursions et transferts avec <b>HOLIDAYS</b>!</div>"
             },
             "promo_html_servicio_aplicada":{
-                "es": "<div>¡Código <b>LASTMINUTE10</b> aplicado! Disfruta de un <b>10%</b> de dto. extra en tours y traslados</div>",
-                "en": "<div>Code <b>LASTMINUTE10</b> applied! Enjoy an extra <b>10% off</b> tours & transfers</div>",
-                "fr": "<div>Code <b>LASTMINUTE10</b> appliqué! Profitez de +<b>10%</b> de réduction supplémentaire sur les excursions et transferts</div>"
+                "es": "<div>¡Código <b>HOLIDAYS</b> aplicado! Disfruta de un <b>10%</b> de dto. extra en tours y traslados</div>",
+                "en": "<div>Code <b>HOLIDAYS</b> applied! Enjoy an extra <b>10% off</b> tours & transfers</div>",
+                "fr": "<div>Code <b>HOLIDAYS</b> appliqué! Profitez de +<b>10%</b> de réduction supplémentaire sur les excursions et transferts</div>"
             },
             "promo_html_reserva":{
-                "es": "<div>Aplica tu +<b>10%</b> en tours y traslados con el cupón <b>LASTMINUTE10</b> en el siguiente paso</div>",
-                "en": "<div>Apply your +<b>10% off</b> tours & transfers with code <b>LASTMINUTE10</b> in the next step</div>",
-                "fr": "<div>Appliquez votre +<b>10%</b> de réduction avec le code <b>LASTMINUTE10</b> à l’étape suivante</div>"
+                "es": "<div>Aplica tu +<b>10%</b> en tours y traslados con el cupón <b>HOLIDAYS</b> en el siguiente paso</div>",
+                "en": "<div>Apply your +<b>10% off</b> tours & transfers with code <b>HOLIDAYS</b> in the next step</div>",
+                "fr": "<div>Appliquez votre +<b>10%</b> de réduction avec le code <b>HOLIDAYS</b> à l’étape suivante</div>"
             },
             "promo_html_reserva2":{
-                "es": "<div>¡Última oportunidad! Usa <b>LASTMINUTE10</b> y obtén +<b>10%</b> de dto. en tours y traslados</div>",
-                "en": "<div>Last chance! Use <b>LASTMINUTE10</b> and get an extra +<b>10% off</b> tours & transfers</div>",
-                "fr": "<div>Dernière chance ! Utilisez <b>LASTMINUTE10</b> et obtenez <b>+10 %</b> de réduction</div>"
+                "es": "<div>¡Última oportunidad! Usa <b>HOLIDAYS</b> y obtén +<b>10%</b> de dto. en tours y traslados</div>",
+                "en": "<div>Last chance! Use <b>HOLIDAYS</b> and get an extra +<b>10% off</b> tours & transfers</div>",
+                "fr": "<div>Dernière chance ! Utilisez <b>HOLIDAYS</b> et obtenez <b>+10 %</b> de réduction</div>"
             }
         }
     ],
 	"princess":
     [
         {
-            "fecha_inicio": "2025-12-15",
-            "fecha_fin": "2025-12-23",
+            "fecha_inicio": "2025-12-24",
+            "fecha_fin": "2025-12-04",
             "fondo_color": "#f0a42b",
             "cupon": {
                 "es": "PRINCESS10",

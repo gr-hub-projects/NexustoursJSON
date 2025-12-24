@@ -41,7 +41,7 @@
     [
         {
             "fecha_inicio": "2025-12-24",
-            "fecha_fin": "2025-01-04",
+            "fecha_fin": "2026-01-04",
             "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
             "cupon": {
                 "es": "HOLIDAYS",
@@ -79,7 +79,7 @@
     [
         {
             "fecha_inicio": "2025-12-24",
-            "fecha_fin": "2025-01-04",
+            "fecha_fin": "2026-01-04",
             "fondo_color": "linear-gradient(269deg, #2b0e32 0%, #4b1d50 50%, #7a39a3 100%)",
             "cupon": {
                 "es": "STARVIP10",
@@ -117,7 +117,7 @@
     [
         {
             "fecha_inicio": "2025-12-24",
-            "fecha_fin": "2025-01-04",
+            "fecha_fin": "2026-01-04",
             "fondo_color": "#E4002B",
             "cupon": {
                 "es": "RIUCLASS",
@@ -155,7 +155,7 @@
     [
         {
             "fecha_inicio": "2025-12-24",
-            "fecha_fin": "2025-01-04",
+            "fecha_fin": "2026-01-04",
             "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
 			"cupon": {
                 "es": "HOLIDAYS",
@@ -193,7 +193,7 @@
     [
         {
             "fecha_inicio": "2025-12-24",
-            "fecha_fin": "2025-12-04",
+            "fecha_fin": "2026-12-04",
             "fondo_color": "#f0a42b",
             "cupon": {
                 "es": "PRINCESS10",

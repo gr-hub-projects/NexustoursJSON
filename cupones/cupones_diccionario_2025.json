@@ -226,6 +226,22 @@
                 "fr": "<div>Dernière chance ! Utilisez <b>PRINCESS10</b> et obtenez <b>+10 %</b> de réduction</div>"
             }
         }
+    ],
+	"mystique.nexustours.com":
+    [
+        {
+            "fondo_color": "#3a7b88",
+            "cupon": {
+                "es": "NO_PROMO",
+                "en": "NO_PROMO",
+                "fr": "NO_PROMO"
+            },
+            "promo_html_login": {
+                "es": "<div>Regístrate y obtén extra <b>5%</b> dto. en tours y traslados</div>",
+                "en": "<div>Sign up and get an extra <b>5% off</b> tours and transfers</div>",
+                "fr": "<div>Inscrivez-vous et obtenez <b>5%</b> de réduction sur tours et transferts</div>"
+            }
+		}
     ]
 }
 	

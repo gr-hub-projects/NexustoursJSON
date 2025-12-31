@@ -2,16 +2,16 @@
     "nexustours":{
         "home":{
             "es":{
-                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/HOME_DESKTOP_ESP_SYT.png",
-                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/HOME_MOBILE_ESP_SYT.png"
+                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/HOME_DESKTOP_ESP_NTKO.png",
+                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/HOME_MOBILE_ESP_NTKO.png"
             },
             "en":{
-                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/HOME_DESKTOP_ENG_SYT.png",
-                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/HOME_MOBILE_ENG_SYT.png"
+                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/HOME_DESKTOP_ENG_NTKO.png",
+                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/HOME_MOBILE_ENG_NTKO.png"
             },
             "fr":{
-                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/HOME_DESKTOP_FRA_SYT.png",
-                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/HOME_MOBILE_FRA_SYT.png"
+                "banner_desktop": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/HOME_DESKTOP_FRA_NTKO.png",
+                "banner_mobile": "https://www.nexustours.com/images/upload//Landing%20Pages/Diciembre_2025/HOME_MOBILE_FRA_NTKO.png"
             },
             "banner_url": "https://www.nexustours.com/discounts/"
         },

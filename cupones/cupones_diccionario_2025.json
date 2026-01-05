@@ -82,34 +82,34 @@
             "fecha_fin": "2026-01-18",
             "fondo_color": "linear-gradient(269deg, #2b0e32 0%, #4b1d50 50%, #7a39a3 100%)",
             "cupon": {
-                "es": "STARVIP10",
-                "en": "STARVIP10",
-                "fr": "STARVIP10"
+                "es": "NEWYEAR2026",
+                "en": "NEWYEAR2026",
+                "fr": "NEWYEAR2026"
             },
             "promo_html_login": {
-                "es": "<div>Regístrate y obtén extra <b>10%</b> dto. en tours y traslados</div>",
-                "en": "<div>Sign up and get an extra <b>10% off</b> tours and transfers</div>",
-                "fr": "<div>Inscrivez-vous et obtenez <b>10%</b> de réduction sur tours et transferts</div>"
+                "es": "<div>Regístrate y obtén un <b>5%</b> de dto. extra en tours y traslados</div>",
+                "en": "<div>Sign up and get an extra <b>5%</b> off tours and transfers</div>",
+                "fr": "<div>Inscrivez-vous et obtenez <b>5 %</b> de réduction sur tours et transferts</div>"
             },
             "promo_html_servicio": {
-                "es": "<div>¡Activa + <b>10 %</b> de dto. en tours y traslados con el cupón <b>STARVIP10</b>!</div>",
-                "en": "<div>Activate <b>+10% off</b> tours & transfers with code <b>STARVIP10</b>!</div>",
-                "fr": "<div>Profitez de <b>+10 %</b> sur les excursions et transferts avec <b>STARVIP10</b>!</div>"
+                "es": "<div>Haz clic para activar 10% de dto. en tours con el código <b>NEWYEAR2026</b></div>",
+                "en": "<div>Click here to activate 10% off tours with code <b>NEWYEAR2026</b></div>",
+                "fr": "<div>Cliquez ici pour activer 10% de réduction avec le code <b>NEWYEAR2026</b></div>"
             },
             "promo_html_servicio_aplicada":{
-                "es": "<div>¡Código <b>STARVIP10</b> aplicado! Disfruta de un <b>10 %</b> de dto. extra en tours y traslados</div>",
-                "en": "<div>Code <b>STARVIP10</b> applied! Enjoy an extra <b>10% off</b> tours & transfers</div>",
-                "fr": "<div>Code <b>STARVIP10</b> appliqué! Profitez de <b>+10%</b> de réduction supplémentaire sur les excursions et transferts</div>"
+                "es": "<div>Código <b>NEWYEAR2026</b> aplicado. Disfruta extra <b>10%</b> de dto. en tours</div>",
+                "en": "<div>Code <b>NEWYEAR2026</b> applied! Enjoy extra <b>10%</b> off tours</div>",
+                "fr": "<div>Code <b>NEWYEAR2026</b> appliqué ! Profitez de <b>10%</b> de réduction sur les visites</div>"
             },
             "promo_html_reserva":{
-                "es": "<div>Aplica tu <b>+10%</b> en tours y traslados con el cupón <b>STARVIP10</b> en el siguiente paso</div>",
-                "en": "<div>Apply your <b>+10%</b> off tours & transfers with code <b>STARVIP10</b> in the next step</div>",
-                "fr": "<div>Appliquez votre <b>+10 %</b> de réduction avec le code <b>STARVIP10</b> à l’étape suivante</div>"
+                "es": "<div>Aplica <b>NEWYEAR2026</b> y obtén <b>10%</b> de dto. en tours en el siguiente paso</div>",
+                "en": "<div>Apply code <b>NEWYEAR2026</b> to get <b>10%</b> off tours in the next step</div>",
+                "fr": "<div>Appliquez le code <b>NEWYEAR2026</b> pour obtenir <b>10%</b> de réduction à l’étape suivante</div>"
             },
             "promo_html_reserva2":{
-                "es": "<div>¡Última oportunidad! Usa <b>STARVIP10</b> y obtén <b>+10%</b> de dto. en tours y traslados</div>",
-                "en": "<div>Last chance! Use <b>STARVIP10</b> and get an extra <b>+10%</b> off tours & transfers</div>",
-                "fr": "<div>Dernière chance ! Utilisez <b>STARVIP10</b> et obtenez <b>+10 %</b> de réduction</div>"
+                "es": "<div>¡Última oportunidad! Usa <b>NEWYEAR2026</b> y obtén <b>10%</b> de dto. en tours</div>",
+                "en": "<div>Last chance! Use code <b>NEWYEAR2026</b> for <b>10%</b> off tours</div>",
+                "fr": "<div>Dernière chance! Utilisez le code <b>NEWYEAR2026</b> pour <b>10%</b> de réduction</div>"
             }
         }
     ],
@@ -196,34 +196,34 @@
             "fecha_fin": "2026-01-18",
             "fondo_color": "#f0a42b",
             "cupon": {
-                "es": "PRINCESS10",
-                "en": "PRINCESS10",
-                "fr": "PRINCESS10"
+                "es": "NEWYEAR2026",
+                "en": "NEWYEAR2026",
+                "fr": "NEWYEAR2026"
             },
             "promo_html_login": {
-                "es": "<div>Regístrate y obtén extra <b>5%</b> dto. en tours y traslados</div>",
-                "en": "<div>Sign up and get an extra <b>5% off</b> tours and transfers</div>",
-                "fr": "<div>Inscrivez-vous et obtenez <b>5%</b> de réduction sur tours et transferts</div>"
+                "es": "<div>Regístrate y obtén un <b>5%</b> de dto. extra en tours y traslados</div>",
+                "en": "<div>Sign up and get an extra <b>5%</b> off tours and transfers</div>",
+                "fr": "<div>Inscrivez-vous et obtenez <b>5 %</b> de réduction sur tours et transferts</div>"
             },
             "promo_html_servicio": {
-                "es": "<div>¡Activa + <b>10 %</b> de dto. en tours y traslados con el cupón <b>PRINCESS10</b>!</div>",
-                "en": "<div>Activate <b>+10% off</b> tours & transfers with code <b>PRINCESS10</b>!</div>",
-                "fr": "<div>Profitez de <b>+10 %</b> sur les excursions et transferts avec <b>PRINCESS10</b>!</div>"
+                "es": "<div>Haz clic para activar 10% de dto. en tours con el código <b>NEWYEAR2026</b></div>",
+                "en": "<div>Click here to activate 10% off tours with code <b>NEWYEAR2026</b></div>",
+                "fr": "<div>Cliquez ici pour activer 10% de réduction avec le code <b>NEWYEAR2026</b></div>"
             },
             "promo_html_servicio_aplicada":{
-                "es": "<div>¡Código <b>PRINCESS10</b> aplicado! Disfruta de un <b>10 %</b> de dto. extra en tours y traslados</div>",
-                "en": "<div>Code <b>PRINCESS10</b> applied! Enjoy an extra <b>10% off</b> tours & transfers</div>",
-                "fr": "<div>Code <b>PRINCESS10</b> appliqué! Profitez de <b>+10%</b> de réduction supplémentaire sur les excursions et transferts</div>"
+                "es": "<div>Código <b>NEWYEAR2026</b> aplicado. Disfruta extra <b>10%</b> de dto. en tours</div>",
+                "en": "<div>Code <b>NEWYEAR2026</b> applied! Enjoy extra <b>10%</b> off tours</div>",
+                "fr": "<div>Code <b>NEWYEAR2026</b> appliqué ! Profitez de <b>10%</b> de réduction sur les visites</div>"
             },
             "promo_html_reserva":{
-                "es": "<div>Aplica tu <b>+10%</b> en tours y traslados con el cupón <b>PRINCESS10</b> en el siguiente paso</div>",
-                "en": "<div>Apply your <b>+10%</b> off tours & transfers with code <b>PRINCESS10</b> in the next step</div>",
-                "fr": "<div>Appliquez votre <b>+10 %</b> de réduction avec le code <b>PRINCESS10</b> à l’étape suivante</div>"
+                "es": "<div>Aplica <b>NEWYEAR2026</b> y obtén <b>10%</b> de dto. en tours en el siguiente paso</div>",
+                "en": "<div>Apply code <b>NEWYEAR2026</b> to get <b>10%</b> off tours in the next step</div>",
+                "fr": "<div>Appliquez le code <b>NEWYEAR2026</b> pour obtenir <b>10%</b> de réduction à l’étape suivante</div>"
             },
             "promo_html_reserva2":{
-                "es": "<div>¡Última oportunidad! Usa <b>PRINCESS10</b> y obtén <b>+10%</b> de dto. en tours y traslados</div>",
-                "en": "<div>Last chance! Use <b>PRINCESS10</b> and get an extra <b>+10%</b> off tours & transfers</div>",
-                "fr": "<div>Dernière chance ! Utilisez <b>PRINCESS10</b> et obtenez <b>+10 %</b> de réduction</div>"
+                "es": "<div>¡Última oportunidad! Usa <b>NEWYEAR2026</b> y obtén <b>10%</b> de dto. en tours</div>",
+                "en": "<div>Last chance! Use code <b>NEWYEAR2026</b> for <b>10%</b> off tours</div>",
+                "fr": "<div>Dernière chance! Utilisez le code <b>NEWYEAR2026</b> pour <b>10%</b> de réduction</div>"
             }
         }
     ]

@@ -401,6 +401,79 @@
                 "fr": "<div>Dernière chance! Utilisez le code <b>VDAYTRIP</b> pour <b>10%</b> de réduction</div>"
             }
         }
+    ],
+	"https://eurostars.nexustours.com/": 
+    [
+        {
+            "fecha_inicio": "2025-02-02",
+            "fecha_fin": "2026-02-08",
+            "fondo_color": "#847648",
+            "cupon": {
+                "es": "TRAVELGAME",
+                "en": "TRAVELGAME",
+                "fr": "TRAVELGAME"
+            },
+            "promo_html_login": {
+                "es": "<div>Regístrate y obtén un <b>5%</b> de dto. extra en tours y traslados</div>",
+                "en": "<div>Sign up and get an extra <b>5%</b> off tours and transfers</div>",
+                "fr": "<div>Inscrivez-vous et obtenez <b>5 %</b> de réduction sur tours et transferts</div>"
+            },
+            "promo_html_servicio": {
+                "es": "<div>Haz clic para activar 10% de dto. en tours con el código <b>TRAVELGAME</b></div>",
+                "en": "<div>Click here to activate 10% off tours with code <b>TRAVELGAME</b></div>",
+                "fr": "<div>Cliquez ici pour activer 10% de réduction avec le code <b>TRAVELGAME</b></div>"
+            },
+            "promo_html_servicio_aplicada":{
+                "es": "<div>Código <b>TRAVELGAME</b> aplicado. Disfruta extra <b>10%</b> de dto. en tours</div>",
+                "en": "<div>Code <b>TRAVELGAME</b> applied! Enjoy extra <b>10%</b> off tours</div>",
+                "fr": "<div>Code <b>TRAVELGAME</b> appliqué ! Profitez de <b>10%</b> de réduction sur les visites</div>"
+            },
+            "promo_html_reserva":{
+                "es": "<div>Aplica <b>TRAVELGAME</b> y obtén <b>10%</b> de dto. en tours en el siguiente paso</div>",
+                "en": "<div>Apply code <b>TRAVELGAME</b> to get <b>10%</b> off tours in the next step</div>",
+                "fr": "<div>Appliquez le code <b>TRAVELGAME</b> pour obtenir <b>10%</b> de réduction à l’étape suivante</div>"
+            },
+            "promo_html_reserva2":{
+                "es": "<div>¡Última oportunidad! Usa <b>TRAVELGAME</b> y obtén <b>10%</b> de dto. en tours</div>",
+                "en": "<div>Last chance! Use code <b>TRAVELGAME</b> for <b>10%</b> off tours</div>",
+                "fr": "<div>Dernière chance! Utilisez le code <b>TRAVELGAME</b> pour <b>10%</b> de réduction</div>"
+            }
+        },
+		{
+            "fecha_inicio": "2025-02-09",
+            "fecha_fin": "2026-02-15",
+            "fondo_color": "#847648",
+            "cupon": {
+                "es": "VDAYTRIP",
+                "en": "VDAYTRIP",
+                "fr": "VDAYTRIP"
+            },
+            "promo_html_login": {
+                "es": "<div>Regístrate y obtén un <b>5%</b> de dto. extra en tours y traslados</div>",
+                "en": "<div>Sign up and get an extra <b>5%</b> off tours and transfers</div>",
+                "fr": "<div>Inscrivez-vous et obtenez <b>5 %</b> de réduction sur tours et transferts</div>"
+            },
+            "promo_html_servicio": {
+                "es": "<div>Haz clic para activar 10% de dto. en tours con el código <b>VDAYTRIP</b></div>",
+                "en": "<div>Click here to activate 10% off tours with code <b>VDAYTRIP</b></div>",
+                "fr": "<div>Cliquez ici pour activer 10% de réduction avec le code <b>VDAYTRIP</b></div>"
+            },
+            "promo_html_servicio_aplicada":{
+                "es": "<div>Código <b>VDAYTRIP</b> aplicado. Disfruta extra <b>10%</b> de dto. en tours</div>",
+                "en": "<div>Code <b>VDAYTRIP</b> applied! Enjoy extra <b>10%</b> off tours</div>",
+                "fr": "<div>Code <b>VDAYTRIP</b> appliqué ! Profitez de <b>10%</b> de réduction sur les visites</div>"
+            },
+            "promo_html_reserva":{
+                "es": "<div>Aplica <b>VDAYTRIP</b> y obtén <b>10%</b> de dto. en tours en el siguiente paso</div>",
+                "en": "<div>Apply code <b>VDAYTRIP</b> to get <b>10%</b> off tours in the next step</div>",
+                "fr": "<div>Appliquez le code <b>VDAYTRIP</b> pour obtenir <b>10%</b> de réduction à l’étape suivante</div>"
+            },
+            "promo_html_reserva2":{
+                "es": "<div>¡Última oportunidad! Usa <b>VDAYTRIP</b> y obtén <b>10%</b> de dto. en tours</div>",
+                "en": "<div>Last chance! Use code <b>VDAYTRIP</b> for <b>10%</b> off tours</div>",
+                "fr": "<div>Dernière chance! Utilisez le code <b>VDAYTRIP</b> pour <b>10%</b> de réduction</div>"
+            }
+        }
     ]
 }
 	

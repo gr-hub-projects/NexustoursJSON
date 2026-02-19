@@ -125,9 +125,9 @@
                 "fr": "RIUCLASS"
             },
             "promo_html_login": {
-                "es": "<div></div>",
-                "en": "<div></div>",
-                "fr": "<div></div>"
+                "es": "",
+                "en": "",
+                "fr": ""
             },
             "promo_html_servicio": {
                 "es": "<div>Exclusivo RIU Class: <b>15 %</b> de dto. en tours y traslados con el cupón <b>RIUCLASS</b>!</div>",

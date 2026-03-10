@@ -35,6 +35,41 @@
                 "en": "<div>Last chance! Use code <b>LUCKYCHARM</b> for <b>10%</b> off tours</div>",
                 "fr": "<div>Dernière chance! Utilisez le code <b>LUCKYCHARM</b> pour <b>10%</b> de réduction</div>"
             }
+        },
+		{
+            "fecha_inicio": "2025-03-16",
+            "fecha_fin": "2026-03-22",
+            "fondo_color": "linear-gradient(90deg, #027DB2 0%, #5FAACA 100%)",
+            "cupon": {
+                "es": "SPRINGBREAK",
+                "en": "SPRINGBREAK",
+                "fr": "SPRINGBREAK"
+            },
+            "promo_html_login": {
+                "es": "<div>Regístrate y obtén un <b>5%</b> de dto. extra en tours y traslados</div>",
+                "en": "<div>Sign up and get an extra <b>5%</b> off tours and transfers</div>",
+                "fr": "<div>Inscrivez-vous et obtenez <b>5 %</b> de réduction sur tours et transferts</div>"
+            },
+            "promo_html_servicio": {
+                "es": "<div>Haz clic para activar 10% de dto. extra en tours con el código <b>SPRINGBREAK</b></div>",
+                "en": "<div>Click here to activate extra 10% off tours with code <b>SPRINGBREAK</b></div>",
+                "fr": "<div>Cliquez ici pour activer 10% extra de réduction avec le code <b>SPRINGBREAK</b></div>"
+            },
+            "promo_html_servicio_aplicada":{
+                "es": "<div>Código <b>SPRINGBREAK</b> aplicado. Disfruta extra <b>10%</b> de dto. en tours</div>",
+                "en": "<div>Code <b>SPRINGBREAK</b> applied! Enjoy extra <b>10%</b> off tours</div>",
+                "fr": "<div>Code <b>SPRINGBREAK</b> appliqué! Profitez de <b>10%</b> de réduction sur les visites</div>"
+            },
+            "promo_html_reserva":{
+                "es": "<div>Aplica <b>SPRINGBREAK</b> y obtén <b>10%</b> de dto. en tours en el siguiente paso</div>",
+                "en": "<div>Apply code <b>SPRINGBREAK</b> to get <b>10%</b> off tours in the next step</div>",
+                "fr": "<div>Appliquez le code <b>SPRINGBREAK</b> pour obtenir <b>10%</b> de réduction à l’étape suivante</div>"
+            },
+            "promo_html_reserva2":{
+                "es": "<div>¡Última oportunidad! Usa <b>SPRINGBREAK</b> y obtén <b>10%</b> de dto. en tours</div>",
+                "en": "<div>Last chance! Use code <b>SPRINGBREAK</b> for <b>10%</b> off tours</div>",
+                "fr": "<div>Dernière chance! Utilisez le code <b>SPRINGBREAK</b> pour <b>10%</b> de réduction</div>"
+            }
         }
     ],
     "www.nexustours.com":
@@ -72,6 +107,41 @@
                 "es": "<div>¡Última oportunidad! Usa <b>LUCKYCHARM</b> y obtén <b>10%</b> de dto. en tours</div>",
                 "en": "<div>Last chance! Use code <b>LUCKYCHARM</b> for <b>10%</b> off tours</div>",
                 "fr": "<div>Dernière chance! Utilisez le code <b>LUCKYCHARM</b> pour <b>10%</b> de réduction</div>"
+            }
+        },
+		{
+            "fecha_inicio": "2025-03-16",
+            "fecha_fin": "2026-03-22",
+            "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
+            "cupon": {
+                "es": "SPRINGBREAK",
+                "en": "SPRINGBREAK",
+                "fr": "SPRINGBREAK"
+            },
+            "promo_html_login": {
+                "es": "<div>Regístrate y obtén un <b>5%</b> de dto. extra en tours y traslados</div>",
+                "en": "<div>Sign up and get an extra <b>5%</b> off tours and transfers</div>",
+                "fr": "<div>Inscrivez-vous et obtenez <b>5 %</b> de réduction sur tours et transferts</div>"
+            },
+            "promo_html_servicio": {
+                "es": "<div>Haz clic para activar 10% de dto. extra en tours con el código <b>SPRINGBREAK</b></div>",
+                "en": "<div>Click here to activate extra 10% off tours with code <b>SPRINGBREAK</b></div>",
+                "fr": "<div>Cliquez ici pour activer 10% extra de réduction avec le code <b>SPRINGBREAK</b></div>"
+            },
+            "promo_html_servicio_aplicada":{
+                "es": "<div>Código <b>SPRINGBREAK</b> aplicado. Disfruta extra <b>10%</b> de dto. en tours</div>",
+                "en": "<div>Code <b>SPRINGBREAK</b> applied! Enjoy extra <b>10%</b> off tours</div>",
+                "fr": "<div>Code <b>SPRINGBREAK</b> appliqué! Profitez de <b>10%</b> de réduction sur les visites</div>"
+            },
+            "promo_html_reserva":{
+                "es": "<div>Aplica <b>SPRINGBREAK</b> y obtén <b>10%</b> de dto. en tours en el siguiente paso</div>",
+                "en": "<div>Apply code <b>SPRINGBREAK</b> to get <b>10%</b> off tours in the next step</div>",
+                "fr": "<div>Appliquez le code <b>SPRINGBREAK</b> pour obtenir <b>10%</b> de réduction à l’étape suivante</div>"
+            },
+            "promo_html_reserva2":{
+                "es": "<div>¡Última oportunidad! Usa <b>SPRINGBREAK</b> y obtén <b>10%</b> de dto. en tours</div>",
+                "en": "<div>Last chance! Use code <b>SPRINGBREAK</b> for <b>10%</b> off tours</div>",
+                "fr": "<div>Dernière chance! Utilisez le code <b>SPRINGBREAK</b> pour <b>10%</b> de réduction</div>"
             }
         }
     ],
@@ -111,13 +181,48 @@
                 "en": "<div>Last chance! Use code <b>LUCKYCHARM</b> for <b>10%</b> off tours</div>",
                 "fr": "<div>Dernière chance! Utilisez le code <b>LUCKYCHARM</b> pour <b>10%</b> de réduction</div>"
             }
+        },
+		{
+            "fecha_inicio": "2025-03-16",
+            "fecha_fin": "2026-03-22",
+            "fondo_color": "linear-gradient(269deg, #2b0e32 0%, #4b1d50 50%, #7a39a3 100%)",
+            "cupon": {
+                "es": "SPRINGBREAK",
+                "en": "SPRINGBREAK",
+                "fr": "SPRINGBREAK"
+            },
+            "promo_html_login": {
+                "es": "<div>Regístrate y obtén un <b>5%</b> de dto. extra en tours y traslados</div>",
+                "en": "<div>Sign up and get an extra <b>5%</b> off tours and transfers</div>",
+                "fr": "<div>Inscrivez-vous et obtenez <b>5 %</b> de réduction sur tours et transferts</div>"
+            },
+            "promo_html_servicio": {
+                "es": "<div>Haz clic para activar 10% de dto. extra en tours con el código <b>SPRINGBREAK</b></div>",
+                "en": "<div>Click here to activate extra 10% off tours with code <b>SPRINGBREAK</b></div>",
+                "fr": "<div>Cliquez ici pour activer 10% extra de réduction avec le code <b>SPRINGBREAK</b></div>"
+            },
+            "promo_html_servicio_aplicada":{
+                "es": "<div>Código <b>SPRINGBREAK</b> aplicado. Disfruta extra <b>10%</b> de dto. en tours</div>",
+                "en": "<div>Code <b>SPRINGBREAK</b> applied! Enjoy extra <b>10%</b> off tours</div>",
+                "fr": "<div>Code <b>SPRINGBREAK</b> appliqué! Profitez de <b>10%</b> de réduction sur les visites</div>"
+            },
+            "promo_html_reserva":{
+                "es": "<div>Aplica <b>SPRINGBREAK</b> y obtén <b>10%</b> de dto. en tours en el siguiente paso</div>",
+                "en": "<div>Apply code <b>SPRINGBREAK</b> to get <b>10%</b> off tours in the next step</div>",
+                "fr": "<div>Appliquez le code <b>SPRINGBREAK</b> pour obtenir <b>10%</b> de réduction à l’étape suivante</div>"
+            },
+            "promo_html_reserva2":{
+                "es": "<div>¡Última oportunidad! Usa <b>SPRINGBREAK</b> y obtén <b>10%</b> de dto. en tours</div>",
+                "en": "<div>Last chance! Use code <b>SPRINGBREAK</b> for <b>10%</b> off tours</div>",
+                "fr": "<div>Dernière chance! Utilisez le code <b>SPRINGBREAK</b> pour <b>10%</b> de réduction</div>"
+            }
         }
     ],
 	"tours.riu.com":
     [
         {
             "fecha_inicio": "2025-03-09",
-            "fecha_fin": "2026-03-15",
+            "fecha_fin": "2026-03-22",
             "fondo_color": "#E4002B",
             "cupon": {
                 "es": "RIUCLASS",
@@ -187,6 +292,41 @@
                 "en": "<div>Last chance! Use code <b>LUCKYCHARM</b> for <b>10%</b> off tours</div>",
                 "fr": "<div>Dernière chance! Utilisez le code <b>LUCKYCHARM</b> pour <b>10%</b> de réduction</div>"
             }
+        },
+		{
+            "fecha_inicio": "2025-03-16",
+            "fecha_fin": "2026-03-22",
+            "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
+            "cupon": {
+                "es": "SPRINGBREAK",
+                "en": "SPRINGBREAK",
+                "fr": "SPRINGBREAK"
+            },
+            "promo_html_login": {
+                "es": "<div>Regístrate y obtén un <b>5%</b> de dto. extra en tours y traslados</div>",
+                "en": "<div>Sign up and get an extra <b>5%</b> off tours and transfers</div>",
+                "fr": "<div>Inscrivez-vous et obtenez <b>5 %</b> de réduction sur tours et transferts</div>"
+            },
+            "promo_html_servicio": {
+                "es": "<div>Haz clic para activar 10% de dto. extra en tours con el código <b>SPRINGBREAK</b></div>",
+                "en": "<div>Click here to activate extra 10% off tours with code <b>SPRINGBREAK</b></div>",
+                "fr": "<div>Cliquez ici pour activer 10% extra de réduction avec le code <b>SPRINGBREAK</b></div>"
+            },
+            "promo_html_servicio_aplicada":{
+                "es": "<div>Código <b>SPRINGBREAK</b> aplicado. Disfruta extra <b>10%</b> de dto. en tours</div>",
+                "en": "<div>Code <b>SPRINGBREAK</b> applied! Enjoy extra <b>10%</b> off tours</div>",
+                "fr": "<div>Code <b>SPRINGBREAK</b> appliqué! Profitez de <b>10%</b> de réduction sur les visites</div>"
+            },
+            "promo_html_reserva":{
+                "es": "<div>Aplica <b>SPRINGBREAK</b> y obtén <b>10%</b> de dto. en tours en el siguiente paso</div>",
+                "en": "<div>Apply code <b>SPRINGBREAK</b> to get <b>10%</b> off tours in the next step</div>",
+                "fr": "<div>Appliquez le code <b>SPRINGBREAK</b> pour obtenir <b>10%</b> de réduction à l’étape suivante</div>"
+            },
+            "promo_html_reserva2":{
+                "es": "<div>¡Última oportunidad! Usa <b>SPRINGBREAK</b> y obtén <b>10%</b> de dto. en tours</div>",
+                "en": "<div>Last chance! Use code <b>SPRINGBREAK</b> for <b>10%</b> off tours</div>",
+                "fr": "<div>Dernière chance! Utilisez le code <b>SPRINGBREAK</b> pour <b>10%</b> de réduction</div>"
+            }
         }
     ],
 	"princess.nexustours.com":
@@ -225,6 +365,41 @@
                 "en": "<div>Last chance! Use code <b>LUCKYCHARM</b> for <b>10%</b> off tours</div>",
                 "fr": "<div>Dernière chance! Utilisez le code <b>LUCKYCHARM</b> pour <b>10%</b> de réduction</div>"
             }
+        },
+		{
+            "fecha_inicio": "2025-03-16",
+            "fecha_fin": "2026-03-22",
+            "fondo_color": "#f0a42b",
+            "cupon": {
+                "es": "SPRINGBREAK",
+                "en": "SPRINGBREAK",
+                "fr": "SPRINGBREAK"
+            },
+            "promo_html_login": {
+                "es": "<div>Regístrate y obtén un <b>5%</b> de dto. extra en tours y traslados</div>",
+                "en": "<div>Sign up and get an extra <b>5%</b> off tours and transfers</div>",
+                "fr": "<div>Inscrivez-vous et obtenez <b>5 %</b> de réduction sur tours et transferts</div>"
+            },
+            "promo_html_servicio": {
+                "es": "<div>Haz clic para activar 10% de dto. extra en tours con el código <b>SPRINGBREAK</b></div>",
+                "en": "<div>Click here to activate extra 10% off tours with code <b>SPRINGBREAK</b></div>",
+                "fr": "<div>Cliquez ici pour activer 10% extra de réduction avec le code <b>SPRINGBREAK</b></div>"
+            },
+            "promo_html_servicio_aplicada":{
+                "es": "<div>Código <b>SPRINGBREAK</b> aplicado. Disfruta extra <b>10%</b> de dto. en tours</div>",
+                "en": "<div>Code <b>SPRINGBREAK</b> applied! Enjoy extra <b>10%</b> off tours</div>",
+                "fr": "<div>Code <b>SPRINGBREAK</b> appliqué! Profitez de <b>10%</b> de réduction sur les visites</div>"
+            },
+            "promo_html_reserva":{
+                "es": "<div>Aplica <b>SPRINGBREAK</b> y obtén <b>10%</b> de dto. en tours en el siguiente paso</div>",
+                "en": "<div>Apply code <b>SPRINGBREAK</b> to get <b>10%</b> off tours in the next step</div>",
+                "fr": "<div>Appliquez le code <b>SPRINGBREAK</b> pour obtenir <b>10%</b> de réduction à l’étape suivante</div>"
+            },
+            "promo_html_reserva2":{
+                "es": "<div>¡Última oportunidad! Usa <b>SPRINGBREAK</b> y obtén <b>10%</b> de dto. en tours</div>",
+                "en": "<div>Last chance! Use code <b>SPRINGBREAK</b> for <b>10%</b> off tours</div>",
+                "fr": "<div>Dernière chance! Utilisez le code <b>SPRINGBREAK</b> pour <b>10%</b> de réduction</div>"
+            }
         }
     ],
 	"eurostars.nexustours.com": 
@@ -262,6 +437,41 @@
                 "es": "<div>¡Última oportunidad! Usa <b>LUCKYCHARM</b> y obtén <b>10%</b> de dto. en tours</div>",
                 "en": "<div>Last chance! Use code <b>LUCKYCHARM</b> for <b>10%</b> off tours</div>",
                 "fr": "<div>Dernière chance! Utilisez le code <b>LUCKYCHARM</b> pour <b>10%</b> de réduction</div>"
+            }
+        },
+		{
+            "fecha_inicio": "2025-03-16",
+            "fecha_fin": "2026-03-22",
+            "fondo_color": "#847648",
+            "cupon": {
+                "es": "SPRINGBREAK",
+                "en": "SPRINGBREAK",
+                "fr": "SPRINGBREAK"
+            },
+            "promo_html_login": {
+                "es": "<div>Regístrate y obtén un <b>5%</b> de dto. extra en tours y traslados</div>",
+                "en": "<div>Sign up and get an extra <b>5%</b> off tours and transfers</div>",
+                "fr": "<div>Inscrivez-vous et obtenez <b>5 %</b> de réduction sur tours et transferts</div>"
+            },
+            "promo_html_servicio": {
+                "es": "<div>Haz clic para activar 10% de dto. extra en tours con el código <b>SPRINGBREAK</b></div>",
+                "en": "<div>Click here to activate extra 10% off tours with code <b>SPRINGBREAK</b></div>",
+                "fr": "<div>Cliquez ici pour activer 10% extra de réduction avec le code <b>SPRINGBREAK</b></div>"
+            },
+            "promo_html_servicio_aplicada":{
+                "es": "<div>Código <b>SPRINGBREAK</b> aplicado. Disfruta extra <b>10%</b> de dto. en tours</div>",
+                "en": "<div>Code <b>SPRINGBREAK</b> applied! Enjoy extra <b>10%</b> off tours</div>",
+                "fr": "<div>Code <b>SPRINGBREAK</b> appliqué! Profitez de <b>10%</b> de réduction sur les visites</div>"
+            },
+            "promo_html_reserva":{
+                "es": "<div>Aplica <b>SPRINGBREAK</b> y obtén <b>10%</b> de dto. en tours en el siguiente paso</div>",
+                "en": "<div>Apply code <b>SPRINGBREAK</b> to get <b>10%</b> off tours in the next step</div>",
+                "fr": "<div>Appliquez le code <b>SPRINGBREAK</b> pour obtenir <b>10%</b> de réduction à l’étape suivante</div>"
+            },
+            "promo_html_reserva2":{
+                "es": "<div>¡Última oportunidad! Usa <b>SPRINGBREAK</b> y obtén <b>10%</b> de dto. en tours</div>",
+                "en": "<div>Last chance! Use code <b>SPRINGBREAK</b> for <b>10%</b> off tours</div>",
+                "fr": "<div>Dernière chance! Utilisez le code <b>SPRINGBREAK</b> pour <b>10%</b> de réduction</div>"
             }
         }
     ]

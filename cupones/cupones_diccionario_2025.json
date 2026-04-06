@@ -2,13 +2,13 @@
     "default": 
     [
 		{
-            "fecha_inicio": "2025-03-30",
-            "fecha_fin": "2026-04-05",
+            "fecha_inicio": "2025-04-06",
+            "fecha_fin": "2026-04-19",
             "fondo_color": "linear-gradient(90deg, #027DB2 0%, #5FAACA 100%)",
             "cupon": {
-                "es": "EASTERSALE",
-                "en": "EASTERSALE",
-                "fr": "EASTERSALE"
+                "es": "NO_PROMO",
+                "en": "NO_PROMO",
+                "fr": "NO_PROMO"
             },
             "promo_html_login": {
                 "es": "<div>Regístrate y obtén un <b>5%</b> de dto. extra en tours y traslados</div>",
@@ -40,13 +40,13 @@
     "www.nexustours.com":
     [
 		{
-            "fecha_inicio": "2025-03-30",
-            "fecha_fin": "2026-04-05",
+            "fecha_inicio": "2025-04-06",
+            "fecha_fin": "2026-04-19",
             "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
             "cupon": {
-                "es": "EASTERSALE",
-                "en": "EASTERSALE",
-                "fr": "EASTERSALE"
+                "es": "NO_PROMO",
+                "en": "NO_PROMO",
+                "fr": "NO_PROMO"
             },
             "promo_html_login": {
                 "es": "<div>Regístrate y obtén un <b>5%</b> de dto. extra en tours y traslados</div>",
@@ -73,53 +73,18 @@
                 "en": "<div>Last chance! Use code <b>EASTERSALE</b> for <b>10%</b> off tours</div>",
                 "fr": "<div>Dernière chance! Utilisez le code <b>EASTERSALE</b> pour <b>10%</b> de réduction</div>"
             }
-        },
-		{
-            "fecha_inicio": "2025-04-06",
-            "fecha_fin": "2026-04-19",
-            "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
-            "cupon": {
-                "es": "NO_PROMO",
-                "en": "NO_PROMO",
-                "fr": "NO_PROMO"
-            },
-            "promo_html_login": {
-                "es": "<div>Regístrate y obtén un <b>5%</b> de dto. extra en tours y traslados</div>",
-                "en": "<div>Sign up and get an extra <b>5%</b> off tours and transfers</div>",
-                "fr": "<div>Inscrivez-vous et obtenez <b>5 %</b> de réduction sur tours et transferts</div>"
-            },
-            "promo_html_servicio": {
-                "es": "",
-                "en": "",
-                "fr": ""
-            },
-            "promo_html_servicio_aplicada":{
-                "es": "",
-                "en": "",
-                "fr": ""
-            },
-            "promo_html_reserva":{
-                "es": "",
-                "en": "",
-                "fr": ""
-            },
-            "promo_html_reserva2":{
-                "es": "",
-                "en": "",
-                "fr": ""
-            }
         }
     ],
 	"planet.nexustours.com":
     [
 		{
-            "fecha_inicio": "2025-03-30",
-            "fecha_fin": "2026-04-05",
+            "fecha_inicio": "2025-04-06",
+            "fecha_fin": "2026-04-19",
             "fondo_color": "linear-gradient(269deg, #2b0e32 0%, #4b1d50 50%, #7a39a3 100%)",
             "cupon": {
-                "es": "EASTERSALE",
-                "en": "EASTERSALE",
-                "fr": "EASTERSALE"
+                "es": "NO_PROMO",
+                "en": "NO_PROMO",
+                "fr": "NO_PROMO"
             },
             "promo_html_login": {
                 "es": "<div>Regístrate y obtén un <b>5%</b> de dto. extra en tours y traslados</div>",
@@ -151,8 +116,8 @@
 	"tours.riu.com":
     [
         {
-            "fecha_inicio": "2025-03-30",
-            "fecha_fin": "2026-04-05",
+            "fecha_inicio": "2025-04-06",
+            "fecha_fin": "2026-04-19",
             "fondo_color": "#E4002B",
             "cupon": {
                 "es": "RIUCLASS",
@@ -189,13 +154,13 @@
     "sunwingexcursions.nexustours.com":
     [
 		{
-            "fecha_inicio": "2025-03-30",
-            "fecha_fin": "2026-04-05",
+            "fecha_inicio": "2025-04-06",
+            "fecha_fin": "2026-04-19",
             "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
             "cupon": {
-                "es": "EASTERSALE",
-                "en": "EASTERSALE",
-                "fr": "EASTERSALE"
+                "es": "NO_PROMO",
+                "en": "NO_PROMO",
+                "fr": "NO_PROMO"
             },
             "promo_html_login": {
                 "es": "<div>Regístrate y obtén un <b>5%</b> de dto. extra en tours y traslados</div>",
@@ -227,13 +192,13 @@
 	"princess.nexustours.com":
     [
 		{
-            "fecha_inicio": "2025-03-30",
-            "fecha_fin": "2026-04-05",
+            "fecha_inicio": "2025-04-06",
+            "fecha_fin": "2026-04-19",
             "fondo_color": "#f0a42b",
             "cupon": {
-                "es": "EASTERSALE",
-                "en": "EASTERSALE",
-                "fr": "EASTERSALE"
+                "es": "NO_PROMO",
+                "en": "NO_PROMO",
+                "fr": "NO_PROMO"
             },
             "promo_html_login": {
                 "es": "<div>Regístrate y obtén un <b>5%</b> de dto. extra en tours y traslados</div>",
@@ -265,13 +230,13 @@
 	"eurostars.nexustours.com": 
     [
 		{
-            "fecha_inicio": "2025-03-30",
-            "fecha_fin": "2026-04-05",
+            "fecha_inicio": "2025-04-06",
+            "fecha_fin": "2026-04-19",
             "fondo_color": "#847648",
             "cupon": {
-                "es": "EASTERSALE",
-                "en": "EASTERSALE",
-                "fr": "EASTERSALE"
+                "es": "NO_PROMO",
+                "en": "NO_PROMO",
+                "fr": "NO_PROMO"
             },
             "promo_html_login": {
                 "es": "<div>Regístrate y obtén un <b>5%</b> de dto. extra en tours y traslados</div>",

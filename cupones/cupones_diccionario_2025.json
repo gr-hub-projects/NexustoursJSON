@@ -79,9 +79,9 @@
             "fecha_fin": "2026-04-19",
             "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
             "cupon": {
-                "es": "",
-                "en": "",
-                "fr": ""
+                "es": "NO_PROMO",
+                "en": "NO_PROMO",
+                "fr": "NO_PROMO"
             },
             "promo_html_login": {
                 "es": "<div>Regístrate y obtén un <b>5%</b> de dto. extra en tours y traslados</div>",

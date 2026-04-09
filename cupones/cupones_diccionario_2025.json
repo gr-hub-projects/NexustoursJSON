@@ -82,9 +82,9 @@
             "fecha_fin": "2026-04-19",
             "fondo_color": "linear-gradient(269deg, #2b0e32 0%, #4b1d50 50%, #7a39a3 100%)",
             "cupon": {
-                "es": "KICKOFFSALE",
-                "en": "KICKOFFSALE",
-                "fr": "KICKOFFSALE"
+                "es": "NO_PROMO",
+                "en": "NO_PROMO",
+                "fr": "NO_PROMO"
             },
             "promo_html_login": {
                 "es": "<div>Regístrate y obtén un <b>5%</b> de dto. extra en tours y traslados</div>",

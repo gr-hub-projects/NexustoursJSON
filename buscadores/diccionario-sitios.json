@@ -43,15 +43,15 @@
         "id": "108879",
         "categoria": "Zona"
     },
-    "Barceló Bávaro Beach - Adults only - All Inclusive": {
+    "Barcel\u00f3 B\u00e1varo Beach - Adults only - All Inclusive": {
         "id": "JP156344",
         "categoria": "Hotel"
     },
-    "Barceló Maya Beach - All Inclusive": {
+    "Barcel\u00f3 Maya Beach - All Inclusive": {
         "id": "JP049598",
         "categoria": "Hotel"
     },
-    "Barceló Maya Caribe": {
+    "Barcel\u00f3 Maya Caribe": {
         "id": "JP116624",
         "categoria": "Hotel"
     },
@@ -99,7 +99,7 @@
         "id": "116182",
         "categoria": "Zona"
     },
-    "Cancún Hotel by H Hotéis - Airport": {
+    "Canc\u00fan Hotel by H Hot\u00e9is - Airport": {
         "id": "JP10387V",
         "categoria": "Hotel"
     },
@@ -171,7 +171,7 @@
         "id": "116184",
         "categoria": "Zona"
     },
-    "Decameron Barú": {
+    "Decameron Bar\u00fa": {
         "id": "JP054263",
         "categoria": "Hotel"
     },
@@ -227,7 +227,7 @@
         "id": "JP09726L",
         "categoria": "Hotel"
     },
-    "Fort Lauderdale – Hollywood International Airport": {
+    "Fort Lauderdale \u2013 Hollywood International Airport": {
         "id": "123490",
         "categoria": "Zona"
     },
@@ -307,7 +307,7 @@
         "id": "JP775134",
         "categoria": "Hotel"
     },
-    "Hilton Garden Inn Tuxtla Gutiérrez": {
+    "Hilton Garden Inn Tuxtla Guti\u00e9rrez": {
         "id": "JP091902",
         "categoria": "Hotel"
     },
@@ -335,7 +335,7 @@
         "id": "JP034692",
         "categoria": "Hotel"
     },
-    "Hotel Bluebeard´s Club And Villas": {
+    "Hotel Bluebeard\u00b4s Club And Villas": {
         "id": "JP753781",
         "categoria": "Hotel"
     },
@@ -351,7 +351,7 @@
         "id": "JP06564B",
         "categoria": "Hotel"
     },
-    "Hotel Petit Palace Boquería Garden": {
+    "Hotel Petit Palace Boquer\u00eda Garden": {
         "id": "JP201250",
         "categoria": "Hotel"
     },
@@ -399,7 +399,7 @@
         "id": "JP374740",
         "categoria": "Hotel"
     },
-    "Hotel Riu Plaza España": {
+    "Hotel Riu Plaza Espa\u00f1a": {
         "id": "JP06068W",
         "categoria": "Hotel"
     },
@@ -423,7 +423,7 @@
         "id": "JP200399",
         "categoria": "Hotel"
     },
-    "Iberostar Selection Riviera Cancún": {
+    "Iberostar Selection Riviera Canc\u00fan": {
         "id": "JP843923",
         "categoria": "Hotel"
     },
@@ -431,7 +431,7 @@
         "id": "JP875097",
         "categoria": "Hotel"
     },
-    "Iberostar Waves Tucán": {
+    "Iberostar Waves Tuc\u00e1n": {
         "id": "JP897739",
         "categoria": "Hotel"
     },
@@ -507,7 +507,7 @@
         "id": "117155",
         "categoria": "Zona"
     },
-    "Le Méridien Grand Hotel Nuremberg": {
+    "Le M\u00e9ridien Grand Hotel Nuremberg": {
         "id": "JP195531",
         "categoria": "Hotel"
     },
@@ -523,7 +523,7 @@
         "id": "109881",
         "categoria": "Zona"
     },
-    "Lopesan Costa Bávaro Resort Spa & Casino": {
+    "Lopesan Costa B\u00e1varo Resort Spa & Casino": {
         "id": "JP03961D",
         "categoria": "Hotel"
     },
@@ -715,7 +715,7 @@
         "id": "126667",
         "categoria": "Zona"
     },
-    "Polatlı": {
+    "Polatl\u0131": {
         "id": "201749",
         "categoria": "Zona"
     },
@@ -723,7 +723,7 @@
         "id": "JP405998",
         "categoria": "Hotel"
     },
-    "Presidente InterContinental Cancún Resort": {
+    "Presidente InterContinental Canc\u00fan Resort": {
         "id": "JP210183",
         "categoria": "Hotel"
     },
@@ -743,7 +743,7 @@
         "id": "110273",
         "categoria": "Zona"
     },
-    "Pueblo Bonito Rosé Resort & Spa": {
+    "Pueblo Bonito Ros\u00e9 Resort & Spa": {
         "id": "JP215603",
         "categoria": "Hotel"
     },
@@ -863,7 +863,7 @@
         "id": "JP06962C",
         "categoria": "Hotel"
     },
-    "Royalton Vessence Barbados, An Autograph Collection All-Inclusive Resort – Adults Oriented": {
+    "Royalton Vessence Barbados, An Autograph Collection All-Inclusive Resort \u2013 Adults Oriented": {
         "id": "JP36324F",
         "categoria": "Hotel"
     },
@@ -891,7 +891,7 @@
         "id": "118279",
         "categoria": "Zona"
     },
-    "Sandos Cancún All Inclusive - Adults Only": {
+    "Sandos Canc\u00fan All Inclusive - Adults Only": {
         "id": "JP731493",
         "categoria": "Hotel"
     },
@@ -927,7 +927,7 @@
         "id": "JP189514",
         "categoria": "Hotel"
     },
-    "Secrets Moxché Playa Del Carmen": {
+    "Secrets Moxch\u00e9 Playa Del Carmen": {
         "id": "JP06720K",
         "categoria": "Hotel"
     },
@@ -1071,7 +1071,7 @@
         "id": "JP117468",
         "categoria": "Hotel"
     },
-    "Wyndham Grand Cancún All Inclusive Resort & Villas": {
+    "Wyndham Grand Canc\u00fan All Inclusive Resort & Villas": {
         "id": "JP102571",
         "categoria": "Hotel"
     },
@@ -1223,12 +1223,16 @@
         "id": "No encontrado",
         "categoria": "Desconocido"
     },
-    "Hideaway at Royalton Punta Cana, An Autograph Collection AllInclusive Resort & Casino – Adults Only": {
+    "Hideaway at Royalton Punta Cana, An Autograph Collection AllInclusive Resort & Casino \u2013 Adults Only": {
         "id": "No encontrado",
         "categoria": "Desconocido"
     },
     "Bahia Principe Grand El Portillo": {
         "id": "No encontrado",
         "categoria": "Desconocido"
+    },
+    "": {
+        "id": "108869",
+        "categoria": "Zona"
     }
 }

@@ -1166,5 +1166,69 @@
     "Hilton Garden Inn Tuxtla Gutierrez": {
         "id": "JP091902",
         "categoria": "Hotel"
+    },
+    "Aeropuerto Internacional Luis Munoz Marin": {
+        "id": "118282",
+        "categoria": "Zona"
+    },
+    "Bahia Principe Grand Jamaica": {
+        "id": "No encontrado",
+        "categoria": "Desconocido"
+    },
+    "Hideaway at Royalton Punta Cana, An Autograph Collection AllInclusive Resort & Casino – Adults Only": {
+        "id": "No encontrado",
+        "categoria": "Desconocido"
+    },
+    "Punta Cana Aeroport": {
+        "id": "118004",
+        "categoria": "Zona"
+    },
+    "Samana El Catey International Airport": {
+        "id": "144950",
+        "categoria": "Zona"
+    },
+    "Sao Luiz Aeroporto": {
+        "id": "118308",
+        "categoria": "Zona"
+    },
+    "Detroit Metropolitan Airport": {
+        "id": "116319",
+        "categoria": "Zona"
+    },
+    "Playa Del Carmen Aeropuerto": {
+        "id": "243145",
+        "categoria": "Zona"
+    },
+    "excell": {
+        "id": "JP887271",
+        "categoria": "Hotel"
+    },
+    "Playa Del Carmen Airport": {
+        "id": "243145",
+        "categoria": "Zona"
+    },
+    "Puebla Aeropuerto Internacional": {
+        "id": "117815",
+        "categoria": "Zona"
+    },
+    "Rio Hato Airport": {
+        "id": "186511",
+        "categoria": "Zona"
+    },
+    "Kopitnari airport": {
+        "id": "232670",
+        "categoria": "Zona"
+    },
+    "Milano-Linate Airport": {
+        "id": "112579",
+        "categoria": "Zona"
+    },
+    "Bahia Principe Grand El Portillo": {
+        "id": "No encontrado",
+        "categoria": "Desconocido"
+    },
+    "Aruba International Airport": {
+        "id": "115692",
+        "categoria": "Zona"
     }
 }

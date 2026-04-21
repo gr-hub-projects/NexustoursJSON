@@ -15,10 +15,6 @@
         "id": "118382",
         "categoria": "Zona"
     },
-    "Aeropuerto Internacional Luis Muñoz Marín": {
-        "id": "No encontrado",
-        "categoria": "Desconocido"
-    },
     "Alanya Port": {
         "id": "234069",
         "categoria": "Zona"
@@ -35,10 +31,6 @@
         "id": "115632",
         "categoria": "Zona"
     },
-    "Aruba International Airport": {
-        "id": "No encontrado",
-        "categoria": "Desconocido"
-    },
     "Aztec": {
         "id": "207764",
         "categoria": "Zona"
@@ -46,14 +38,6 @@
     "B&B Hotel Milano - Monza": {
         "id": "JP269231",
         "categoria": "Hotel"
-    },
-    "Bahia Principe Grand El Portillo": {
-        "id": "No encontrado",
-        "categoria": "Desconocido"
-    },
-    "Bahia Principe Grand Jamaica": {
-        "id": "No encontrado",
-        "categoria": "Desconocido"
     },
     "Barbados": {
         "id": "108879",
@@ -114,10 +98,6 @@
     "Cancun Aeropuerto Internacional": {
         "id": "116182",
         "categoria": "Zona"
-    },
-    "Cancún Aeropuerto Internacional": {
-        "id": "No encontrado",
-        "categoria": "Desconocido"
     },
     "Cancún Hotel by H Hotéis - Airport": {
         "id": "JP10387V",
@@ -203,10 +183,6 @@
         "id": "JP136270",
         "categoria": "Hotel"
     },
-    "Detroit Metropolitan Airport": {
-        "id": "No encontrado",
-        "categoria": "Desconocido"
-    },
     "Dreams Aventuras Riviera Maya": {
         "id": "JP008575",
         "categoria": "Hotel"
@@ -238,10 +214,6 @@
     "Emotions by Hodelpa Puerto Plata": {
         "id": "JP121037",
         "categoria": "Hotel"
-    },
-    "excell": {
-        "id": "No encontrado",
-        "categoria": "Desconocido"
     },
     "Excellence Riviera Cancun": {
         "id": "JP513941",
@@ -330,10 +302,6 @@
     "Hideaway at Royalton Blue Waters, An Autograph Collection all-Inclusive Resort - Adults Only": {
         "id": "JP380696",
         "categoria": "Hotel"
-    },
-    "Hideaway at Royalton Punta Cana, An Autograph Collection AllInclusive Resort & Casino – Adults Only": {
-        "id": "No encontrado",
-        "categoria": "Desconocido"
     },
     "Hilton Cancun Mar Caribe All-Inclusive Resort": {
         "id": "JP775134",
@@ -519,10 +487,6 @@
         "id": "123119",
         "categoria": "Zona"
     },
-    "Kopitnari airport": {
-        "id": "No encontrado",
-        "categoria": "Desconocido"
-    },
     "La Altagracia": {
         "id": "126253",
         "categoria": "Zona"
@@ -630,10 +594,6 @@
     "Milan": {
         "id": "124290",
         "categoria": "Zona"
-    },
-    "Milano-Linate Airport": {
-        "id": "No encontrado",
-        "categoria": "Desconocido"
     },
     "Milano-Malpensa Airport": {
         "id": "112578",
@@ -743,14 +703,6 @@
         "id": "146636",
         "categoria": "Zona"
     },
-    "Playa Del Carmen Aeropuerto": {
-        "id": "No encontrado",
-        "categoria": "Desconocido"
-    },
-    "Playa Del Carmen Airport": {
-        "id": "No encontrado",
-        "categoria": "Desconocido"
-    },
     "Playa del Carmen": {
         "id": "112668",
         "categoria": "Zona"
@@ -782,10 +734,6 @@
     "Providenciales International Airport": {
         "id": "117909",
         "categoria": "Zona"
-    },
-    "Puebla Aeropuerto Internacional": {
-        "id": "No encontrado",
-        "categoria": "Desconocido"
     },
     "Puebla International Airport": {
         "id": "117815",
@@ -850,10 +798,6 @@
     "Regina Aeropuerto Internacional": {
         "id": "119039",
         "categoria": "Zona"
-    },
-    "Rio Hato Airport": {
-        "id": "No encontrado",
-        "categoria": "Desconocido"
     },
     "Riu Latino - Adults Only - All Inclusive": {
         "id": "JP06950L",
@@ -939,10 +883,6 @@
         "id": "118389",
         "categoria": "Zona"
     },
-    "Samaná El Catey International Airport": {
-        "id": "No encontrado",
-        "categoria": "Desconocido"
-    },
     "San Jose - Juan Santamaria Aeroport International": {
         "id": "118279",
         "categoria": "Zona"
@@ -963,10 +903,6 @@
         "id": "154946",
         "categoria": "Zona"
     },
-    "Santa María Huatulco": {
-        "id": "No encontrado",
-        "categoria": "Desconocido"
-    },
     "Santiago": {
         "id": "112960",
         "categoria": "Zona"
@@ -978,10 +914,6 @@
     "Santo Domingo-Las Americas Airport": {
         "id": "118215",
         "categoria": "Zona"
-    },
-    "Sao Luiz Aeroporto": {
-        "id": "No encontrado",
-        "categoria": "Desconocido"
     },
     "Sayulita": {
         "id": "189950",
@@ -1159,10 +1091,6 @@
         "id": "152640",
         "categoria": "Zona"
     },
-    "Aeropuerto Internacional Luis Munoz Marin": {
-        "id": "No encontrado",
-        "categoria": "Desconocido"
-    },
     "Barcelo Bavaro Beach - Adults only - All Inclusive": {
         "id": "JP156344",
         "categoria": "Hotel"
@@ -1174,14 +1102,6 @@
     "Barcelo Maya Caribe": {
         "id": "JP116624",
         "categoria": "Hotel"
-    },
-    "Punta Cana Aeroport": {
-        "id": "No encontrado",
-        "categoria": "Desconocido"
-    },
-    "Samana El Catey International Airport": {
-        "id": "No encontrado",
-        "categoria": "Desconocido"
     },
     "Hotel Riu Plaza Espana": {
         "id": "JP06068W",

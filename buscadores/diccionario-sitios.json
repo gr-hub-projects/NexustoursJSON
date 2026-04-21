@@ -1,292 +1,1250 @@
 {
-    "Acapulco Aeropuerto Internacional": { "id": "115530", "categoria": "Zona" },
-    "Adolfo Suarez Madrid-Barajas Aeropuerto": { "id": "110744", "categoria": "Zona" },
-    "Aeropuerto El Dorado": { "id": "115869", "categoria": "Zona" },
-    "Aeropuerto Internacional del Cibao": { "id": "118382", "categoria": "Zona" },
-    "Aeropuerto Internacional Luis Muñoz Marín": { "id": "No encontrado", "categoria": "Desconocido" },
-    "Alanya Port": { "id": "234069", "categoria": "Zona" },
-    "Altamont Court Hotel": { "id": "JP325560", "categoria": "Hotel" },
-    "Antigua And Barbuda": { "id": "108872", "categoria": "Zona" },
-    "Antigua International Airport": { "id": "115632", "categoria": "Zona" },
-    "Aruba International Airport": { "id": "No encontrado", "categoria": "Desconocido" },
-    "Aztec": { "id": "207764", "categoria": "Zona" },
-    "B&B Hotel Milano - Monza": { "id": "JP269231", "categoria": "Hotel" },
-    "Bahia Principe Grand El Portillo": { "id": "No encontrado", "categoria": "Desconocido" },
-    "Bahia Principe Grand Jamaica": { "id": "No encontrado", "categoria": "Desconocido" },
-    "Barbados": { "id": "108879", "categoria": "Zona" },
-    "Barceló Bávaro Beach - Adults only - All Inclusive": { "id": "JP156344", "categoria": "Hotel" },
-    "Barceló Maya Beach - All Inclusive": { "id": "JP049598", "categoria": "Hotel" },
-    "Barceló Maya Caribe": { "id": "JP116624", "categoria": "Hotel" },
-    "Barcelona-El Prat Airport": { "id": "113837", "categoria": "Zona" },
-    "Blue Haven Resort": { "id": "JP289921", "categoria": "Hotel" },
-    "BlueBay Grand Esmeralda": { "id": "JP407068", "categoria": "Hotel" },
-    "Bolongo Bay Beach Resort": { "id": "JP236766", "categoria": "Hotel" },
-    "Bridgetown International Airport": { "id": "115788", "categoria": "Zona" },
-    "Bridgetown": { "id": "109253", "categoria": "Zona" },
-    "Buenaventura Grand Hotel & Great Moments": { "id": "JP154733", "categoria": "Hotel" },
-    "Calgary Aeropuerto Internacional": { "id": "119106", "categoria": "Zona" },
-    "Calgary Centro": { "id": "132228", "categoria": "Zona" },
-    "Calgary": { "id": "109291", "categoria": "Zona" },
-    "Cancun Aeropuerto Internacional": { "id": "116182", "categoria": "Zona" },
-    "Cancún Aeropuerto Internacional": { "id": "No encontrado", "categoria": "Desconocido" },
-    "Cancún Hotel by H Hotéis - Airport": { "id": "JP10387V", "categoria": "Hotel" },
-    "Cancun International Airport": { "id": "116182", "categoria": "Zona" },
-    "Cancun": { "id": "109303", "categoria": "Zona" },
-    "Capital O Cancun International Airport 24/7,": { "id": "JP22700P", "categoria": "Hotel" },
-    "Carthagene": { "id": "110914", "categoria": "Zona" },
-    "Castries": { "id": "123221", "categoria": "Zona" },
-    "Central Hotel Panama Casco Viejo": { "id": "JP801162", "categoria": "Hotel" },
-    "Chichen Itza": { "id": "109352", "categoria": "Zona" },
-    "Chiquila": { "id": "206106", "categoria": "Zona" },
-    "Cibao International Airport": { "id": "118382", "categoria": "Zona" },
-    "City Express by Marriott La Paz": { "id": "JP404116", "categoria": "Hotel" },
-    "Ciudad de Mexico Aeropuerto Internacional": { "id": "117401", "categoria": "Zona" },
-    "Cofresi Palm Beach & Spa Resort": { "id": "JP199139", "categoria": "Hotel" },
-    "Comfort Hotel Tokyo Higashi Nihonbashi": { "id": "JP331914", "categoria": "Hotel" },
-    "Costa Rica": { "id": "108888", "categoria": "Zona" },
-    "Cozumel Cruise Terminal": { "id": "244629", "categoria": "Zona" },
-    "Cozumel Ferry Terminal": { "id": "234169", "categoria": "Zona" },
-    "Curacao International Airport": { "id": "116184", "categoria": "Zona" },
-    "Decameron Barú": { "id": "JP054263", "categoria": "Hotel" },
-    "Deja Resort": { "id": "JP01089G", "categoria": "Hotel" },
-    "Delta Hotels by Marriott Regina": { "id": "JP136270", "categoria": "Hotel" },
-    "Detroit Metropolitan Airport": { "id": "No encontrado", "categoria": "Desconocido" },
-    "Dreams Aventuras Riviera Maya": { "id": "JP008575", "categoria": "Hotel" },
-    "Dreams Puerto Morelos Resort & Spa": { "id": "JP044338", "categoria": "Hotel" },
-    "Dreams Tulum Resort & Spa": { "id": "JP980400", "categoria": "Hotel" },
-    "Eden Roc Miami Beach Resort": { "id": "JP152390", "categoria": "Hotel" },
-    "El Cid": { "id": "152683", "categoria": "Zona" },
-    "El Dorado Seaside Suites": { "id": "JP210136", "categoria": "Hotel" },
-    "El Mangroove, Autograph Collection": { "id": "JP108511", "categoria": "Hotel" },
-    "Emotions by Hodelpa Puerto Plata": { "id": "JP121037", "categoria": "Hotel" },
-    "excell": { "id": "No encontrado", "categoria": "Desconocido" },
-    "Excellence Riviera Cancun": { "id": "JP513941", "categoria": "Hotel" },
-    "Fairfield Inn & Suites Fort Lauderdale Airport & Cruise Port": { "id": "JP020883", "categoria": "Hotel" },
-    "Family Selection At Grand Palladium Kantenah Resort & Spa": { "id": "JP09726L", "categoria": "Hotel" },
-    "Fort Lauderdale – Hollywood International Airport": { "id": "123490", "categoria": "Zona" },
-    "Four Points by Sheraton Puebla": { "id": "JP03798Q", "categoria": "Hotel" },
-    "Freeport International Airport": { "id": "116505", "categoria": "Zona" },
-    "Gander International Airport": { "id": "119045", "categoria": "Zona" },
-    "Granada Department": { "id": "119760", "categoria": "Zona" },
-    "Grand Bavaro Princess - All Inclusive": { "id": "JP02574R", "categoria": "Hotel" },
-    "Grand Decameron Panama, A Trademark All Inclusive Resort": { "id": "JP36044R", "categoria": "Hotel" },
-    "Grand Hyatt Barcelona": { "id": "JP976602", "categoria": "Hotel" },
-    "Grand Palladium Lady Hamilton Resort & Spa": { "id": "JP064604", "categoria": "Hotel" },
-    "Grand Palladium Punta Cana Resort & Spa": { "id": "JP136781", "categoria": "Hotel" },
-    "Grand Sunset Princess": { "id": "JP867348", "categoria": "Hotel" },
-    "Grand Velas Los Cabos": { "id": "JP00150C", "categoria": "Hotel" },
-    "Grenada International Airport": { "id": "116609", "categoria": "Zona" },
-    "Hacienda del Mar Los Cabos, Autograph Collection": { "id": "JP883943", "categoria": "Hotel" },
-    "Halifax International Airport": { "id": "118963", "categoria": "Zona" },
-    "Hampton By Hilton San Jose Airport": { "id": "JP879610", "categoria": "Hotel" },
-    "Hard Rock Hotel Riviera Maya - Hacienda and Heaven": { "id": "JP049178", "categoria": "Hotel" },
-    "Hard Rock Los Cabos All Inclusive Resort": { "id": "JP02843R", "categoria": "Hotel" },
-    "Hideaway at Royalton Blue Waters, An Autograph Collection all-Inclusive Resort - Adults Only": { "id": "JP380696", "categoria": "Hotel" },
-    "Hideaway at Royalton Punta Cana, An Autograph Collection AllInclusive Resort & Casino – Adults Only": { "id": "No encontrado", "categoria": "Desconocido" },
-    "Hilton Cancun Mar Caribe All-Inclusive Resort": { "id": "JP775134", "categoria": "Hotel" },
-    "Hilton Garden Inn Tuxtla Gutiérrez": { "id": "JP091902", "categoria": "Hotel" },
-    "Hilton Vacation Club Cancun Resort Las Vegas": { "id": "JP162801", "categoria": "Hotel" },
-    "Hodelpa Gran Almirante": { "id": "JP424449", "categoria": "Hotel" },
-    "Holiday Inn Hotel and Suites Anaheim": { "id": "JP407232", "categoria": "Hotel" },
-    "Honolulu International Airport": { "id": "116764", "categoria": "Zona" },
-    "Hotel Aeropuerto Los Cabos": { "id": "JP226769", "categoria": "Hotel" },
-    "Hotel Barajas Plaza": { "id": "JP034692", "categoria": "Hotel" },
-    "Hotel Bluebeard´s Club And Villas": { "id": "JP753781", "categoria": "Hotel" },
-    "Hotel Eurostars Madrid Tower": { "id": "JP035065", "categoria": "Hotel" },
-    "Hotel Ibis Madrid Aeropuerto Barajas": { "id": "JP969951", "categoria": "Hotel" },
-    "Hotel La Posada and Jungle": { "id": "JP06564B", "categoria": "Hotel" },
-    "Hotel Petit Palace Boquería Garden": { "id": "JP201250", "categoria": "Hotel" },
-    "Hotel Playa Bonita Mazatlan, Sinaloa.": { "id": "JP035482", "categoria": "Hotel" },
-    "Hotel Riu Emerald Bay": { "id": "JP225728", "categoria": "Hotel" },
-    "Hotel Riu Guanacaste": { "id": "JP229068", "categoria": "Hotel" },
-    "Hotel Riu Jalisco": { "id": "JP732520", "categoria": "Hotel" },
-    "Hotel Riu Negril": { "id": "JP807606", "categoria": "Hotel" },
-    "Hotel Riu Palace Aquarelle": { "id": "JP12286Z", "categoria": "Hotel" },
-    "Hotel Riu Palace Baja California": { "id": "JP02871C", "categoria": "Hotel" },
-    "Hotel Riu Palace Costa Mujeres": { "id": "JP02875V", "categoria": "Hotel" },
-    "Hotel Riu Palace Costa Rica": { "id": "JP022062", "categoria": "Hotel" },
-    "Hotel Riu Palace Tropical Bay": { "id": "JP986417", "categoria": "Hotel" },
-    "Hotel RIU Playa Blanca": { "id": "JP374740", "categoria": "Hotel" },
-    "Hotel Riu Plaza España": { "id": "JP06068W", "categoria": "Hotel" },
-    "Hotel Riu Vallarta": { "id": "JP997128", "categoria": "Hotel" },
-    "Hotel Tamarindo Diria Beach Resort ": { "id": "JP022089", "categoria": "Hotel" },
-    "Huatulco Aeropuerto Internacional": { "id": "116819", "categoria": "Zona" },
-    "Huatulco International Airport": { "id": "116819", "categoria": "Zona" },
-    "Hyatt Ziva Puerto Vallarta": { "id": "JP200399", "categoria": "Hotel" },
-    "Iberostar Selection Riviera Cancún": { "id": "JP843923", "categoria": "Hotel" },
-    "Iberostar Waves Rose Hall Beach": { "id": "JP875097", "categoria": "Hotel" },
-    "Iberostar Waves Tucán": { "id": "JP897739", "categoria": "Hotel" },
-    "Ibiza Airport": { "id": "116840", "categoria": "Zona" },
-    "Imperio De Angeles": { "id": "JP037136", "categoria": "Hotel" },
-    "Isla Mujeres Harbour": { "id": "234178", "categoria": "Zona" },
-    "Isla Mujeres": { "id": "189953", "categoria": "Zona" },
-    "Izla Hotel": { "id": "JP02809B", "categoria": "Hotel" },
-    "Jaco": { "id": "121470", "categoria": "Zona" },
-    "Jamaica": { "id": "108913", "categoria": "Zona" },
-    "John F. Kennedy International Airport": { "id": "110746", "categoria": "Zona" },
-    "JW Marriott Cancun Resort & Spa": { "id": "JP016238", "categoria": "Hotel" },
-    "Kingston Aeropuerto": { "id": "117043", "categoria": "Zona" },
-    "Kingston Airport": { "id": "117043", "categoria": "Zona" },
-    "Kingston": { "id": "109784", "categoria": "Zona" },
-    "Konakli": { "id": "123119", "categoria": "Zona" },
-    "Kopitnari airport": { "id": "No encontrado", "categoria": "Desconocido" },
-    "La Altagracia": { "id": "126253", "categoria": "Zona" },
-    "La Paz Aeropuerto Internacional": { "id": "117153", "categoria": "Zona" },
-    "Las Brisas Hotel Huatulco": { "id": "JP655154", "categoria": "Hotel" },
-    "Las Vegas-Henderson Aeropuerto Ejecutivo": { "id": "116795", "categoria": "Zona" },
-    "Las Vegas-McCarran Aeropuerto Internacional": { "id": "117155", "categoria": "Zona" },
-    "Le Méridien Grand Hotel Nuremberg": { "id": "JP195531", "categoria": "Hotel" },
-    "Liberia Aeropuerto": { "id": "117230", "categoria": "Zona" },
-    "Liberia Airport": { "id": "117230", "categoria": "Zona" },
-    "Liberia": { "id": "109881", "categoria": "Zona" },
-    "Lopesan Costa Bávaro Resort Spa & Casino": { "id": "JP03961D", "categoria": "Hotel" },
-    "Los Angeles Aeropuerto Internacional": { "id": "117158", "categoria": "Zona" },
-    "Los Cabos Aeropuerto": { "id": "118275", "categoria": "Zona" },
-    "Los Cabos Airport": { "id": "118275", "categoria": "Zona" },
-    "Los Cabos": { "id": "125355", "categoria": "Zona" },
-    "Los Milagros Hotel": { "id": "JP167019", "categoria": "Hotel" },
-    "Madrid Centro": { "id": "113824", "categoria": "Zona" },
-    "Madrid": { "id": "113987", "categoria": "Zona" },
-    "Mangrove Beach Corendon Curacao All-Inclusive Resort, Curio by Hilton": { "id": "JP016130", "categoria": "Hotel" },
-    "Margaritaville Beach Resort - Nassau": { "id": "JP06726R", "categoria": "Hotel" },
-    "MARINA CABO PLAZA": { "id": "JP255682", "categoria": "Hotel" },
-    "Mazatlan Aeropuerto International": { "id": "117608", "categoria": "Zona" },
-    "Mazatlan": { "id": "109986", "categoria": "Zona" },
-    "Merida Aeropuerto Internacional": { "id": "117432", "categoria": "Zona" },
-    "Mexico City International Airport": { "id": "117401", "categoria": "Zona" },
-    "Mexico": { "id": "108919", "categoria": "Zona" },
-    "Miami Aeropuerto Internacional": { "id": "117431", "categoria": "Zona" },
-    "Milan": { "id": "124290", "categoria": "Zona" },
-    "Milano-Linate Airport": { "id": "No encontrado", "categoria": "Desconocido" },
-    "Milano-Malpensa Airport": { "id": "112578", "categoria": "Zona" },
-    "Mirador Acapulco": { "id": "JP265412", "categoria": "Hotel" },
-    "Montego Bay Aeroport": { "id": "117360", "categoria": "Zona" },
-    "Montego Bay Aeropuerto": { "id": "117360", "categoria": "Zona" },
-    "Montego Bay Airport": { "id": "117360", "categoria": "Zona" },
-    "Montego Bay": { "id": "110034", "categoria": "Zona" },
-    "Montreal-Dorval International Aeroport": { "id": "119072", "categoria": "Zona" },
-    "Monza": { "id": "121832", "categoria": "Zona" },
-    "Motel 6-Anaheim, CA - Maingate": { "id": "JP775273", "categoria": "Hotel" },
-    "Munich Airport": { "id": "117566", "categoria": "Zona" },
-    "Nassau International Airport": { "id": "133635", "categoria": "Zona" },
-    "Nassau": { "id": "110100", "categoria": "Zona" },
-    "Negril": { "id": "110105", "categoria": "Zona" },
-    "New York": { "id": "110967", "categoria": "Zona" },
-    "New York-La Guardia Airport": { "id": "110824", "categoria": "Zona" },
-    "Niagara": { "id": "149166", "categoria": "Zona" },
-    "Niagara-on-the-Lake": { "id": "122711", "categoria": "Zona" },
-    "Nickelodeon Hotels & Resorts Riviera Maya - Gourmet All Inclusive by Karisma": { "id": "JP06345N", "categoria": "Hotel" },
-    "Nouveau-Mexique": { "id": "110948", "categoria": "Zona" },
-    "Nuremberg": { "id": "110138", "categoria": "Zona" },
-    "Ocean Coral & Turquesa": { "id": "JP299931", "categoria": "Hotel" },
-    "Ocean Eden Bay, Jamaica": { "id": "JP06362R", "categoria": "Hotel" },
-    "Ocean Riviera Paradise": { "id": "JP033103", "categoria": "Hotel" },
-    "Panama-Tocumen Aeropuerto Internacional": { "id": "117999", "categoria": "Zona" },
-    "Planet Hollywood Adult Scene Cancun, An Autograph Collection All Inclusive Resort - Adults Only": { "id": "JP06433L", "categoria": "Hotel" },
-    "Planet Hollywood Cancun by Royalton, An Autograph Collection All-Inclusive Resort": { "id": "JP06174L", "categoria": "Hotel" },
-    "Playa de Arena Blanca": { "id": "146636", "categoria": "Zona" },
-    "Playa Del Carmen Aeropuerto": { "id": "No encontrado", "categoria": "Desconocido" },
-    "Playa Del Carmen Airport": { "id": "No encontrado", "categoria": "Desconocido" },
-    "Playa del Carmen": { "id": "112668", "categoria": "Zona" },
-    "Playa Linda Hotel": { "id": "JP922072", "categoria": "Hotel" },
-    "Playa Santa Teresa": { "id": "126667", "categoria": "Zona" },
-    "Polatlı": { "id": "201749", "categoria": "Zona" },
-    "Posada Real Puerto Escondido": { "id": "JP405998", "categoria": "Hotel" },
-    "Presidente InterContinental Cancún Resort": { "id": "JP210183", "categoria": "Hotel" },
-    "Princess Grand Jamaica": { "id": "JP09795Y", "categoria": "Hotel" },
-    "Providenciales International Airport": { "id": "117909", "categoria": "Zona" },
-    "Puebla Aeropuerto Internacional": { "id": "No encontrado", "categoria": "Desconocido" },
-    "Puebla International Airport": { "id": "117815", "categoria": "Zona" },
-    "Puebla": { "id": "110273", "categoria": "Zona" },
-    "Pueblo Bonito Rosé Resort & Spa": { "id": "JP215603", "categoria": "Hotel" },
-    "Puerto Cozumel": { "id": "174011", "categoria": "Zona" },
-    "Puerto Escondido Aeropuerto Municipal": { "id": "118022", "categoria": "Zona" },
-    "Puerto Juarez": { "id": "121866", "categoria": "Zona" },
-    "Puerto Vallarta Aeropuerto": { "id": "118013", "categoria": "Zona" },
-    "Puerto Vallarta Airport": { "id": "118013", "categoria": "Zona" },
-    "Puerto Vallarta Ciudad": { "id": "149348", "categoria": "Zona" },
-    "Punta Cana Aeropuerto": { "id": "118004", "categoria": "Zona" },
-    "Punta Cana Airport": { "id": "118004", "categoria": "Zona" },
-    "Punta Cana": { "id": "110282", "categoria": "Zona" },
-    "Quebec City Aeroport International": { "id": "119028", "categoria": "Zona" },
-    "Quintana Roo": { "id": "110892", "categoria": "Zona" },
-    "Rafael Nunez International Airport": { "id": "116168", "categoria": "Zona" },
-    "Regina Aeropuerto Internacional": { "id": "119039", "categoria": "Zona" },
-    "Rio Hato Airport": { "id": "No encontrado", "categoria": "Desconocido" },
-    "Riu Latino - Adults Only - All Inclusive": { "id": "JP06950L", "categoria": "Hotel" },
-    "Riu Palace Paradise Island": { "id": "JP071631", "categoria": "Hotel" },
-    "Riu Playacar": { "id": "JP353695", "categoria": "Hotel" },
-    "Rodney Bay": { "id": "123223", "categoria": "Zona" },
-    "Rome-Fiumicino Airport": { "id": "112572", "categoria": "Zona" },
-    "Royal Plaza": { "id": "JP026001", "categoria": "Hotel" },
-    "Royal Solaris Los Cabos": { "id": "JP057602", "categoria": "Hotel" },
-    "Royal Sonesta San Juan": { "id": "JP132859", "categoria": "Hotel" },
-    "Royalton Bavaro An Autograph Collection All-Inclusive Resort & Casino": { "id": "JP02682Z", "categoria": "Hotel" },
-    "Royalton Blue Waters Montego Bay, An Autograph Collection All-Inclusive Resort": { "id": "JP496704", "categoria": "Hotel" },
-    "Royalton Grenada, An Autograph Collection All - Inclusive Resort ":{"id": "JP07001D","categoria": "Hotel"},
-    "Royalton Hideaway Riviera Cancun, An Autograph Collection All-Inclusive Resort - Adults Only": { "id": "JP02103C", "categoria": "Hotel" },
-    "Royalton Riviera Cancun, An Autograph Collection All-Inclusive Resort & Casino": { "id": "JP883893", "categoria": "Hotel" },
-    "Royalton Saint Lucia, An Autograph Collection All-Inclusive Resort": { "id": "JP01891X", "categoria": "Hotel" },
-    "Royalton Splash Punta Cana Resort & Casino": { "id": "JP02895N", "categoria": "Hotel" },
-    "Royalton Splash Riviera Cancun, An Autograph Collection All-Inclusive Resort": { "id": "JP06962C", "categoria": "Hotel" },
-    "Royalton Vessence Barbados, An Autograph Collection All-Inclusive Resort – Adults Oriented": { "id": "JP36324F", "categoria": "Hotel" },
-    "Saint Lucia": { "id": "108939", "categoria": "Zona" },
-    "Saint Lucia-Hewanorra International Airport": { "id": "118717", "categoria": "Zona" },
-    "Saint Martin Island": { "id": "123407", "categoria": "Zona" },
-    "Saint Thomas Airport": { "id": "118389", "categoria": "Zona" },
-    "Samaná El Catey International Airport": { "id": "No encontrado", "categoria": "Desconocido" },
-    "San Jose - Juan Santamaria Aeroport International": { "id": "118279", "categoria": "Zona" },
-    "San Jose - Juan Santamaria International Airport": { "id": "118279", "categoria": "Zona" },
-    "Sandos Cancún All Inclusive - Adults Only": { "id": "JP731493", "categoria": "Hotel" },
-    "Sandos Finisterra": { "id": "JP285826", "categoria": "Hotel" },
-    "Santa Maria Huatulco": { "id": "154946", "categoria": "Zona" },
-    "Santa María Huatulco": { "id": "No encontrado", "categoria": "Desconocido" },
-    "Santiago": { "id": "112960", "categoria": "Zona" },
-    "Santo Amaro do Maranhao": { "id": "230323", "categoria": "Zona" },
-    "Santo Domingo-Las Americas Airport": { "id": "118215", "categoria": "Zona" },
-    "Sao Luiz Aeroporto": { "id": "No encontrado", "categoria": "Desconocido" },
-    "Sayulita": { "id": "189950", "categoria": "Zona" },
-    "Secrets Huatulco Resort & Spa": { "id": "JP025760", "categoria": "Hotel" },
-    "Secrets Maroma Beach Riviera Cancun": { "id": "JP189514", "categoria": "Hotel" },
-    "Secrets Moxché Playa Del Carmen": { "id": "JP06720K", "categoria": "Hotel" },
-    "Secrets Playa Blanca Costa Mujeres": { "id": "JP08168H", "categoria": "Hotel" },
-    "Shinagawa Prince Hotel": { "id": "JP797416", "categoria": "Hotel" },
-    "Silao Aeropuerto Internacional": { "id": "115828", "categoria": "Zona" },
-    "Sint Maarten International Airport": { "id": "118427", "categoria": "Zona" },
-    "Sofitel Baru Cartagena": { "id": "JP06781K", "categoria": "Hotel" },
-    "Sonesta Maho Beach Resort, Casino & Spa": { "id": "JP003405", "categoria": "Hotel" },
-    "Sugar Bay Barbados": { "id": "JP224538", "categoria": "Hotel" },
-    "Sunset Resort & Villas": { "id": "JP461278", "categoria": "Hotel" },
-    "Tabacon Grand Spa Thermal Resort": { "id": "JP759343", "categoria": "Hotel" },
-    "Tamarindo": { "id": "110504", "categoria": "Zona" },
-    "Terminal de Ferry de Cozumel": { "id": "234169", "categoria": "Zona" },
-    "The Coral at Atlantis": { "id": "JP00426T", "categoria": "Hotel" },
-    "The Jamaica Palace Hotel": { "id": "JP047123", "categoria": "Hotel" },
-    "The Jamaica Pegasus Hotel": { "id": "JP026184", "categoria": "Hotel" },
-    "The Ocean Club, a Luxury Collection Resort, Costa Norte": { "id": "JP06538K", "categoria": "Hotel" },
-    "The Paramar Beachfront Boutique Hotel With Breakfast Included - Downtown Malecon": { "id": "JP06279N", "categoria": "Hotel" },
-    "The Pyramid Cancun By Oasis": { "id": "JP608903", "categoria": "Hotel" },
-    "The Royal At Atlantis": { "id": "JP082644", "categoria": "Hotel" },
-    "The Royal Hawaiian, a Luxury Collection Resort, Waikiki": { "id": "JP815776", "categoria": "Hotel" },
-    "The Sens Riviera by Oasis": { "id": "JP12275K", "categoria": "Hotel" },
-    "The Springs Resort & Spa at Arenal": { "id": "JP776494", "categoria": "Hotel" },
-    "The Westin Playa Vallarta, an All-Inclusive Resort": { "id": "JP36405N", "categoria": "Hotel" },
-    "The Westin Resort & Spa, Puerto Vallarta": { "id": "JP844635", "categoria": "Hotel" },
-    "Time Out Hotel": { "id": "JP059043", "categoria": "Hotel" },
-    "Toronto City Centre Aeropuerto": { "id": "131749", "categoria": "Zona" },
-    "Toronto Pearson Aeropuerto Internacional": { "id": "119119", "categoria": "Zona" },
-    "Treasure Beach": { "id": "142090", "categoria": "Zona" },
-    "Tulum": { "id": "113090", "categoria": "Zona" },
-    "Turks And Caicos Island": { "id": "108906", "categoria": "Zona" },
-    "Tuxtla Gutierrez Aeropuerto": { "id": "118503", "categoria": "Zona" },
-    "Unico 20 N 105 W Hotel Riviera Nayarit": { "id": "JP36276F", "categoria": "Hotel" },
-    "Vancouver Aeropuerto Internacional": { "id": "119082", "categoria": "Zona" },
-    "Vancouver Downtown": { "id": "123208", "categoria": "Zona" },
-    "Virgin Hotels Las Vegas, Curio Collection by Hilton": { "id": "JP034354", "categoria": "Hotel" },
-    "voco Surfside Aruba": { "id": "JP117468", "categoria": "Hotel" },
-    "Wyndham Grand Cancún All Inclusive Resort & Villas": { "id": "JP102571", "categoria": "Hotel" },
-    "Xcaret": { "id": "110762", "categoria": "Zona" },
-    "Xelha": { "id": "192807", "categoria": "Zona" },
-    "Zemi Miches Punta Cana All-Inclusive Resort, Curio Collection by Hilton": { "id": "JP36013T", "categoria": "Hotel" },
-    "Zona Hotelera": { "id": "152640", "categoria": "Zona" }
+    "Acapulco Aeropuerto Internacional": {
+        "id": "115530",
+        "categoria": "Zona"
+    },
+    "Adolfo Suarez Madrid-Barajas Aeropuerto": {
+        "id": "110744",
+        "categoria": "Zona"
+    },
+    "Aeropuerto El Dorado": {
+        "id": "115869",
+        "categoria": "Zona"
+    },
+    "Aeropuerto Internacional del Cibao": {
+        "id": "118382",
+        "categoria": "Zona"
+    },
+    "Aeropuerto Internacional Luis Muñoz Marín": {
+        "id": "No encontrado",
+        "categoria": "Desconocido"
+    },
+    "Alanya Port": {
+        "id": "234069",
+        "categoria": "Zona"
+    },
+    "Altamont Court Hotel": {
+        "id": "JP325560",
+        "categoria": "Hotel"
+    },
+    "Antigua And Barbuda": {
+        "id": "108872",
+        "categoria": "Zona"
+    },
+    "Antigua International Airport": {
+        "id": "115632",
+        "categoria": "Zona"
+    },
+    "Aruba International Airport": {
+        "id": "No encontrado",
+        "categoria": "Desconocido"
+    },
+    "Aztec": {
+        "id": "207764",
+        "categoria": "Zona"
+    },
+    "B&B Hotel Milano - Monza": {
+        "id": "JP269231",
+        "categoria": "Hotel"
+    },
+    "Bahia Principe Grand El Portillo": {
+        "id": "No encontrado",
+        "categoria": "Desconocido"
+    },
+    "Bahia Principe Grand Jamaica": {
+        "id": "No encontrado",
+        "categoria": "Desconocido"
+    },
+    "Barbados": {
+        "id": "108879",
+        "categoria": "Zona"
+    },
+    "Barceló Bávaro Beach - Adults only - All Inclusive": {
+        "id": "JP156344",
+        "categoria": "Hotel"
+    },
+    "Barceló Maya Beach - All Inclusive": {
+        "id": "JP049598",
+        "categoria": "Hotel"
+    },
+    "Barceló Maya Caribe": {
+        "id": "JP116624",
+        "categoria": "Hotel"
+    },
+    "Barcelona-El Prat Airport": {
+        "id": "113837",
+        "categoria": "Zona"
+    },
+    "Blue Haven Resort": {
+        "id": "JP289921",
+        "categoria": "Hotel"
+    },
+    "BlueBay Grand Esmeralda": {
+        "id": "JP407068",
+        "categoria": "Hotel"
+    },
+    "Bolongo Bay Beach Resort": {
+        "id": "JP236766",
+        "categoria": "Hotel"
+    },
+    "Bridgetown International Airport": {
+        "id": "115788",
+        "categoria": "Zona"
+    },
+    "Bridgetown": {
+        "id": "109253",
+        "categoria": "Zona"
+    },
+    "Buenaventura Grand Hotel & Great Moments": {
+        "id": "JP154733",
+        "categoria": "Hotel"
+    },
+    "Calgary Aeropuerto Internacional": {
+        "id": "119106",
+        "categoria": "Zona"
+    },
+    "Calgary Centro": {
+        "id": "132228",
+        "categoria": "Zona"
+    },
+    "Calgary": {
+        "id": "109291",
+        "categoria": "Zona"
+    },
+    "Cancun Aeropuerto Internacional": {
+        "id": "116182",
+        "categoria": "Zona"
+    },
+    "Cancún Aeropuerto Internacional": {
+        "id": "No encontrado",
+        "categoria": "Desconocido"
+    },
+    "Cancún Hotel by H Hotéis - Airport": {
+        "id": "JP10387V",
+        "categoria": "Hotel"
+    },
+    "Cancun International Airport": {
+        "id": "116182",
+        "categoria": "Zona"
+    },
+    "Cancun": {
+        "id": "109303",
+        "categoria": "Zona"
+    },
+    "Capital O Cancun International Airport 24/7,": {
+        "id": "JP22700P",
+        "categoria": "Hotel"
+    },
+    "Carthagene": {
+        "id": "110914",
+        "categoria": "Zona"
+    },
+    "Castries": {
+        "id": "123221",
+        "categoria": "Zona"
+    },
+    "Central Hotel Panama Casco Viejo": {
+        "id": "JP801162",
+        "categoria": "Hotel"
+    },
+    "Chichen Itza": {
+        "id": "109352",
+        "categoria": "Zona"
+    },
+    "Chiquila": {
+        "id": "206106",
+        "categoria": "Zona"
+    },
+    "Cibao International Airport": {
+        "id": "118382",
+        "categoria": "Zona"
+    },
+    "City Express by Marriott La Paz": {
+        "id": "JP404116",
+        "categoria": "Hotel"
+    },
+    "Ciudad de Mexico Aeropuerto Internacional": {
+        "id": "117401",
+        "categoria": "Zona"
+    },
+    "Cofresi Palm Beach & Spa Resort": {
+        "id": "JP199139",
+        "categoria": "Hotel"
+    },
+    "Comfort Hotel Tokyo Higashi Nihonbashi": {
+        "id": "JP331914",
+        "categoria": "Hotel"
+    },
+    "Costa Rica": {
+        "id": "108888",
+        "categoria": "Zona"
+    },
+    "Cozumel Cruise Terminal": {
+        "id": "244629",
+        "categoria": "Zona"
+    },
+    "Cozumel Ferry Terminal": {
+        "id": "234169",
+        "categoria": "Zona"
+    },
+    "Curacao International Airport": {
+        "id": "116184",
+        "categoria": "Zona"
+    },
+    "Decameron Barú": {
+        "id": "JP054263",
+        "categoria": "Hotel"
+    },
+    "Deja Resort": {
+        "id": "JP01089G",
+        "categoria": "Hotel"
+    },
+    "Delta Hotels by Marriott Regina": {
+        "id": "JP136270",
+        "categoria": "Hotel"
+    },
+    "Detroit Metropolitan Airport": {
+        "id": "No encontrado",
+        "categoria": "Desconocido"
+    },
+    "Dreams Aventuras Riviera Maya": {
+        "id": "JP008575",
+        "categoria": "Hotel"
+    },
+    "Dreams Puerto Morelos Resort & Spa": {
+        "id": "JP044338",
+        "categoria": "Hotel"
+    },
+    "Dreams Tulum Resort & Spa": {
+        "id": "JP980400",
+        "categoria": "Hotel"
+    },
+    "Eden Roc Miami Beach Resort": {
+        "id": "JP152390",
+        "categoria": "Hotel"
+    },
+    "El Cid": {
+        "id": "152683",
+        "categoria": "Zona"
+    },
+    "El Dorado Seaside Suites": {
+        "id": "JP210136",
+        "categoria": "Hotel"
+    },
+    "El Mangroove, Autograph Collection": {
+        "id": "JP108511",
+        "categoria": "Hotel"
+    },
+    "Emotions by Hodelpa Puerto Plata": {
+        "id": "JP121037",
+        "categoria": "Hotel"
+    },
+    "excell": {
+        "id": "No encontrado",
+        "categoria": "Desconocido"
+    },
+    "Excellence Riviera Cancun": {
+        "id": "JP513941",
+        "categoria": "Hotel"
+    },
+    "Fairfield Inn & Suites Fort Lauderdale Airport & Cruise Port": {
+        "id": "JP020883",
+        "categoria": "Hotel"
+    },
+    "Family Selection At Grand Palladium Kantenah Resort & Spa": {
+        "id": "JP09726L",
+        "categoria": "Hotel"
+    },
+    "Fort Lauderdale – Hollywood International Airport": {
+        "id": "123490",
+        "categoria": "Zona"
+    },
+    "Four Points by Sheraton Puebla": {
+        "id": "JP03798Q",
+        "categoria": "Hotel"
+    },
+    "Freeport International Airport": {
+        "id": "116505",
+        "categoria": "Zona"
+    },
+    "Gander International Airport": {
+        "id": "119045",
+        "categoria": "Zona"
+    },
+    "Granada Department": {
+        "id": "119760",
+        "categoria": "Zona"
+    },
+    "Grand Bavaro Princess - All Inclusive": {
+        "id": "JP02574R",
+        "categoria": "Hotel"
+    },
+    "Grand Decameron Panama, A Trademark All Inclusive Resort": {
+        "id": "JP36044R",
+        "categoria": "Hotel"
+    },
+    "Grand Hyatt Barcelona": {
+        "id": "JP976602",
+        "categoria": "Hotel"
+    },
+    "Grand Palladium Lady Hamilton Resort & Spa": {
+        "id": "JP064604",
+        "categoria": "Hotel"
+    },
+    "Grand Palladium Punta Cana Resort & Spa": {
+        "id": "JP136781",
+        "categoria": "Hotel"
+    },
+    "Grand Sunset Princess": {
+        "id": "JP867348",
+        "categoria": "Hotel"
+    },
+    "Grand Velas Los Cabos": {
+        "id": "JP00150C",
+        "categoria": "Hotel"
+    },
+    "Grenada International Airport": {
+        "id": "116609",
+        "categoria": "Zona"
+    },
+    "Hacienda del Mar Los Cabos, Autograph Collection": {
+        "id": "JP883943",
+        "categoria": "Hotel"
+    },
+    "Halifax International Airport": {
+        "id": "118963",
+        "categoria": "Zona"
+    },
+    "Hampton By Hilton San Jose Airport": {
+        "id": "JP879610",
+        "categoria": "Hotel"
+    },
+    "Hard Rock Hotel Riviera Maya - Hacienda and Heaven": {
+        "id": "JP049178",
+        "categoria": "Hotel"
+    },
+    "Hard Rock Los Cabos All Inclusive Resort": {
+        "id": "JP02843R",
+        "categoria": "Hotel"
+    },
+    "Hideaway at Royalton Blue Waters, An Autograph Collection all-Inclusive Resort - Adults Only": {
+        "id": "JP380696",
+        "categoria": "Hotel"
+    },
+    "Hideaway at Royalton Punta Cana, An Autograph Collection AllInclusive Resort & Casino – Adults Only": {
+        "id": "No encontrado",
+        "categoria": "Desconocido"
+    },
+    "Hilton Cancun Mar Caribe All-Inclusive Resort": {
+        "id": "JP775134",
+        "categoria": "Hotel"
+    },
+    "Hilton Garden Inn Tuxtla Gutiérrez": {
+        "id": "JP091902",
+        "categoria": "Hotel"
+    },
+    "Hilton Vacation Club Cancun Resort Las Vegas": {
+        "id": "JP162801",
+        "categoria": "Hotel"
+    },
+    "Hodelpa Gran Almirante": {
+        "id": "JP424449",
+        "categoria": "Hotel"
+    },
+    "Holiday Inn Hotel and Suites Anaheim": {
+        "id": "JP407232",
+        "categoria": "Hotel"
+    },
+    "Honolulu International Airport": {
+        "id": "116764",
+        "categoria": "Zona"
+    },
+    "Hotel Aeropuerto Los Cabos": {
+        "id": "JP226769",
+        "categoria": "Hotel"
+    },
+    "Hotel Barajas Plaza": {
+        "id": "JP034692",
+        "categoria": "Hotel"
+    },
+    "Hotel Bluebeard´s Club And Villas": {
+        "id": "JP753781",
+        "categoria": "Hotel"
+    },
+    "Hotel Eurostars Madrid Tower": {
+        "id": "JP035065",
+        "categoria": "Hotel"
+    },
+    "Hotel Ibis Madrid Aeropuerto Barajas": {
+        "id": "JP969951",
+        "categoria": "Hotel"
+    },
+    "Hotel La Posada and Jungle": {
+        "id": "JP06564B",
+        "categoria": "Hotel"
+    },
+    "Hotel Petit Palace Boquería Garden": {
+        "id": "JP201250",
+        "categoria": "Hotel"
+    },
+    "Hotel Playa Bonita Mazatlan, Sinaloa.": {
+        "id": "JP035482",
+        "categoria": "Hotel"
+    },
+    "Hotel Riu Emerald Bay": {
+        "id": "JP225728",
+        "categoria": "Hotel"
+    },
+    "Hotel Riu Guanacaste": {
+        "id": "JP229068",
+        "categoria": "Hotel"
+    },
+    "Hotel Riu Jalisco": {
+        "id": "JP732520",
+        "categoria": "Hotel"
+    },
+    "Hotel Riu Negril": {
+        "id": "JP807606",
+        "categoria": "Hotel"
+    },
+    "Hotel Riu Palace Aquarelle": {
+        "id": "JP12286Z",
+        "categoria": "Hotel"
+    },
+    "Hotel Riu Palace Baja California": {
+        "id": "JP02871C",
+        "categoria": "Hotel"
+    },
+    "Hotel Riu Palace Costa Mujeres": {
+        "id": "JP02875V",
+        "categoria": "Hotel"
+    },
+    "Hotel Riu Palace Costa Rica": {
+        "id": "JP022062",
+        "categoria": "Hotel"
+    },
+    "Hotel Riu Palace Tropical Bay": {
+        "id": "JP986417",
+        "categoria": "Hotel"
+    },
+    "Hotel RIU Playa Blanca": {
+        "id": "JP374740",
+        "categoria": "Hotel"
+    },
+    "Hotel Riu Plaza España": {
+        "id": "JP06068W",
+        "categoria": "Hotel"
+    },
+    "Hotel Riu Vallarta": {
+        "id": "JP997128",
+        "categoria": "Hotel"
+    },
+    "Hotel Tamarindo Diria Beach Resort ": {
+        "id": "JP022089",
+        "categoria": "Hotel"
+    },
+    "Huatulco Aeropuerto Internacional": {
+        "id": "116819",
+        "categoria": "Zona"
+    },
+    "Huatulco International Airport": {
+        "id": "116819",
+        "categoria": "Zona"
+    },
+    "Hyatt Ziva Puerto Vallarta": {
+        "id": "JP200399",
+        "categoria": "Hotel"
+    },
+    "Iberostar Selection Riviera Cancún": {
+        "id": "JP843923",
+        "categoria": "Hotel"
+    },
+    "Iberostar Waves Rose Hall Beach": {
+        "id": "JP875097",
+        "categoria": "Hotel"
+    },
+    "Iberostar Waves Tucán": {
+        "id": "JP897739",
+        "categoria": "Hotel"
+    },
+    "Ibiza Airport": {
+        "id": "116840",
+        "categoria": "Zona"
+    },
+    "Imperio De Angeles": {
+        "id": "JP037136",
+        "categoria": "Hotel"
+    },
+    "Isla Mujeres Harbour": {
+        "id": "234178",
+        "categoria": "Zona"
+    },
+    "Isla Mujeres": {
+        "id": "189953",
+        "categoria": "Zona"
+    },
+    "Izla Hotel": {
+        "id": "JP02809B",
+        "categoria": "Hotel"
+    },
+    "Jaco": {
+        "id": "121470",
+        "categoria": "Zona"
+    },
+    "Jamaica": {
+        "id": "108913",
+        "categoria": "Zona"
+    },
+    "John F. Kennedy International Airport": {
+        "id": "110746",
+        "categoria": "Zona"
+    },
+    "JW Marriott Cancun Resort & Spa": {
+        "id": "JP016238",
+        "categoria": "Hotel"
+    },
+    "Kingston Aeropuerto": {
+        "id": "117043",
+        "categoria": "Zona"
+    },
+    "Kingston Airport": {
+        "id": "117043",
+        "categoria": "Zona"
+    },
+    "Kingston": {
+        "id": "109784",
+        "categoria": "Zona"
+    },
+    "Konakli": {
+        "id": "123119",
+        "categoria": "Zona"
+    },
+    "Kopitnari airport": {
+        "id": "No encontrado",
+        "categoria": "Desconocido"
+    },
+    "La Altagracia": {
+        "id": "126253",
+        "categoria": "Zona"
+    },
+    "La Paz Aeropuerto Internacional": {
+        "id": "117153",
+        "categoria": "Zona"
+    },
+    "Las Brisas Hotel Huatulco": {
+        "id": "JP655154",
+        "categoria": "Hotel"
+    },
+    "Las Vegas-Henderson Aeropuerto Ejecutivo": {
+        "id": "116795",
+        "categoria": "Zona"
+    },
+    "Las Vegas-McCarran Aeropuerto Internacional": {
+        "id": "117155",
+        "categoria": "Zona"
+    },
+    "Le Méridien Grand Hotel Nuremberg": {
+        "id": "JP195531",
+        "categoria": "Hotel"
+    },
+    "Liberia Aeropuerto": {
+        "id": "117230",
+        "categoria": "Zona"
+    },
+    "Liberia Airport": {
+        "id": "117230",
+        "categoria": "Zona"
+    },
+    "Liberia": {
+        "id": "109881",
+        "categoria": "Zona"
+    },
+    "Lopesan Costa Bávaro Resort Spa & Casino": {
+        "id": "JP03961D",
+        "categoria": "Hotel"
+    },
+    "Los Angeles Aeropuerto Internacional": {
+        "id": "117158",
+        "categoria": "Zona"
+    },
+    "Los Cabos Aeropuerto": {
+        "id": "118275",
+        "categoria": "Zona"
+    },
+    "Los Cabos Airport": {
+        "id": "118275",
+        "categoria": "Zona"
+    },
+    "Los Cabos": {
+        "id": "125355",
+        "categoria": "Zona"
+    },
+    "Los Milagros Hotel": {
+        "id": "JP167019",
+        "categoria": "Hotel"
+    },
+    "Madrid Centro": {
+        "id": "113824",
+        "categoria": "Zona"
+    },
+    "Madrid": {
+        "id": "113987",
+        "categoria": "Zona"
+    },
+    "Mangrove Beach Corendon Curacao All-Inclusive Resort, Curio by Hilton": {
+        "id": "JP016130",
+        "categoria": "Hotel"
+    },
+    "Margaritaville Beach Resort - Nassau": {
+        "id": "JP06726R",
+        "categoria": "Hotel"
+    },
+    "MARINA CABO PLAZA": {
+        "id": "JP255682",
+        "categoria": "Hotel"
+    },
+    "Mazatlan Aeropuerto International": {
+        "id": "117608",
+        "categoria": "Zona"
+    },
+    "Mazatlan": {
+        "id": "109986",
+        "categoria": "Zona"
+    },
+    "Merida Aeropuerto Internacional": {
+        "id": "117432",
+        "categoria": "Zona"
+    },
+    "Mexico City International Airport": {
+        "id": "117401",
+        "categoria": "Zona"
+    },
+    "Mexico": {
+        "id": "108919",
+        "categoria": "Zona"
+    },
+    "Miami Aeropuerto Internacional": {
+        "id": "117431",
+        "categoria": "Zona"
+    },
+    "Milan": {
+        "id": "124290",
+        "categoria": "Zona"
+    },
+    "Milano-Linate Airport": {
+        "id": "No encontrado",
+        "categoria": "Desconocido"
+    },
+    "Milano-Malpensa Airport": {
+        "id": "112578",
+        "categoria": "Zona"
+    },
+    "Mirador Acapulco": {
+        "id": "JP265412",
+        "categoria": "Hotel"
+    },
+    "Montego Bay Aeroport": {
+        "id": "117360",
+        "categoria": "Zona"
+    },
+    "Montego Bay Aeropuerto": {
+        "id": "117360",
+        "categoria": "Zona"
+    },
+    "Montego Bay Airport": {
+        "id": "117360",
+        "categoria": "Zona"
+    },
+    "Montego Bay": {
+        "id": "110034",
+        "categoria": "Zona"
+    },
+    "Montreal-Dorval International Aeroport": {
+        "id": "119072",
+        "categoria": "Zona"
+    },
+    "Monza": {
+        "id": "121832",
+        "categoria": "Zona"
+    },
+    "Motel 6-Anaheim, CA - Maingate": {
+        "id": "JP775273",
+        "categoria": "Hotel"
+    },
+    "Munich Airport": {
+        "id": "117566",
+        "categoria": "Zona"
+    },
+    "Nassau International Airport": {
+        "id": "133635",
+        "categoria": "Zona"
+    },
+    "Nassau": {
+        "id": "110100",
+        "categoria": "Zona"
+    },
+    "Negril": {
+        "id": "110105",
+        "categoria": "Zona"
+    },
+    "New York": {
+        "id": "110967",
+        "categoria": "Zona"
+    },
+    "New York-La Guardia Airport": {
+        "id": "110824",
+        "categoria": "Zona"
+    },
+    "Niagara": {
+        "id": "149166",
+        "categoria": "Zona"
+    },
+    "Niagara-on-the-Lake": {
+        "id": "122711",
+        "categoria": "Zona"
+    },
+    "Nickelodeon Hotels & Resorts Riviera Maya - Gourmet All Inclusive by Karisma": {
+        "id": "JP06345N",
+        "categoria": "Hotel"
+    },
+    "Nouveau-Mexique": {
+        "id": "110948",
+        "categoria": "Zona"
+    },
+    "Nuremberg": {
+        "id": "110138",
+        "categoria": "Zona"
+    },
+    "Ocean Coral & Turquesa": {
+        "id": "JP299931",
+        "categoria": "Hotel"
+    },
+    "Ocean Eden Bay, Jamaica": {
+        "id": "JP06362R",
+        "categoria": "Hotel"
+    },
+    "Ocean Riviera Paradise": {
+        "id": "JP033103",
+        "categoria": "Hotel"
+    },
+    "Panama-Tocumen Aeropuerto Internacional": {
+        "id": "117999",
+        "categoria": "Zona"
+    },
+    "Planet Hollywood Adult Scene Cancun, An Autograph Collection All Inclusive Resort - Adults Only": {
+        "id": "JP06433L",
+        "categoria": "Hotel"
+    },
+    "Planet Hollywood Cancun by Royalton, An Autograph Collection All-Inclusive Resort": {
+        "id": "JP06174L",
+        "categoria": "Hotel"
+    },
+    "Playa de Arena Blanca": {
+        "id": "146636",
+        "categoria": "Zona"
+    },
+    "Playa Del Carmen Aeropuerto": {
+        "id": "No encontrado",
+        "categoria": "Desconocido"
+    },
+    "Playa Del Carmen Airport": {
+        "id": "No encontrado",
+        "categoria": "Desconocido"
+    },
+    "Playa del Carmen": {
+        "id": "112668",
+        "categoria": "Zona"
+    },
+    "Playa Linda Hotel": {
+        "id": "JP922072",
+        "categoria": "Hotel"
+    },
+    "Playa Santa Teresa": {
+        "id": "126667",
+        "categoria": "Zona"
+    },
+    "Polatlı": {
+        "id": "201749",
+        "categoria": "Zona"
+    },
+    "Posada Real Puerto Escondido": {
+        "id": "JP405998",
+        "categoria": "Hotel"
+    },
+    "Presidente InterContinental Cancún Resort": {
+        "id": "JP210183",
+        "categoria": "Hotel"
+    },
+    "Princess Grand Jamaica": {
+        "id": "JP09795Y",
+        "categoria": "Hotel"
+    },
+    "Providenciales International Airport": {
+        "id": "117909",
+        "categoria": "Zona"
+    },
+    "Puebla Aeropuerto Internacional": {
+        "id": "No encontrado",
+        "categoria": "Desconocido"
+    },
+    "Puebla International Airport": {
+        "id": "117815",
+        "categoria": "Zona"
+    },
+    "Puebla": {
+        "id": "110273",
+        "categoria": "Zona"
+    },
+    "Pueblo Bonito Rosé Resort & Spa": {
+        "id": "JP215603",
+        "categoria": "Hotel"
+    },
+    "Puerto Cozumel": {
+        "id": "174011",
+        "categoria": "Zona"
+    },
+    "Puerto Escondido Aeropuerto Municipal": {
+        "id": "118022",
+        "categoria": "Zona"
+    },
+    "Puerto Juarez": {
+        "id": "121866",
+        "categoria": "Zona"
+    },
+    "Puerto Vallarta Aeropuerto": {
+        "id": "118013",
+        "categoria": "Zona"
+    },
+    "Puerto Vallarta Airport": {
+        "id": "118013",
+        "categoria": "Zona"
+    },
+    "Puerto Vallarta Ciudad": {
+        "id": "149348",
+        "categoria": "Zona"
+    },
+    "Punta Cana Aeropuerto": {
+        "id": "118004",
+        "categoria": "Zona"
+    },
+    "Punta Cana Airport": {
+        "id": "118004",
+        "categoria": "Zona"
+    },
+    "Punta Cana": {
+        "id": "110282",
+        "categoria": "Zona"
+    },
+    "Quebec City Aeroport International": {
+        "id": "119028",
+        "categoria": "Zona"
+    },
+    "Quintana Roo": {
+        "id": "110892",
+        "categoria": "Zona"
+    },
+    "Rafael Nunez International Airport": {
+        "id": "116168",
+        "categoria": "Zona"
+    },
+    "Regina Aeropuerto Internacional": {
+        "id": "119039",
+        "categoria": "Zona"
+    },
+    "Rio Hato Airport": {
+        "id": "No encontrado",
+        "categoria": "Desconocido"
+    },
+    "Riu Latino - Adults Only - All Inclusive": {
+        "id": "JP06950L",
+        "categoria": "Hotel"
+    },
+    "Riu Palace Paradise Island": {
+        "id": "JP071631",
+        "categoria": "Hotel"
+    },
+    "Riu Playacar": {
+        "id": "JP353695",
+        "categoria": "Hotel"
+    },
+    "Rodney Bay": {
+        "id": "123223",
+        "categoria": "Zona"
+    },
+    "Rome-Fiumicino Airport": {
+        "id": "112572",
+        "categoria": "Zona"
+    },
+    "Royal Plaza": {
+        "id": "JP026001",
+        "categoria": "Hotel"
+    },
+    "Royal Solaris Los Cabos": {
+        "id": "JP057602",
+        "categoria": "Hotel"
+    },
+    "Royal Sonesta San Juan": {
+        "id": "JP132859",
+        "categoria": "Hotel"
+    },
+    "Royalton Bavaro An Autograph Collection All-Inclusive Resort & Casino": {
+        "id": "JP02682Z",
+        "categoria": "Hotel"
+    },
+    "Royalton Blue Waters Montego Bay, An Autograph Collection All-Inclusive Resort": {
+        "id": "JP496704",
+        "categoria": "Hotel"
+    },
+    "Royalton Grenada, An Autograph Collection All - Inclusive Resort ": {
+        "id": "JP07001D",
+        "categoria": "Hotel"
+    },
+    "Royalton Hideaway Riviera Cancun, An Autograph Collection All-Inclusive Resort - Adults Only": {
+        "id": "JP02103C",
+        "categoria": "Hotel"
+    },
+    "Royalton Riviera Cancun, An Autograph Collection All-Inclusive Resort & Casino": {
+        "id": "JP883893",
+        "categoria": "Hotel"
+    },
+    "Royalton Saint Lucia, An Autograph Collection All-Inclusive Resort": {
+        "id": "JP01891X",
+        "categoria": "Hotel"
+    },
+    "Royalton Splash Punta Cana Resort & Casino": {
+        "id": "JP02895N",
+        "categoria": "Hotel"
+    },
+    "Royalton Splash Riviera Cancun, An Autograph Collection All-Inclusive Resort": {
+        "id": "JP06962C",
+        "categoria": "Hotel"
+    },
+    "Royalton Vessence Barbados, An Autograph Collection All-Inclusive Resort – Adults Oriented": {
+        "id": "JP36324F",
+        "categoria": "Hotel"
+    },
+    "Saint Lucia": {
+        "id": "108939",
+        "categoria": "Zona"
+    },
+    "Saint Lucia-Hewanorra International Airport": {
+        "id": "118717",
+        "categoria": "Zona"
+    },
+    "Saint Martin Island": {
+        "id": "123407",
+        "categoria": "Zona"
+    },
+    "Saint Thomas Airport": {
+        "id": "118389",
+        "categoria": "Zona"
+    },
+    "Samaná El Catey International Airport": {
+        "id": "No encontrado",
+        "categoria": "Desconocido"
+    },
+    "San Jose - Juan Santamaria Aeroport International": {
+        "id": "118279",
+        "categoria": "Zona"
+    },
+    "San Jose - Juan Santamaria International Airport": {
+        "id": "118279",
+        "categoria": "Zona"
+    },
+    "Sandos Cancún All Inclusive - Adults Only": {
+        "id": "JP731493",
+        "categoria": "Hotel"
+    },
+    "Sandos Finisterra": {
+        "id": "JP285826",
+        "categoria": "Hotel"
+    },
+    "Santa Maria Huatulco": {
+        "id": "154946",
+        "categoria": "Zona"
+    },
+    "Santa María Huatulco": {
+        "id": "No encontrado",
+        "categoria": "Desconocido"
+    },
+    "Santiago": {
+        "id": "112960",
+        "categoria": "Zona"
+    },
+    "Santo Amaro do Maranhao": {
+        "id": "230323",
+        "categoria": "Zona"
+    },
+    "Santo Domingo-Las Americas Airport": {
+        "id": "118215",
+        "categoria": "Zona"
+    },
+    "Sao Luiz Aeroporto": {
+        "id": "No encontrado",
+        "categoria": "Desconocido"
+    },
+    "Sayulita": {
+        "id": "189950",
+        "categoria": "Zona"
+    },
+    "Secrets Huatulco Resort & Spa": {
+        "id": "JP025760",
+        "categoria": "Hotel"
+    },
+    "Secrets Maroma Beach Riviera Cancun": {
+        "id": "JP189514",
+        "categoria": "Hotel"
+    },
+    "Secrets Moxché Playa Del Carmen": {
+        "id": "JP06720K",
+        "categoria": "Hotel"
+    },
+    "Secrets Playa Blanca Costa Mujeres": {
+        "id": "JP08168H",
+        "categoria": "Hotel"
+    },
+    "Shinagawa Prince Hotel": {
+        "id": "JP797416",
+        "categoria": "Hotel"
+    },
+    "Silao Aeropuerto Internacional": {
+        "id": "115828",
+        "categoria": "Zona"
+    },
+    "Sint Maarten International Airport": {
+        "id": "118427",
+        "categoria": "Zona"
+    },
+    "Sofitel Baru Cartagena": {
+        "id": "JP06781K",
+        "categoria": "Hotel"
+    },
+    "Sonesta Maho Beach Resort, Casino & Spa": {
+        "id": "JP003405",
+        "categoria": "Hotel"
+    },
+    "Sugar Bay Barbados": {
+        "id": "JP224538",
+        "categoria": "Hotel"
+    },
+    "Sunset Resort & Villas": {
+        "id": "JP461278",
+        "categoria": "Hotel"
+    },
+    "Tabacon Grand Spa Thermal Resort": {
+        "id": "JP759343",
+        "categoria": "Hotel"
+    },
+    "Tamarindo": {
+        "id": "110504",
+        "categoria": "Zona"
+    },
+    "Terminal de Ferry de Cozumel": {
+        "id": "234169",
+        "categoria": "Zona"
+    },
+    "The Coral at Atlantis": {
+        "id": "JP00426T",
+        "categoria": "Hotel"
+    },
+    "The Jamaica Palace Hotel": {
+        "id": "JP047123",
+        "categoria": "Hotel"
+    },
+    "The Jamaica Pegasus Hotel": {
+        "id": "JP026184",
+        "categoria": "Hotel"
+    },
+    "The Ocean Club, a Luxury Collection Resort, Costa Norte": {
+        "id": "JP06538K",
+        "categoria": "Hotel"
+    },
+    "The Paramar Beachfront Boutique Hotel With Breakfast Included - Downtown Malecon": {
+        "id": "JP06279N",
+        "categoria": "Hotel"
+    },
+    "The Pyramid Cancun By Oasis": {
+        "id": "JP608903",
+        "categoria": "Hotel"
+    },
+    "The Royal At Atlantis": {
+        "id": "JP082644",
+        "categoria": "Hotel"
+    },
+    "The Royal Hawaiian, a Luxury Collection Resort, Waikiki": {
+        "id": "JP815776",
+        "categoria": "Hotel"
+    },
+    "The Sens Riviera by Oasis": {
+        "id": "JP12275K",
+        "categoria": "Hotel"
+    },
+    "The Springs Resort & Spa at Arenal": {
+        "id": "JP776494",
+        "categoria": "Hotel"
+    },
+    "The Westin Playa Vallarta, an All-Inclusive Resort": {
+        "id": "JP36405N",
+        "categoria": "Hotel"
+    },
+    "The Westin Resort & Spa, Puerto Vallarta": {
+        "id": "JP844635",
+        "categoria": "Hotel"
+    },
+    "Time Out Hotel": {
+        "id": "JP059043",
+        "categoria": "Hotel"
+    },
+    "Toronto City Centre Aeropuerto": {
+        "id": "131749",
+        "categoria": "Zona"
+    },
+    "Toronto Pearson Aeropuerto Internacional": {
+        "id": "119119",
+        "categoria": "Zona"
+    },
+    "Treasure Beach": {
+        "id": "142090",
+        "categoria": "Zona"
+    },
+    "Tulum": {
+        "id": "113090",
+        "categoria": "Zona"
+    },
+    "Turks And Caicos Island": {
+        "id": "108906",
+        "categoria": "Zona"
+    },
+    "Tuxtla Gutierrez Aeropuerto": {
+        "id": "118503",
+        "categoria": "Zona"
+    },
+    "Unico 20 N 105 W Hotel Riviera Nayarit": {
+        "id": "JP36276F",
+        "categoria": "Hotel"
+    },
+    "Vancouver Aeropuerto Internacional": {
+        "id": "119082",
+        "categoria": "Zona"
+    },
+    "Vancouver Downtown": {
+        "id": "123208",
+        "categoria": "Zona"
+    },
+    "Virgin Hotels Las Vegas, Curio Collection by Hilton": {
+        "id": "JP034354",
+        "categoria": "Hotel"
+    },
+    "voco Surfside Aruba": {
+        "id": "JP117468",
+        "categoria": "Hotel"
+    },
+    "Wyndham Grand Cancún All Inclusive Resort & Villas": {
+        "id": "JP102571",
+        "categoria": "Hotel"
+    },
+    "Xcaret": {
+        "id": "110762",
+        "categoria": "Zona"
+    },
+    "Xelha": {
+        "id": "192807",
+        "categoria": "Zona"
+    },
+    "Zemi Miches Punta Cana All-Inclusive Resort, Curio Collection by Hilton": {
+        "id": "JP36013T",
+        "categoria": "Hotel"
+    },
+    "Zona Hotelera": {
+        "id": "152640",
+        "categoria": "Zona"
+    },
+    "Aeropuerto Internacional Luis Munoz Marin": {
+        "id": "No encontrado",
+        "categoria": "Desconocido"
+    },
+    "Barcelo Bavaro Beach - Adults only - All Inclusive": {
+        "id": "JP156344",
+        "categoria": "Hotel"
+    },
+    "Barcelo Maya Beach - All Inclusive": {
+        "id": "JP049598",
+        "categoria": "Hotel"
+    },
+    "Barcelo Maya Caribe": {
+        "id": "JP116624",
+        "categoria": "Hotel"
+    },
+    "Punta Cana Aeroport": {
+        "id": "No encontrado",
+        "categoria": "Desconocido"
+    },
+    "Samana El Catey International Airport": {
+        "id": "No encontrado",
+        "categoria": "Desconocido"
+    },
+    "Hotel Riu Plaza Espana": {
+        "id": "JP06068W",
+        "categoria": "Hotel"
+    },
+    "Lopesan Costa Bavaro Resort Spa & Casino": {
+        "id": "JP03961D",
+        "categoria": "Hotel"
+    },
+    "Hotel Petit Palace Boqueria Garden": {
+        "id": "JP201250",
+        "categoria": "Hotel"
+    },
+    "Wyndham Grand Cancun All Inclusive Resort & Villas": {
+        "id": "JP102571",
+        "categoria": "Hotel"
+    },
+    "Iberostar Selection Riviera Cancun": {
+        "id": "JP843923",
+        "categoria": "Hotel"
+    },
+    "Presidente InterContinental Cancun Resort": {
+        "id": "JP210183",
+        "categoria": "Hotel"
+    },
+    "Secrets Moxche Playa Del Carmen": {
+        "id": "JP06720K",
+        "categoria": "Hotel"
+    },
+    "Sandos Cancun All Inclusive - Adults Only": {
+        "id": "JP731493",
+        "categoria": "Hotel"
+    },
+    "Iberostar Waves Tucan": {
+        "id": "JP897739",
+        "categoria": "Hotel"
+    },
+    "Royalton Grenada, An Autograph Collection All-Inclusive Resort": {
+        "id": "JP07001D",
+        "categoria": "Hotel"
+    },
+    "Hotel Tamarindo Diria Beach Resort": {
+        "id": "JP022089",
+        "categoria": "Hotel"
+    },
+    "Pueblo Bonito Rose Resort & Spa": {
+        "id": "JP215603",
+        "categoria": "Hotel"
+    },
+    "Le Meridien Grand Hotel Nuremberg": {
+        "id": "JP195531",
+        "categoria": "Hotel"
+    },
+    "Cancun Hotel by H Hoteis - Airport": {
+        "id": "JP10387V",
+        "categoria": "Hotel"
+    },
+    "Decameron Baru": {
+        "id": "JP054263",
+        "categoria": "Hotel"
+    },
+    "Hilton Garden Inn Tuxtla Gutierrez": {
+        "id": "JP091902",
+        "categoria": "Hotel"
+    }
 }

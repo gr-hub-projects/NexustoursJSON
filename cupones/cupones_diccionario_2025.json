@@ -2,7 +2,7 @@
     "default": 
     [
 		{
-            "fecha_inicio": "2025-04-27",
+            "fecha_inicio": "2026-04-27",
             "fecha_fin": "2026-05-03",
             "fondo_color": "linear-gradient(90deg, #027DB2 0%, #5FAACA 100%)",
             "cupon": {
@@ -40,7 +40,7 @@
     "www.nexustours.com":
     [
 		{
-            "fecha_inicio": "2025-04-27",
+            "fecha_inicio": "2026-04-27",
             "fecha_fin": "2026-05-03",
             "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
             "cupon": {
@@ -78,7 +78,7 @@
 	"planet.nexustours.com":
     [
 		{
-            "fecha_inicio": "2025-04-27",
+            "fecha_inicio": "2026-04-27",
             "fecha_fin": "2026-05-03",
             "fondo_color": "linear-gradient(269deg, #2b0e32 0%, #4b1d50 50%, #7a39a3 100%)",
             "cupon": {
@@ -116,7 +116,7 @@
 	"tours.riu.com":
     [
         {
-            "fecha_inicio": "2025-04-27",
+            "fecha_inicio": "2026-04-27",
             "fecha_fin": "2026-05-03",
             "fondo_color": "#E4002B",
             "cupon": {
@@ -154,7 +154,7 @@
     "sunwingexcursions.nexustours.com":
     [
 		{
-            "fecha_inicio": "2025-04-27",
+            "fecha_inicio": "2026-04-27",
             "fecha_fin": "2026-05-03",
             "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
             "cupon": {
@@ -192,7 +192,7 @@
 	"princess.nexustours.com":
     [
 		{
-            "fecha_inicio": "2025-04-27",
+            "fecha_inicio": "2026-04-27",
             "fecha_fin": "2026-05-03",
             "fondo_color": "#f0a42b",
             "cupon": {
@@ -230,7 +230,7 @@
 	"eurostars.nexustours.com": 
     [
 		{
-            "fecha_inicio": "2025-04-27",
+            "fecha_inicio": "2026-04-27",
             "fecha_fin": "2026-05-03",
             "fondo_color": "#847648",
             "cupon": {

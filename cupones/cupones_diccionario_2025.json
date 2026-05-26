@@ -2,41 +2,6 @@
     "default": 
     [
 		{
-            "fecha_inicio": "2026-05-18",
-            "fecha_fin": "2026-05-25",
-            "fondo_color": "linear-gradient(90deg, #027DB2 0%, #5FAACA 100%)",
-            "cupon": {
-                "es": "MAYSALE10",
-                "en": "MAYSALE10",
-                "fr": "MAYSALE10"
-            },
-            "promo_html_login": {
-                "es": "<div>Regístrate y obtén un <b>5%</b> de dto. extra en tours y traslados</div>",
-                "en": "<div>Sign up and get an extra <b>5%</b> off tours and transfers</div>",
-                "fr": "<div>Inscrivez-vous et obtenez <b>5 %</b> de réduction sur tours et transferts</div>"
-            },
-            "promo_html_servicio": {
-                "es": "<div>Haz clic para activar 10% de dto. extra en tours con el código <b>MAYSALE10</b></div>",
-                "en": "<div>Click here to activate extra 10% off tours with code <b>MAYSALE10</b></div>",
-                "fr": "<div>Cliquez ici pour activer 10% extra de réduction avec le code <b>MAYSALE10</b></div>"
-            },
-            "promo_html_servicio_aplicada":{
-                "es": "<div>Código <b>MAYSALE10</b> aplicado. Disfruta extra <b>10%</b> de dto. en tours</div>",
-                "en": "<div>Code <b>MAYSALE10</b> applied! Enjoy extra <b>10%</b> off tours</div>",
-                "fr": "<div>Code <b>MAYSALE10</b> appliqué! Profitez de <b>10%</b> de réduction sur les visites</div>"
-            },
-            "promo_html_reserva":{
-                "es": "<div>Aplica <b>MAYSALE10</b> y obtén <b>10%</b> de dto. en tours en el siguiente paso</div>",
-                "en": "<div>Apply code <b>MAYSALE10</b> to get <b>10%</b> off tours in the next step</div>",
-                "fr": "<div>Appliquez le code <b>MAYSALE10</b> pour obtenir <b>10%</b> de réduction à l’étape suivante</div>"
-            },
-            "promo_html_reserva2":{
-                "es": "<div>¡Última oportunidad! Usa <b>MAYSALE10</b> y obtén <b>10%</b> de dto. en tours</div>",
-                "en": "<div>Last chance! Use code <b>MAYSALE10</b> for <b>10%</b> off tours</div>",
-                "fr": "<div>Dernière chance! Utilisez le code <b>MAYSALE10</b> pour <b>10%</b> de réduction</div>"
-            }
-        },
-		{
             "fecha_inicio": "2026-05-26",
             "fecha_fin": "2026-05-31",
             "fondo_color": "linear-gradient(90deg, #027DB2 0%, #5FAACA 100%)",
@@ -75,41 +40,6 @@
     "www.nexustours.com":
     [
 		{
-            "fecha_inicio": "2026-05-18",
-            "fecha_fin": "2026-05-25",
-            "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
-            "cupon": {
-                "es": "MAYSALE10",
-                "en": "MAYSALE10",
-                "fr": "MAYSALE10"
-            },
-            "promo_html_login": {
-                "es": "<div>Regístrate y obtén un <b>5%</b> de dto. extra en tours y traslados</div>",
-                "en": "<div>Sign up and get an extra <b>5%</b> off tours and transfers</div>",
-                "fr": "<div>Inscrivez-vous et obtenez <b>5 %</b> de réduction sur tours et transferts</div>"
-            },
-            "promo_html_servicio": {
-                "es": "<div>Haz clic para activar 10% de dto. extra en tours con el código <b>MAYSALE10</b></div>",
-                "en": "<div>Click here to activate extra 10% off tours with code <b>MAYSALE10</b></div>",
-                "fr": "<div>Cliquez ici pour activer 10% extra de réduction avec le code <b>MAYSALE10</b></div>"
-            },
-            "promo_html_servicio_aplicada":{
-                "es": "<div>Código <b>MAYSALE10</b> aplicado. Disfruta extra <b>10%</b> de dto. en tours</div>",
-                "en": "<div>Code <b>MAYSALE10</b> applied! Enjoy extra <b>10%</b> off tours</div>",
-                "fr": "<div>Code <b>MAYSALE10</b> appliqué! Profitez de <b>10%</b> de réduction sur les visites</div>"
-            },
-            "promo_html_reserva":{
-                "es": "<div>Aplica <b>MAYSALE10</b> y obtén <b>10%</b> de dto. en tours en el siguiente paso</div>",
-                "en": "<div>Apply code <b>MAYSALE10</b> to get <b>10%</b> off tours in the next step</div>",
-                "fr": "<div>Appliquez le code <b>MAYSALE10</b> pour obtenir <b>10%</b> de réduction à l’étape suivante</div>"
-            },
-            "promo_html_reserva2":{
-                "es": "<div>¡Última oportunidad! Usa <b>MAYSALE10</b> y obtén <b>10%</b> de dto. en tours</div>",
-                "en": "<div>Last chance! Use code <b>MAYSALE10</b> for <b>10%</b> off tours</div>",
-                "fr": "<div>Dernière chance! Utilisez le code <b>MAYSALE10</b> pour <b>10%</b> de réduction</div>"
-            }
-        },
-		{
             "fecha_inicio": "2026-05-26",
             "fecha_fin": "2026-05-31",
             "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
@@ -147,41 +77,6 @@
     ],
 	"planet.nexustours.com":
     [
-		{
-            "fecha_inicio": "2026-05-18",
-            "fecha_fin": "2026-05-25",
-            "fondo_color": "linear-gradient(269deg, #2b0e32 0%, #4b1d50 50%, #7a39a3 100%)",
-            "cupon": {
-                "es": "MAYSALE10",
-                "en": "MAYSALE10",
-                "fr": "MAYSALE10"
-            },
-            "promo_html_login": {
-                "es": "<div>Regístrate y obtén un <b>5%</b> de dto. extra en tours y traslados</div>",
-                "en": "<div>Sign up and get an extra <b>5%</b> off tours and transfers</div>",
-                "fr": "<div>Inscrivez-vous et obtenez <b>5 %</b> de réduction sur tours et transferts</div>"
-            },
-            "promo_html_servicio": {
-                "es": "<div>Haz clic para activar 10% de dto. extra en tours con el código <b>MAYSALE10</b></div>",
-                "en": "<div>Click here to activate extra 10% off tours with code <b>MAYSALE10</b></div>",
-                "fr": "<div>Cliquez ici pour activer 10% extra de réduction avec le code <b>MAYSALE10</b></div>"
-            },
-            "promo_html_servicio_aplicada":{
-                "es": "<div>Código <b>MAYSALE10</b> aplicado. Disfruta extra <b>10%</b> de dto. en tours</div>",
-                "en": "<div>Code <b>MAYSALE10</b> applied! Enjoy extra <b>10%</b> off tours</div>",
-                "fr": "<div>Code <b>MAYSALE10</b> appliqué! Profitez de <b>10%</b> de réduction sur les visites</div>"
-            },
-            "promo_html_reserva":{
-                "es": "<div>Aplica <b>MAYSALE10</b> y obtén <b>10%</b> de dto. en tours en el siguiente paso</div>",
-                "en": "<div>Apply code <b>MAYSALE10</b> to get <b>10%</b> off tours in the next step</div>",
-                "fr": "<div>Appliquez le code <b>MAYSALE10</b> pour obtenir <b>10%</b> de réduction à l’étape suivante</div>"
-            },
-            "promo_html_reserva2":{
-                "es": "<div>¡Última oportunidad! Usa <b>MAYSALE10</b> y obtén <b>10%</b> de dto. en tours</div>",
-                "en": "<div>Last chance! Use code <b>MAYSALE10</b> for <b>10%</b> off tours</div>",
-                "fr": "<div>Dernière chance! Utilisez le code <b>MAYSALE10</b> pour <b>10%</b> de réduction</div>"
-            }
-        },
 		{
             "fecha_inicio": "2026-05-26",
             "fecha_fin": "2026-05-31",
@@ -222,7 +117,7 @@
 	"tours.riu.com":
     [
         {
-            "fecha_inicio": "2026-05-18",
+            "fecha_inicio": "2026-05-26",
             "fecha_fin": "2026-05-31",
             "fondo_color": "#E4002B",
             "cupon": {
@@ -259,41 +154,6 @@
     ],
     "sunwingexcursions.nexustours.com":
     [
-		{
-            "fecha_inicio": "2026-05-18",
-            "fecha_fin": "2026-05-25",
-            "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
-            "cupon": {
-                "es": "MAYSALE10",
-                "en": "MAYSALE10",
-                "fr": "MAYSALE10"
-            },
-            "promo_html_login": {
-                "es": "<div>Regístrate y obtén un <b>5%</b> de dto. extra en tours y traslados</div>",
-                "en": "<div>Sign up and get an extra <b>5%</b> off tours and transfers</div>",
-                "fr": "<div>Inscrivez-vous et obtenez <b>5 %</b> de réduction sur tours et transferts</div>"
-            },
-            "promo_html_servicio": {
-                "es": "<div>Haz clic para activar 10% de dto. extra en tours con el código <b>MAYSALE10</b></div>",
-                "en": "<div>Click here to activate extra 10% off tours with code <b>MAYSALE10</b></div>",
-                "fr": "<div>Cliquez ici pour activer 10% extra de réduction avec le code <b>MAYSALE10</b></div>"
-            },
-            "promo_html_servicio_aplicada":{
-                "es": "<div>Código <b>MAYSALE10</b> aplicado. Disfruta extra <b>10%</b> de dto. en tours</div>",
-                "en": "<div>Code <b>MAYSALE10</b> applied! Enjoy extra <b>10%</b> off tours</div>",
-                "fr": "<div>Code <b>MAYSALE10</b> appliqué! Profitez de <b>10%</b> de réduction sur les visites</div>"
-            },
-            "promo_html_reserva":{
-                "es": "<div>Aplica <b>MAYSALE10</b> y obtén <b>10%</b> de dto. en tours en el siguiente paso</div>",
-                "en": "<div>Apply code <b>MAYSALE10</b> to get <b>10%</b> off tours in the next step</div>",
-                "fr": "<div>Appliquez le code <b>MAYSALE10</b> pour obtenir <b>10%</b> de réduction à l’étape suivante</div>"
-            },
-            "promo_html_reserva2":{
-                "es": "<div>¡Última oportunidad! Usa <b>MAYSALE10</b> y obtén <b>10%</b> de dto. en tours</div>",
-                "en": "<div>Last chance! Use code <b>MAYSALE10</b> for <b>10%</b> off tours</div>",
-                "fr": "<div>Dernière chance! Utilisez le code <b>MAYSALE10</b> pour <b>10%</b> de réduction</div>"
-            }
-        },
 		{
             "fecha_inicio": "2026-05-26",
             "fecha_fin": "2026-05-31",
@@ -333,41 +193,6 @@
 	"princess.nexustours.com":
     [
 		{
-            "fecha_inicio": "2026-05-18",
-            "fecha_fin": "2026-05-25",
-            "fondo_color": "#f0a42b",
-            "cupon": {
-                "es": "MAYSALE10",
-                "en": "MAYSALE10",
-                "fr": "MAYSALE10"
-            },
-            "promo_html_login": {
-                "es": "<div>Regístrate y obtén un <b>5%</b> de dto. extra en tours y traslados</div>",
-                "en": "<div>Sign up and get an extra <b>5%</b> off tours and transfers</div>",
-                "fr": "<div>Inscrivez-vous et obtenez <b>5 %</b> de réduction sur tours et transferts</div>"
-            },
-            "promo_html_servicio": {
-                "es": "<div>Haz clic para activar 10% de dto. extra en tours con el código <b>MAYSALE10</b></div>",
-                "en": "<div>Click here to activate extra 10% off tours with code <b>MAYSALE10</b></div>",
-                "fr": "<div>Cliquez ici pour activer 10% extra de réduction avec le code <b>MAYSALE10</b></div>"
-            },
-            "promo_html_servicio_aplicada":{
-                "es": "<div>Código <b>MAYSALE10</b> aplicado. Disfruta extra <b>10%</b> de dto. en tours</div>",
-                "en": "<div>Code <b>MAYSALE10</b> applied! Enjoy extra <b>10%</b> off tours</div>",
-                "fr": "<div>Code <b>MAYSALE10</b> appliqué! Profitez de <b>10%</b> de réduction sur les visites</div>"
-            },
-            "promo_html_reserva":{
-                "es": "<div>Aplica <b>MAYSALE10</b> y obtén <b>10%</b> de dto. en tours en el siguiente paso</div>",
-                "en": "<div>Apply code <b>MAYSALE10</b> to get <b>10%</b> off tours in the next step</div>",
-                "fr": "<div>Appliquez le code <b>MAYSALE10</b> pour obtenir <b>10%</b> de réduction à l’étape suivante</div>"
-            },
-            "promo_html_reserva2":{
-                "es": "<div>¡Última oportunidad! Usa <b>MAYSALE10</b> y obtén <b>10%</b> de dto. en tours</div>",
-                "en": "<div>Last chance! Use code <b>MAYSALE10</b> for <b>10%</b> off tours</div>",
-                "fr": "<div>Dernière chance! Utilisez le code <b>MAYSALE10</b> pour <b>10%</b> de réduction</div>"
-            }
-        },
-		{
             "fecha_inicio": "2026-05-26",
             "fecha_fin": "2026-05-31",
             "fondo_color": "#f0a42b",
@@ -405,41 +230,6 @@
     ],
 	"eurostars.nexustours.com": 
     [
-		{
-            "fecha_inicio": "2026-05-18",
-            "fecha_fin": "2026-05-25",
-            "fondo_color": "#847648",
-            "cupon": {
-                "es": "MAYSALE10",
-                "en": "MAYSALE10",
-                "fr": "MAYSALE10"
-            },
-            "promo_html_login": {
-                "es": "<div>Regístrate y obtén un <b>5%</b> de dto. extra en tours y traslados</div>",
-                "en": "<div>Sign up and get an extra <b>5%</b> off tours and transfers</div>",
-                "fr": "<div>Inscrivez-vous et obtenez <b>5 %</b> de réduction sur tours et transferts</div>"
-            },
-            "promo_html_servicio": {
-                "es": "<div>Haz clic para activar 10% de dto. extra en tours con el código <b>MAYSALE10</b></div>",
-                "en": "<div>Click here to activate extra 10% off tours with code <b>MAYSALE10</b></div>",
-                "fr": "<div>Cliquez ici pour activer 10% extra de réduction avec le code <b>MAYSALE10</b></div>"
-            },
-            "promo_html_servicio_aplicada":{
-                "es": "<div>Código <b>MAYSALE10</b> aplicado. Disfruta extra <b>10%</b> de dto. en tours</div>",
-                "en": "<div>Code <b>MAYSALE10</b> applied! Enjoy extra <b>10%</b> off tours</div>",
-                "fr": "<div>Code <b>MAYSALE10</b> appliqué! Profitez de <b>10%</b> de réduction sur les visites</div>"
-            },
-            "promo_html_reserva":{
-                "es": "<div>Aplica <b>MAYSALE10</b> y obtén <b>10%</b> de dto. en tours en el siguiente paso</div>",
-                "en": "<div>Apply code <b>MAYSALE10</b> to get <b>10%</b> off tours in the next step</div>",
-                "fr": "<div>Appliquez le code <b>MAYSALE10</b> pour obtenir <b>10%</b> de réduction à l’étape suivante</div>"
-            },
-            "promo_html_reserva2":{
-                "es": "<div>¡Última oportunidad! Usa <b>MAYSALE10</b> y obtén <b>10%</b> de dto. en tours</div>",
-                "en": "<div>Last chance! Use code <b>MAYSALE10</b> for <b>10%</b> off tours</div>",
-                "fr": "<div>Dernière chance! Utilisez le code <b>MAYSALE10</b> pour <b>10%</b> de réduction</div>"
-            }
-        },
 		{
             "fecha_inicio": "2026-05-26",
             "fecha_fin": "2026-05-31",

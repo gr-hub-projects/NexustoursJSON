@@ -2,8 +2,8 @@
     "default": 
     [
 		{
-            "fecha_inicio": "2026-06-29",
-            "fecha_fin": "2026-07-05",
+            "fecha_inicio": "2026-07-06",
+            "fecha_fin": "2026-07-19",
             "fondo_color": "linear-gra6dient(90deg, #027DB2 0%, #5FAACA 100%)",
             "cupon": {
                 "es": "SUMMER10",
@@ -40,8 +40,8 @@
     "www.nexustours.com":
     [
 		{
-            "fecha_inicio": "2026-06-29",
-            "fecha_fin": "2026-07-05",
+            "fecha_inicio": "2026-07-06",
+            "fecha_fin": "2026-07-19",
             "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
             "cupon": {
                 "es": "SUMMER10",
@@ -78,8 +78,8 @@
 	"planet.nexustours.com":
     [
 		{
-            "fecha_inicio": "2026-06-29",
-            "fecha_fin": "2026-07-05",
+            "fecha_inicio": "2026-07-06",
+            "fecha_fin": "2026-07-19",
             "fondo_color": "linear-gradient(269deg, #2b0e32 0%, #4b1d50 50%, #7a39a3 100%)",
             "cupon": {
                 "es": "SUMMER10",
@@ -117,8 +117,8 @@
 	"tours.riu.com":
     [
         {
-            "fecha_inicio": "2026-06-29",
-            "fecha_fin": "2026-07-05",
+            "fecha_inicio": "2026-07-06",
+            "fecha_fin": "2026-07-19",
             "fondo_color": "#E4002B",
             "cupon": {
                 "es": "RIUCLASS",
@@ -155,8 +155,8 @@
     "sunwingexcursions.nexustours.com":
     [
 		{
-            "fecha_inicio": "2026-06-29",
-            "fecha_fin": "2026-07-05",
+            "fecha_inicio": "2026-07-06",
+            "fecha_fin": "2026-07-19",
             "fondo_color": "linear-gradient(269deg, #FD921E 0.59%, #FF621D 45.74%, #E73A4E 91.85%)",
             "cupon": {
                 "es": "SUMMER10",
@@ -193,8 +193,8 @@
 	"princess.nexustours.com":
     [
 		{
-            "fecha_inicio": "2026-06-29",
-            "fecha_fin": "2026-07-05",
+            "fecha_inicio": "2026-07-06",
+            "fecha_fin": "2026-07-19",
             "fondo_color": "#f0a42b",
             "cupon": {
                 "es": "SUMMER10",
@@ -231,8 +231,8 @@
 	"eurostars.nexustours.com": 
     [
 		{
-            "fecha_inicio": "2026-06-29",
-            "fecha_fin": "2026-07-05",
+            "fecha_inicio": "2026-07-06",
+            "fecha_fin": "2026-07-19",
             "fondo_color": "#847648",
             "cupon": {
                 "es": "SUMMER10",
